@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.354" height="17.393" viewBox="0 0 24.354 17.393">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#06a3ae"/>
+            <stop offset="1" stop-color="#008696"/>
+        </linearGradient>
+        <style>
+            .cls-1{fill:url(#linear-gradient)}
+        </style>
+    </defs>
+    <g id="credit-card_2_" transform="translate(0 -68.3)">
+        <g id="Group_726" transform="translate(0 68.3)">
+            <g id="Group_725">
+                <path id="Path_450" d="M21.74 68.3H2.609A2.608 2.608 0 0 0 0 70.909v1.738h24.349v-1.738A2.608 2.608 0 0 0 21.74 68.3z" class="cls-1" transform="translate(0 -68.3)"/>
+            </g>
+        </g>
+        <g id="Group_728" transform="translate(0 77.865)">
+            <g id="Group_727" transform="translate(0 0)">
+                <path id="Path_451" d="M0 256v5.218a2.608 2.608 0 0 0 2.609 2.609h19.136a2.608 2.608 0 0 0 2.609-2.609V256zm20 3.476h-3.478a.871.871 0 1 1 0-1.743H20a.871.871 0 1 1 0 1.743z" class="cls-1" transform="translate(0 -256)"/>
+            </g>
+        </g>
+        <g id="Group_730" transform="translate(0 74.385)">
+            <g id="Group_729" transform="translate(0 0)">
+                <path id="Rectangle_787" d="M0 0H24.354V1.738H0z" class="cls-1"/>
+            </g>
+        </g>
+    </g>
+</svg>

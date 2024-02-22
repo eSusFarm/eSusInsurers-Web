@@ -1,0 +1,233 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>ESusInsurers</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link href="https://cdn.syncfusion.com/ej2/material.css" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500&amp;display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&amp;display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/intro.js/2.7.0/introjs.min.css">
+  <link rel="manifest" href="manifest.webmanifest">
+  <meta name="theme-color" content="#1976d2">
+</head>
+
+<body id="auindexbody" class="hold-transition sidebar-mini">
+  <app-root></app-root>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/intro.js/2.7.0/intro.min.js"></script>
+  <style>
+    .sidebar-mini.sidebar-collapse .main-sidebar {
+      width: 48px;
+    }
+
+    .sidebar-mini.sidebar-collapse .content-wrapper,
+    .sidebar-mini.sidebar-collapse .right-side,
+    .sidebar-mini.sidebar-collapse .main-footer {
+      margin-left: 50px !important;
+      z-index: 840;
+    }
+
+    .sidebar-mini.sidebar-collapse .main-header {
+      margin-left: 50px;
+    }
+
+    .sidebar-mini.sidebar-collapse .nav-link p {
+      display: none !important;
+    }
+
+    .sidebar-mini.sidebar-collapse .nav-link {
+      padding: 0.5rem 0rem;
+    }
+
+    .sidebar-mini.sidebar-collapse .logo-min {
+      margin-left: 0px;
+    }
+
+    .sidebar-mini.sidebar-collapse .toggle-img {
+      margin-left: 8px;
+    }
+
+    .sidebar-mini.sidebar-collapse .brand-link {
+      display: contents;
+    }
+  </style>
+
+  <script>
+    /*scroll to*/
+    $(document).ready(function () {
+      $("#toTop").css("display", "none");
+      $(window).scroll(function () {
+        if ($(window).scrollTop() > 1000) {
+          $("#toTop").fadeIn("slow");
+        }
+        else {
+          $("#toTop").fadeOut("slow");
+        }
+      });
+
+      $("#toTop").click(function () {
+        event.preventDefault();
+        $("html, body").animate({
+          scrollTop: 0
+        }, "slow");
+
+      });
+    });
+    /*scroll top end*/
+
+
+    /*:::::::::::::::::
+sticky header js start
+:::::::::::::::::*/
+
+    $(function () {
+      var shrinkHeader = 30;
+      $(window).scroll(function () {
+        var scroll = getCurrentScroll();
+        if (scroll >= shrinkHeader) {
+          $('.header-main').addClass('sticky_header');
+
+        }
+        else {
+          $('.header-main').removeClass('sticky_header');
+        }
+      });
+      function getCurrentScroll() {
+        return window.pageYOffset || document.documentElement.scrollTop;
+      }
+    });
+
+    /*:::::::::::::::::
+       sticky header js end
+    :::::::::::::::::*/</script>
+
+  <script>
+
+    $(document).ready(function () {
+
+      $("#news-slider10").owlCarousel({
+        items: 4,
+        itemsDesktop: [1199, 3],
+        itemsDesktopSmall: [980, 2],
+        itemsMobile: [600, 1],
+        navigation: true,
+        navigationText: ["", ""],
+        pagination: true,
+        autoPlay: false
+      });
+
+      $("#news-slider11").owlCarousel({
+        items: 4,
+        itemsDesktop: [1199, 3],
+        itemsDesktopSmall: [980, 2],
+        itemsMobile: [600, 1],
+        pagination: true,
+        autoPlay: false
+      });
+
+      $("#news-slider12").owlCarousel({
+        items: 2,
+        itemsDesktop: [1199, 2],
+        itemsDesktopSmall: [980, 1],
+        itemsTablet: [600, 1],
+        itemsMobile: [550, 1],
+        pagination: true,
+        autoPlay: false
+      });
+
+      $("#news-slider13").owlCarousel({
+        navigation: false,
+        pagination: true,
+        items: 3,
+        itemsDesktop: [1199, 3],
+        itemsDesktopSmall: [980, 2],
+        itemsMobile: [600, 1],
+        navigationText: ["", ""]
+      });
+
+      $("#news-slider14").owlCarousel({
+        items: 4,
+        itemsDesktop: [1199, 3],
+        itemsDesktopSmall: [980, 2],
+        itemsMobile: [550, 1],
+        pagination: false,
+        autoPlay: false
+      });
+    });
+  </script>
+
+  <script>
+    var slideIndex = 1;
+    showSlides(slideIndex);
+
+    function plusSlides(n) {
+      slideIndex = Number(localStorage.getItem("slideIndex"));
+      var updatedSlideIndex = slideIndex += n;
+      localStorage.setItem("slideIndex", updatedSlideIndex);
+      showSlides(updatedSlideIndex);
+    }
+
+    function currentSlide(n) {
+      showSlides(slideIndex = n);
+    }
+
+    function showSlides(n) {
+      var i;
+      var slides = document.getElementsByClassName("mySlides");
+      //var dots = document.getElementsByClassName("dot");
+      if (n > slides.length) {
+        localStorage.setItem("slideIndex", "1");
+        slideIndex = Number(localStorage.getItem("slideIndex"));
+      }
+      if (n < 1) {
+        localStorage.setItem("slideIndex", slides.length);
+        slideIndex = Number(localStorage.getItem("slideIndex"));
+      }
+      for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";
+      }
+      if (slides.length != 0) {
+        slides[slideIndex - 1].style.display = "block";
+      }
+    }
+  </script>
+
+  <script>
+    $(".mini img").click(function () {
+
+      $(".maxi").attr("src", $(this).attr("src").replace("100x100", "400x400"));
+
+    });
+  </script>
+
+  <script>
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-203929729-1', 'auto');
+
+  </script>
+
+  <div class="ui-widget-overlay ui-dialog-mask" style="z-index: 6001; display:none;"></div>
+
+  <noscript>Please enable JavaScript to continue using this application.</noscript>
+</body>
+
+</html>

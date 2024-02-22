@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="shopping-basket" width="17.722" height="17.722" viewBox="0 0 17.722 17.722">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <g id="Group_534" transform="translate(0 4.431)">
+        <g id="Group_533">
+            <path id="Path_391" d="M16.616 128H.371a.369.369 0 0 0 0 .738h16.245a.369.369 0 0 0 0-.738z" class="cls-1" transform="translate(-.002 -128.004)"/>
+        </g>
+    </g>
+    <g id="Group_536" transform="translate(4.431)">
+        <g id="Group_535">
+            <path id="Path_392" d="M131.531.068a.369.369 0 0 0-.512.1L128.066 4.6a.369.369 0 0 0 .1.512.369.369 0 0 0 .512-.1L131.634.58a.369.369 0 0 0-.103-.512z" class="cls-1" transform="translate(-128.004 -.006)"/>
+        </g>
+    </g>
+    <g id="Group_538" transform="translate(8.86)">
+        <g id="Group_537">
+            <path id="Path_393" d="M259.613 4.6L256.659.165a.369.369 0 0 0-.614.409L259 5a.369.369 0 0 0 .308.165.361.361 0 0 0 .2-.062.369.369 0 0 0 .105-.503z" class="cls-1" transform="translate(-255.983)"/>
+        </g>
+    </g>
+    <g id="Group_540" transform="translate(.739 4.431)">
+        <g id="Group_539">
+            <path id="Path_394" d="M36.772 128.149a.369.369 0 0 0-.293-.145H21.711a.369.369 0 0 0-.356.466l1.918 7.034a1.849 1.849 0 0 0 1.78 1.361h4.1a.37.37 0 0 0 .366-.317 4.777 4.777 0 0 1 5.83-3.984.368.368 0 0 0 .44-.262l1.045-3.831a.37.37 0 0 0-.062-.322z" class="cls-1" transform="translate(-21.342 -128.004)"/>
+        </g>
+    </g>
+    <g id="Group_542" transform="translate(9.599 9.599)">
+        <g id="Group_541">
+            <path id="Path_395" d="M281.4 277.337a4.061 4.061 0 1 0 4.061 4.061 4.066 4.066 0 0 0-4.061-4.061zm1.477 4.43h-1.108v1.108a.369.369 0 0 1-.738 0v-1.108h-1.111a.369.369 0 1 1 0-.738h1.108v-1.108a.369.369 0 0 1 .738 0v1.108h1.108a.369.369 0 0 1 0 .738z" class="cls-1" transform="translate(-277.336 -277.337)"/>
+        </g>
+    </g>
+</svg>

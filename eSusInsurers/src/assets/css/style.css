@@ -1,0 +1,9945 @@
+.sidebar-mini {
+  background-color: #ebeef4 !important;
+}
+::ng-deep .mat-pseudo-checkbox-checked,
+.mat-pseudo-checkbox-indeterminate,
+.mat-accent .mat-pseudo-checkbox-checked,
+.mat-accent .mat-pseudo-checkbox-indeterminate {
+  background: #554a4a !important;
+}
+::ng-deep .p-toast-top-right {
+  z-index: 9999 !important;
+}
+::ng-deep .p-dialog .p-dialog-header {
+  border-bottom: none !important;
+}
+::ng-deep .p-dialog .p-dialog-footer {
+  border-top: none !important;
+}
+::ng-deep .introjs-helperLayer {
+  background-color: transparent !important;
+}
+::ng-deep .mat-calendar-table-header {
+  color: #000;
+  background: white !important;
+}
+::ng-deep .mat-datepicker-content {
+  background-color: #fff !important;
+  color: #000 !important;
+}
+::ng-deep .mat-calendar-body-label {
+  color: #000;
+}
+::ng-deep .mat-calendar-body-cell-content {
+  color: #000 !important;
+}
+::ng-deep .mat-calendar-body-disabled>.mat-calendar-body-cell-content:not(.mat-calendar-body-selected):not(.mat-calendar-body-comparison-identical){
+  color: rgba(0,0,0,.38) !important;
+}
+
+::ng-deep .mat-calendar-body-selected {
+  background-color: #ffff !important;
+  border: 1px solid gray !important;
+}
+::ng-deep .ui-widget-overlay {
+  z-index: 6001;
+  background-color: rgba(0, 0, 0, 0.4);
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.menu-icon {
+  width: 15px;
+  height: 22px;
+}
+.mar-top-20 {
+  margin-top: 20px;
+}
+.Manage-users-tbl-c-dnone td:nth-of-type(1) {
+  display: none;
+  padding: 0px;
+  border: 0px;
+}
+
+.manageprograms_table-c-dnone td:nth-of-type(1) {
+  display: none;
+  padding: 0px;
+  border: 0px;
+}
+
+.manage-farmers-tbl-c-dnone td:nth-of-type(1) {
+  display: none;
+  padding: 0px;
+  border: 0px;
+}
+
+.manage-farmers-crops-tbl-c-dnone td:nth-of-type(1) {
+  display: none;
+  padding: 0px;
+  border: 0px;
+}
+
+.manage-supplier-tbl-c-dnone td:nth-of-type(1) {
+  display: none;
+  padding: 0px;
+  border: 0px;
+}
+
+.manage-buyers-table-c-dnone td:nth-of-type(1) {
+  display: none;
+  padding: 0px;
+  border: 0px;
+}
+
+.supplier-equipment-tbl-c-dnone td:nth-of-type(1) {
+  display: none;
+  padding: 0px;
+  border: 0px;
+}
+
+/*CUSTOM STYLES STARTS HERE */
+.anchor-link {
+  text-decoration: underline;
+}
+
+.mr-l-5 {
+  margin-left: 5px;
+}
+
+.blk-register-btn {
+  text-align: right;
+}
+
+.mb-btn-xs {
+  margin-bottom: 25px;
+}
+
+#menuToggle {
+  display: none;
+}
+
+.file-upload-btn {
+  background-color: #ffffff !important;
+  color: #61a734 !important;
+  font-size: 12px !important;
+}
+
+.upload-in {
+  padding: 5px 0px !important;
+}
+
+.pop-up-body p {
+  text-transform: uppercase;
+}
+
+.label-text {
+  color: #9194a6 !important;
+  text-transform: capitalize !important;
+}
+.cross-icon {
+  top: 60px !important;
+  left: 70% !important;
+}
+
+.trac-regi-cross {
+  position: absolute !important;
+  top: 45px;
+  left: 44%;
+  z-index: 99;
+}
+
+.link-circle {
+  position: absolute;
+}
+
+.clearAll_link {
+  float: left;
+  position: relative;
+  top: 37px;
+  left: 10px;
+  font-size: 11px;
+}
+
+.text-align {
+  text-align: center;
+}
+
+.toggle-section {
+  width: 26%;
+}
+
+.padding-lnk {
+  padding: 8px 10px;
+}
+
+.esus-signin {
+  float: left;
+  margin-right: 20px;
+}
+
+.ytp-cued-thumbnail-overlay-image {
+  background-size: 100% 100% !important;
+}
+
+.eSusGlHeader .navbar-brand {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.btn.btnc-lg {
+  padding: 15px 28px;
+}
+
+.addprogram-btn {
+  margin-top: 29px;
+}
+
+.addprogram-wrap {
+  border: 1px solid #ced4da;
+  padding: 4px;
+}
+
+::ng-deep .cdk-overlay-pane {
+  min-width: 20% !important;
+}
+/*::ng-deep .mat-option-text {
+    display: inline-block;
+    flex-grow: 1;
+    overflow: hidden;
+    text-overflow: initial !important;
+    white-space: break-spaces !important;
+    line-height: 18px;
+    margin-left: 5px;
+}*/
+/*.form-control {
+    height: 50px !important;
+}*/
+.font-awsome-icon {
+  font-size: 15px;
+}
+
+.programnames-display-sestion {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  color: #9194a6;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 12px !important;
+}
+
+.displaycountry {
+  width: 100%;
+  text-align: right;
+  right: 50px;
+  top: 4px;
+}
+
+.country-img {
+  cursor: pointer;
+}
+
+img.country-img {
+  width: 20px;
+  height: 20px;
+  margin-left: 0px;
+}
+
+::ng-deep .mat-option.mat-active {
+  background: #fff;
+  color: black;
+}
+
+.page-title {
+  width: 100%;
+}
+
+.displaycountry {
+  width: 100%;
+  text-align: right;
+}
+
+::ng-deep .mat-option:focus:not(.mat-option-disabled),
+.mat-option:hover:not(.mat-option-disabled) {
+  background: #fff;
+  color: #000;
+}
+
+::ng-deep .mat-option {
+  color: #000000;
+}
+
+::ng-deep .mat-autocomplete-panel {
+  background: #ffffff;
+  color: #000000;
+}
+
+::ng-deep .multiselect-dropdown {
+  height: 40px;
+}
+/*.td-second-row{
+padding-left:6px;
+
+}*/
+.form-control.is-invalid {
+  padding-right: 4px !important;
+}
+
+.toast-msg {
+  border: 1px solid;
+  background-color: lightcyan;
+  padding: 10px 10px;
+  color: green;
+}
+
+.manage-order-btn {
+  padding: 5px 8px !important;
+  background-color: transparent !important;
+  border: 1px solid #61a734 !important;
+  color: #61a734 !important;
+  text-transform: uppercase;
+  font-size: 10px !important;
+}
+
+.manage-order-btn:hover {
+  padding: 5px 8px !important;
+  background-color: #61a734 !important;
+  border: 1px solid #61a734 !important;
+  color: #fff !important;
+  text-transform: uppercase;
+}
+
+.icon-no {
+  color: #dc3545 !important;
+}
+
+.toggle-icon {
+  float: left;
+}
+
+.modal-dialog.right-popup {
+  transform: translate(0, 0);
+  align-items: stretch;
+  -webkit-box-align: stretch;
+  height: 100%;
+  margin: 0px !important;
+  float: right !important;
+}
+
+.smalltxt {
+  color: #696969;
+  font-size: 11px;
+}
+
+.smalltxt a {
+  color: #007bff;
+  font-size: 11px;
+  text-decoration: underline;
+}
+
+.smalltxt a:hover {
+  text-decoration: none;
+}
+
+.bulksms-card {
+  background-color: white;
+}
+
+.input-text-area {
+  font-size: 14px !important;
+}
+
+::ng-deep .mat-select-value {
+  color: #495057 !important;
+}
+
+::ng-deep.mat-select-placeholder {
+  color: #757677 !important;
+}
+
+.cell-breakWord {
+  word-wrap: break-word;
+  max-width: 1px;
+}
+
+.bulk-text {
+  background: #fff;
+  border-radius: 2px;
+  height: auto;
+  margin: 1rem;
+  position: relative;
+}
+
+.list-of-numbers {
+  float: left;
+  margin-right: -4px;
+  width: 100%;
+}
+
+.bulk-text2 {
+  background: #fff;
+  border-radius: 2px;
+  margin: 1rem;
+  position: relative;
+}
+
+.card-1 {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+/*.blk-register-btn {
+    margin-top: 20px;
+  
+}*/
+.btn.user-registr-btn {
+  /*  padding: 3px 5px;*/
+  font-size: 14px;
+}
+
+.bulk-sms-header {
+  text-transform: capitalize;
+  font-size: 16px;
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+.add-mbl-section p {
+  text-align: center;
+  /* position: relative; */
+  /* top: 50%; */
+  padding-top: 40px;
+  font-size: 14px;
+  color: #808080c9;
+  margin: 0px 7px;
+}
+
+.registred-mblnbr {
+  width: 100%;
+  padding: 5px 15px;
+}
+
+.text-label {
+  font-weight: 400 !important;
+  text-transform: capitalize;
+  font-size: 14px;
+}
+
+.navbar-white {
+  min-height: 60px;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1260px;
+  }
+}
+
+::ng-deep .ui-toast-message-content {
+  padding: 23px !important;
+}
+
+::ng-deep .input-group > .custom-file:focus,
+.input-group > .custom-select:focus,
+.input-group > .form-control:focus {
+  z-index: auto;
+}
+
+.popup-toast-msge {
+  font-size: 15px !important;
+}
+
+.fa-exclamation-triangle.excl-tri {
+  font-size: 30px;
+  padding-bottom: 10px;
+}
+
+thead {
+  background: #eef0f3;
+}
+
+.blocks {
+  margin-bottom: 50px;
+}
+/*login styles*/
+.heading-margin {
+  margin-bottom: 10px !important;
+}
+
+.txt-trans-none {
+  text-transform: none !important;
+}
+
+.login-reltv {
+  position: relative;
+}
+.img-nt-av {
+  background-color: #f2f6fc;
+  padding: 20px;
+  width: 100%;
+  max-height: 135px;
+  text-align: center;
+}
+.img-nt-av img {
+  width: 100px;
+}
+
+.login-abslt {
+  position: absolute;
+  top: 11px;
+  color: #ccc;
+  cursor: pointer;
+  text-align: end;
+  right: 14px;
+}
+
+.input-group-text {
+  background-color: #fff !important;
+}
+
+.login-page {
+  background-image: url("../login-img.png") !important;
+  background-size: cover !important;
+  height: 179px !important;
+  padding: 0px 0px 0px 0px !important;
+  padding-top: 0px !important;
+  min-height: 60px !important;
+}
+
+.changepswd-form {
+  margin: 0px auto !important;
+}
+
+.content-wrapper {
+  min-height: calc(100vh - calc(3.5rem + 1px) - calc(3.5rem + 1px));
+}
+
+.login-form {
+  background-color: #fff;
+  /* border-top: 15px solid #000; */
+  padding: 40px 40px 60px 40px !important;
+  border-radius: 5px;
+  width: 34%;
+  box-shadow: 1px 1px 5px 0 rgba(0, 0, 0, 0.4);
+  margin: 40px auto;
+}
+
+.registration-form {
+  width: 100% !important;
+  margin: 0px !important;
+  padding: 15px !important;
+}
+/*end here*/
+/*about-us*/
+section.tabs {
+  margin-bottom: 60px;
+  margin-top: 40px;
+}
+
+.homee-padding {
+  background-color: #fff;
+  /* padding: 60px 40px 90px 40px!important; */
+  /* box-shadow: 1px 1px 5px 0 rgba(0, 0, 0, 0.4); */
+}
+
+.no-orders-found {
+  font-size: 14px;
+  padding: 15px;
+}
+
+.about-color {
+  margin-top: 20px;
+  color: #969692;
+  font-weight: 500;
+}
+/*role-selection*/
+.roselection-page {
+  background-image: url("../rol-selection-img.png") !important;
+  background-size: cover !important;
+  height: 370px !important;
+  padding: 0px 0px 40px 0px !important;
+  padding-top: 78px !important;
+  min-height: 60px !important;
+}
+
+label {
+  font-size: 12px !important;
+  font-weight: 500 !important;
+}
+
+/* MARGIN AND PADDINGS*/
+.margin-top-5 {
+  margin-top: 5px;
+}
+
+.margin-5-px {
+  margin: 5px;
+}
+
+.mar-lft-10 {
+  margin-left: 10px;
+}
+
+.mar-lft-40 {
+  margin-left: 40px;
+}
+
+.mar-lft_40 {
+  margin-left: -40px;
+}
+
+.mar-lft-13 {
+  margin-left: 13px;
+}
+
+.mar-right-10 {
+  margin-right: 10px;
+}
+
+.mar-lft-3 {
+  margin-left: 3px;
+}
+
+.margin-btm-15 {
+  margin-bottom: 15px;
+}
+
+.margin-top-10 {
+  margin-top: 10px;
+}
+
+.margin-top-15 {
+  margin-top: 15px;
+}
+
+.margin-top-20 {
+  margin-top: 20px;
+}
+
+.margin-top-30 {
+  margin-top: 30px;
+}
+
+.margin-right-10 {
+  margin-right: 10px;
+}
+
+.margin-right-20 {
+  margin-right: 10px;
+}
+
+.padding-rl-5 {
+  padding-left: 15px;
+  padding-right: 0px;
+}
+
+.padd-right-0 {
+  padding-right: 0px !important;
+}
+
+.padd-left-0 {
+  padding-left: 0px !important;
+}
+
+.padd-right-5 {
+  padding-right: 5px !important;
+}
+
+.padd-left-5 {
+  padding-left: 5px !important;
+}
+
+h1 {
+  font-weight: 600 !important;
+}
+
+h3 {
+  font-weight: 600 !important;
+  font-size: 18px !important;
+}
+.input-group-prepend {
+  margin-right: -1px;
+  display: contents;
+}
+
+body {
+  font-size: 14px !important;
+}
+/* MARGIN AND PADDINGS*/
+/*CUSTOM STYLES ENDS HERE */
+:root {
+  --blue: #007bff;
+  --indigo: #6610f2;
+  --purple: #6f42c1;
+  --pink: #e83e8c;
+  --red: #dc3545;
+  --orange: #fd7e14;
+  --yellow: #ffc107;
+  --green: #28a745;
+  --teal: #20c997;
+  --cyan: #17a2b8;
+  --white: #fff;
+  --gray: #6c757d;
+  --gray-dark: #343a40;
+  --primary: #007bff;
+  --secondary: #6c757d;
+  --success: #28a745;
+  --info: #17a2b8;
+  --warning: #ffc107;
+  --danger: #dc3545;
+  --light: #f8f9fa;
+  --dark: #343a40;
+  --breakpoint-xs: 0;
+  --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1200px;
+  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New", monospace;
+}
+
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Roboto", sans-serif !important;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+.btn {
+  border-radius: 2px !important;
+}
+
+.btn-lg {
+  padding: 15px 35px;
+}
+
+.btn.btn-primary {
+  background-color: #61a734;
+  border: 1px solid #61a734;
+  font-size: 13px;
+  border-radius: 2px !important;
+  padding: 8px 20px !important;
+  text-transform: capitalize;
+}
+
+.btn.btn-primary:hover {
+  background-color: #61a734;
+  border: 1px solid #61a734;
+}
+
+.btn-outline-danger {
+  padding: 8px 20px;
+}
+
+.btn-primary.focus,
+.btn-primary:focus {
+  box-shadow: inherit !important;
+}
+
+.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary:not(:disabled):not(.disabled):active,
+.show > .btn-primary.dropdown-toggle {
+  color: #fff;
+  background-color: #61a734 !important;
+  border-color: #61a734 !important;
+}
+
+/*header home page*/
+.header-inner {
+  background-image: none !important;
+}
+
+.sticky_header {
+  background: #fff;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+  -webkit-box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 8px 6px -6px rgba(0, 0, 0, 0.5);
+  margin-top: 0px;
+}
+
+.sticky_header .download-app span {
+  color: #1a1b3a;
+}
+
+.sticky_header .nav-link {
+  color: #1a1b3a !important;
+}
+
+.sticky_header .call-now-text {
+  color: #1a1b3a;
+}
+
+.sticky_header .sticky-logo {
+  display: inline-block;
+}
+
+.sticky_header .default-logo {
+  display: none;
+}
+
+.sticky-logo {
+  display: none;
+}
+
+/* .navbar {
+   padding: 0px;  padding-top: 10px;
+} */
+
+.main-heading {
+  width: 100%;
+  margin-top: 12%;
+  margin-bottom: 12%;
+}
+
+.main-heading p {
+  color: #ffffff;
+  margin-bottom: 40px;
+  font-size: 26px;
+}
+
+.header-home-page {
+  background-image: url("/main-banner.png");
+  background-size: 100% 100%;
+  padding: 0px 0px 0px 0px;
+  padding-top: 100px !important;
+  min-height: 800px;
+  background-repeat: no-repeat;
+}
+
+.header-home-page .navbar-light .navbar-nav .nav-link {
+  color: #ffffff;
+  text-transform: uppercase;
+  font-size: 14px;
+  padding: 0px 13px;
+  line-height: 18px;
+  font-weight: 500;
+}
+
+.header-home-page .dropdown-item {
+  font-size: 13px;
+  line-height: 20px;
+}
+
+.header-home-page .navbar-light .navbar-nav .nav-item {
+  border-right: 2px solid #707070;
+}
+
+.nav-link img {
+  float: right;
+  margin-top: 7px;
+  width: 100%;
+  max-width: 20px;
+  max-height: 20px;
+}
+
+/*.header-home-page .navbar-light .navbar-nav .nav-item:last-child{ border-right: 0px;}*/
+.customertext {
+  float: right;
+  line-height: 12px;
+  padding-left: 5px;
+}
+
+.customertext {
+  font-size: 22px;
+  font-weight: bold;
+  text-align: left;
+  line-height: 22px;
+  color: #2b81d8;
+}
+
+.cinfo {
+  font-size: 12px;
+  /* font-weight: bold; */
+  text-align: right;
+  margin-bottom: 0px;
+  line-height: 12px;
+}
+
+.call-now-text {
+  float: right;
+  margin-left: 10px;
+  color: #ffffff;
+}
+
+.cnumber {
+  font-size: 13px !important;
+  margin-bottom: 0px;
+  line-height: 12px;
+  margin-top: 5px;
+}
+
+.customer-support {
+  margin-left: 18px;
+  font-weight: 500;
+}
+
+.phone-icon {
+  float: left;
+}
+
+/*download app*/
+.download-app {
+  margin-left: 15px;
+  line-height: 0;
+}
+
+.download-app span {
+  font-size: 14px;
+  color: #ffffff;
+  margin-right: 10px;
+}
+
+.download-app a img {
+  border-right: 2px solid #707070;
+  padding: 0px 10px;
+}
+
+.download-app a:last-child {
+  border-right: 0;
+}
+/*download app end*/
+.login_btn {
+  border-radius: 100px !important;
+  padding: 10px 20px 10px 20px;
+}
+
+.home-regi {
+  font-size: 12px !important;
+  top: -10px !important;
+  right: 5px !important;
+}
+/*header home page end*/
+
+/*our advantages*/
+.main-body-corosal {
+  height: 240px;
+}
+
+.our-advantages {
+  background-image: url("../our-advantages.jpg");
+  padding-bottom: 40px;
+  padding-top: 40px;
+  background-size: cover !important;
+}
+
+.section-heading {
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 25px !important;
+}
+
+.sign-up-link {
+  font-size: 13px;
+  margin-top: 10px;
+}
+
+.sign-up-link a {
+  font-size: 13px;
+}
+
+.our-advantages .section-heading h1 {
+  margin-top: 20px;
+  color: #ffffff;
+  margin-bottom: 40px;
+}
+
+.section-heading h1 {
+  margin-top: 0px;
+  font-size: 22px;
+  margin-top: 10px;
+  text-transform: uppercase;
+}
+
+.post-heading {
+  background-color: #0d1931;
+  padding: 15px 10px;
+  text-align: center;
+  border-radius: 5px 5px 0px 0px;
+  margin-bottom: 15px;
+  height: 60px;
+  line-height: 60px;
+}
+
+.btn {
+  font-size: 12px !important;
+}
+
+.post-heading h1 {
+  font-size: 14px;
+  color: #ffffff;
+  margin-bottom: 0px;
+  font-weight: 400 !important;
+}
+
+.border-btm {
+  border-bottom: 1px solid #f5f5f5;
+  padding-bottom: 15px !important;
+}
+
+.border-btm_2 {
+  border-bottom: 1px solid #f5f5f5;
+  padding-bottom: 20px !important;
+}
+
+.post-btm-points img {
+  width: auto !important;
+}
+
+.post-btm-points .pbp1 {
+  background-color: #45d377;
+}
+
+.post-btm-points .pbp2 {
+  background-color: #73de99;
+}
+
+.post-btm-points .pbp3 {
+  background-color: #a2e9bb;
+}
+
+.post-btm-points div {
+  padding: 12px 15px;
+  margin-bottom: 1px;
+}
+
+.post-btm-points h4 {
+  text-align: center;
+  font-size: 16px;
+  color: #acbcdb;
+  font-weight: 500;
+}
+
+/*our advantages end*/
+
+/******************  News Slider Demo-10 *******************/
+/* .owl-controls {
+   display: none!important; 
+} */
+
+.post-slide10 {
+  padding-bottom: 0px;
+  margin: 0 2px;
+  position: relative;
+  background: #fff !important;
+  box-shadow: 0 1px 2px rgba(43, 59, 93, 0.3);
+  margin-bottom: 0em;
+  border-radius: 5px 5px 5px 5px;
+  border-bottom: 5px solid #61a734;
+}
+
+.post-slide10 img {
+  width: 100%;
+  height: auto;
+  margin-right: 10px;
+}
+
+.post-slide10 .post-date {
+  position: absolute;
+  top: 2%;
+  left: 8%;
+  padding: 3% 5%;
+  background: #e74c3c;
+}
+
+.post-slide10 .month {
+  font-size: 14px;
+  color: #fff;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.post-slide10 .month:after {
+  content: "";
+  display: block;
+  border: 1px solid #fff;
+}
+
+.post-slide10 .date {
+  font-size: 14px;
+  color: #fff;
+  display: block;
+  text-align: center;
+  font-weight: bold;
+}
+
+.post-slide10 .post-title {
+  margin: 25px 0 15px 0;
+}
+
+.post-slide10 .post-title a {
+  font-size: 15px;
+  font-weight: bold;
+  color: #333;
+  padding: 0px 15px;
+  display: inline-block;
+  text-transform: uppercase;
+  transition: all 0.3s ease 0s;
+}
+
+.post-slide10 .post-title a:hover {
+  text-decoration: none;
+  color: #e74c3c;
+}
+
+.post-slide10 .post-description {
+  font-size: 14px;
+  line-height: 20px;
+  color: #808080;
+  padding: 0px 15px;
+  text-align: center;
+}
+
+.post-slide10 .read-more {
+  color: #333;
+  padding: 0px 15px;
+  text-transform: capitalize;
+  transition: color 0.2s linear;
+}
+
+.post-slide10 .read-more i {
+  margin-left: 10px;
+  font-size: 10px;
+}
+
+.post-slide10 .read-more:hover {
+  text-decoration: none;
+  color: #e74c3c;
+}
+
+.insta {
+  width: 30px;
+}
+
+.owl-controls .owl-buttons {
+  margin-top: 20px;
+}
+
+.owl-controls .owl-prev {
+  position: absolute;
+  left: -20px;
+  bottom: 50%;
+  transform: translateY(-50%);
+  padding: 8px 17px !important;
+  background: #333;
+  transition: background 0.5s ease;
+}
+
+.owl-controls .owl-next {
+  position: absolute;
+  right: -25px;
+  bottom: 50%;
+  transform: translateY(-50%);
+  padding: 8px 17px !important;
+  background: #333;
+  transition: background 0.5s ease;
+}
+
+.owl-controls .owl-prev:after,
+.owl-controls .owl-next:after {
+  content: "\f104";
+  font-family: FontAwesome;
+  color: #d3d3d3;
+  font-size: 16px;
+}
+
+.owl-controls .owl-next:after {
+  content: "\f105";
+}
+
+.owl-controls .owl-prev:hover,
+.owl-controls .owl-next:hover {
+  background: #e74c3c;
+}
+
+.owl-theme .owl-controls .owl-buttons div {
+  opacity: 1 !important;
+}
+
+/*header*/
+.ftco-navbar-light.scrolled .cinfo {
+  color: #000000;
+}
+
+.ftco-navbar-light.scrolled .cnumber {
+  color: #000000;
+}
+
+.customer-support {
+  margin-left: -7px;
+  font-weight: 500;
+  margin-right: 0px !important;
+}
+
+.country-dropdown {
+  width: fit-content;
+  font-size: 15px;
+  white-space: nowrap;
+  font-family: "Roboto", sans-serif !important;
+}
+
+.selected-country-dropdown {
+  width: 15% !important;
+}
+/*   .phone-icon {
+        float: right;
+    }*/
+
+.call-now-text {
+  float: left;
+  margin-left: 2px;
+  color: #ffffff;
+  text-align: right;
+  margin-right: 15px;
+}
+
+.cinfo {
+  font-size: 12px;
+  /* font-weight: bold; */
+  text-align: right;
+  margin-bottom: 0px;
+  line-height: 14px;
+  margin-bottom: 5px;
+}
+
+.cnumber {
+  font-size: 14px;
+  margin-bottom: 0px;
+  line-height: 14px;
+}
+
+.phone-icon {
+  margin-top: 10px;
+}
+
+.login-btn {
+  margin-left: 66%;
+}
+/*header end*/
+
+/*how-it-works */
+/* .img-howitworks {
+   width: 100%;
+} */
+
+.how-it-works-bg {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-image: url("../htw-bg.png");
+  /* background-color: #61A734; */ /* padding-top: 100px; */ /* padding-bottom: 100px; */
+}
+
+.how-it-works-heading h1 {
+  text-align: center;
+  font-size: 36px;
+  font-weight: 600;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+/*how-it-works end*/
+
+/*footer*/
+.facebook {
+  padding: 7px 12px !important;
+}
+
+.social-media {
+  background-color: #2f2c2c;
+  padding: 7px 7px;
+  margin: 2px;
+  cursor: pointer;
+}
+
+.ftco-bg-dark {
+  background-color: #373333;
+  padding: 30px 0px;
+  color: #ffffff;
+}
+
+.ftco-footer-widget h2 {
+  font-size: 12px;
+  color: #16c855;
+  font-weight: bold;
+}
+
+.ftco-footer-widget p {
+  font-size: 13px;
+}
+
+.registered-symbol {
+  position: relative;
+  top: -5px;
+  font-size: 11px;
+  font-weight: normal;
+}
+
+.copy {
+  font-size: 12px !important;
+  margin-bottom: 0px;
+}
+/*footer end*/
+
+/*verticle tabs*/
+
+.sv-data-1 {
+  background: lightCyan;
+  padding: 0;
+}
+
+.sv-data-2 {
+  background: lightPink;
+  height: 40px;
+  white-space: nowrap;
+}
+
+.sv-data-3 {
+  background: LightGoldenRodYellow;
+  height: 40px;
+  white-space: nowrap;
+}
+
+.sv-data-4 {
+  background: LightSteelBlue;
+}
+
+table.sv-data-table {
+  table-layout: fixed;
+}
+
+table.sv-data-table tbody tr {
+  font-size: 13px;
+  padding: 0;
+}
+
+table.sv-data-table tbody tr td {
+  height: 36px;
+}
+
+table.sv-data-table .td-data-item-1 {
+  padding: 0;
+  text-align: center;
+  vertical-align: middle;
+}
+
+table.sv-data-table .td-data-item-2 {
+  padding: 0;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+table.sv-data-table .td-data-item-3 {
+  padding: 0;
+  text-align: center;
+  vertical-align: middle;
+}
+
+table.sv-data-table .td-data-item-4 {
+  padding: 0;
+  text-align: right;
+  vertical-align: middle;
+}
+
+table.sv-data-table input[type="number"] {
+  border: solid 1px #ccc;
+  max-width: 50px;
+}
+
+.edit-parameters {
+  margin: 3px;
+}
+
+.parameter-pg-col {
+  background: lightBlue;
+  margin: 0;
+  padding: 0;
+}
+
+.txt-divider {
+  text-transform: uppercase;
+  font-size: 13px;
+  color: #9194a6;
+  margin: 15px 0px;
+}
+
+.updText {
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
+
+.upload-in .form-group {
+  margin-bottom: 0px !important;
+}
+
+.updText span {
+  margin-left: 5px;
+}
+
+.btn-outline-danger {
+  padding: 8px 20px !important;
+  font-size: 13px !important;
+  text-transform: capitalize;
+}
+
+.copy-rights {
+  text-align: center;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  padding: 10px 10px;
+}
+
+.with-regards p {
+  font-size: 13px;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+/* Vertical Tabs */
+.vertical-tabs {
+  font-size: 14px; /* padding:10px; */ /* color:#008000; */
+  min-height: 500px;
+}
+
+.vertical-tabs .nav-tabs .nav-link:hover {
+  border: 1px solid transparent;
+}
+
+.vertical-tabs .nav-tabs .nav-link {
+  background: #61a734ad;
+  border: 1px solid transparent;
+  color: #fff; /* height:37px */
+  padding: 20px 24px;
+  border: 0px !important;
+  margin-bottom: 5px;
+  font-size: 20px;
+  text-align: left;
+  min-width: 340px;
+}
+
+.vertical-tabs .nav-tabs .nav-link.active {
+  background-color: #61a734 !important;
+  border-color: transparent !important;
+  color: #fff;
+  text-align: left;
+}
+
+.vertical-tabs .nav-tabs .nav-link {
+  border: 1px solid transparent;
+  border-radius: 0rem !important;
+}
+
+.vertical-tabs .tab-content > .active {
+  background: #fff;
+  display: block;
+}
+
+.vertical-tabs .nav.nav-tabs {
+  /* background: url(../images/main-banner.png) top center no-repeat; */
+  border-bottom: 0;
+  border-right: 1px solid transparent;
+  display: block;
+  float: right;
+  /* margin-right:20px; */
+  /* padding-right:15px; */
+  text-align: right;
+  margin-top: 109px;
+}
+
+a {
+  cursor: pointer;
+}
+
+.logout-popup {
+  width: 100%;
+  padding: 9px 10px;
+}
+
+.vertical-tabs div.tab-content {
+  /* border:solid 1px #4CAF50!important; */
+  min-height: 500px;
+  padding: 40px;
+  -webkit-box-shadow: 0px 0px 5px -5px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 5px -5px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 5px -5px rgba(0, 0, 0, 0.75);
+  box-shadow: 1px 1px 5px 0 rgba(0, 0, 0, 0.13);
+  background-color: white;
+}
+
+.vertical-tabs .sv-tab-panel {
+  background: #fff; /* height:145px; */
+  padding-top: 10px;
+}
+
+.vertical-tabs div#home-v.tab-pane .sv-tab-panel {
+  background: #a6dba6;
+}
+
+.vertical-tabs div#profile-v.tab-pane .sv-tab-panel {
+  background: #99d699;
+}
+
+.vertical-tabs div#messages-v.tab-pane .sv-tab-panel {
+  background: #8cd18c;
+}
+
+.vertical-tabs div#settings-v.tab-pane .sv-tab-panel {
+  background: #80cc80;
+}
+
+.sv-tab-panel ul {
+  margin-left: 40px;
+  padding-left: 27px;
+  margin-top: 20px;
+}
+
+.sv-tab-panel ul li {
+  color: #696969;
+  list-style: none;
+  font-size: 16px;
+  line-height: 22px;
+  margin-bottom: 12px;
+}
+
+.sv-tab-panel ul li:before {
+  content: "\f299";
+  font-family: "FontAwesome";
+  margin: 0 13px 0 -27px;
+}
+
+.sv-tab-panel h3 {
+  font-size: 25px !important;
+}
+
+/* Vertical Tabs */
+
+.vertical-tabs-left {
+  float: left;
+  width: 50%;
+  background-image: url("../Rectangle5.png");
+  min-height: 500px;
+  background-size: 100% 100%;
+}
+
+.vertical-tabs-right {
+  display: inline-block;
+  width: 50%;
+}
+
+.horizontal-tabs {
+  font-size: 14px;
+  padding: 10px;
+  color: #008000;
+}
+
+.horizontal-tabs .sv-tab-panel {
+  background: #fff;
+  height: 145px;
+  padding-top: 10px;
+}
+
+.horizontal-tabs .nav-tabs .nav-link {
+  background: #4caf50;
+  border: 1px solid transparent;
+  color: #fff;
+}
+
+.horizontal-tabs .nav-tabs .nav-link.active {
+  background-color: #009900 !important;
+  border-color: transparent !important;
+  color: #fff;
+}
+
+.horizontal-tabs .nav-tabs .nav-link {
+  border: 1px solid transparent;
+  border-top-left-radius: 0rem !important;
+  border-top-right-radius: 0rem !important;
+}
+
+.horizontal-tabs .tab-content > .active {
+  background: #fff;
+  display: block;
+}
+
+.horizontal-tabs .nav.nav-tabs {
+  border-bottom: 0;
+  border-right: 1px solid transparent;
+  background: #33ad33;
+}
+
+.horizontal-tabs div.tab-content {
+  border: solid 1px #4caf50 !important;
+  max-height: 150px;
+}
+
+.horizontal-tabs .sv-tab-panel {
+  background: #fff;
+  height: 110px;
+  padding-top: 10px;
+}
+
+.horizontal-tabs div#home-h.tab-pane .sv-tab-panel {
+  background: #a6dba6;
+}
+
+.horizontal-tabs div#profile-h.tab-pane .sv-tab-panel {
+  background: #99d699;
+}
+
+.horizontal-tabs div#messages-h.tab-pane .sv-tab-panel {
+  background: #8cd18c;
+}
+
+.horizontal-tabs div#settings-h.tab-pane .sv-tab-panel {
+  background: #80cc80;
+}
+
+.horizontal-tabs .sv-tab-panel {
+  padding: 10px;
+}
+
+/*verticle tabs end*/
+/*role selection start here */
+.roles-block {
+  text-align: center;
+}
+
+.roles-block-img {
+  background-color: #fff06e;
+  height: 140px;
+  line-height: 140px;
+  border-radius: 100%;
+  width: 140px;
+  margin-bottom: 10px;
+}
+
+.roles-img {
+  width: 55px;
+  opacity: 0.4;
+}
+
+.roles-block-title {
+  font-size: 22px;
+  color: #868c98;
+}
+
+.roles-block {
+  cursor: pointer;
+}
+
+.roles-block-active .roles-img {
+  opacity: 1;
+}
+
+.roles-block-active .roles-block-img {
+  background-color: #fff06e;
+}
+
+.roles-block-active .roles-block-title {
+  color: #2f2c2c;
+}
+
+.role-hover:hover {
+  text-decoration: none;
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .crop-pricing-table table {
+    display: grid !important;
+  }
+
+  .crop-pricing-table table {
+    display: grid !important;
+  }
+
+  .crop-pricing-table thead {
+    display: none !important;
+  }
+
+  .crop-pricing-table tbody {
+    display: grid !important;
+  }
+
+  .crop-pricing-table th {
+    display: grid !important;
+  }
+
+  .crop-pricing-table td {
+    display: flex !important;
+  }
+
+  .crop-pricing-table tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .crop-pricing-tablethead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .crop-pricing-table tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .crop-pricing-table td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .crop-pricing-table td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: break-word;
+    top: 7px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+
+  .crop-pricing-table td:nth-of-type(1):before {
+    content: "";
+  }
+
+  .crop-pricing-table td:nth-of-type(2):before {
+    content: "Crop Name";
+  }
+
+  .crop-pricing-table td:nth-of-type(3):before {
+    content: "Commodity - Parent Commodity";
+  }
+
+  .crop-pricing-table td:nth-of-type(4):before {
+    content: "Phase";
+  }
+  .crop-pricing-table td:nth-of-type(5):before {
+    content: "Currency";
+  }
+  .crop-pricing-table td:nth-of-type(6):before {
+    content: "High (>75%)";
+  }
+  .crop-pricing-table td:nth-of-type(7):before {
+    content: "Medium(40-75%)";
+  }
+  .crop-pricing-table td:nth-of-type(8):before {
+    content: "Low (<40%)";
+  }
+  .crop-pricing-table td:nth-of-type(9):before {
+    content: "Price Type";
+  }
+  .crop-pricing-table td:nth-of-type(10):before {
+    content: "Status";
+  }
+  .crop-pricing-table td:nth-of-type(11):before {
+    content: "";
+  }
+  .yieldoutcome-table table {
+    display: grid !important;
+  }
+
+  .yieldoutcome-table thead {
+    display: grid !important;
+  }
+
+  .yieldoutcome-table tbody {
+    display: grid !important;
+  }
+
+  .yieldoutcome-table th {
+    display: grid !important;
+  }
+
+  .yieldoutcome-table td {
+    display: flex !important;
+  }
+
+  .yieldoutcome-table tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .yieldoutcome-table thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .yieldoutcome-table tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .yieldoutcome-table td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .yieldoutcome-table td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: break-word;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+
+  .yieldoutcome-table td:nth-of-type(1):before {
+    content: "";
+  }
+
+  .yieldoutcome-table td:nth-of-type(2):before {
+    content: "Crop Name";
+  }
+
+  .yieldoutcome-table td:nth-of-type(3):before {
+    content: "Commodity - Parent Commodity";
+  }
+
+  .yieldoutcome-table td:nth-of-type(4):before {
+    content: "Per Ha";
+  }
+  .yieldoutcome-table td:nth-of-type(5):before {
+    content: "";
+  }
+
+  .project-tab .nav-link {
+    max-width: 40% !important;
+    display: inline-block;
+  }
+  .project-tab #tabs .nav-tabs .nav-item.show .nav-link,
+  .nav-tabs .nav-link.active {
+    max-width: 40% !important;
+  }
+  .history-tl-container {
+    width: 100% !important;
+  }
+  .text-green {
+    color: #61a734;
+  }
+  .mar-top-xs-0 {
+    margin-top: 0px !important;
+  }
+  .mar-xs-bottom-20 {
+    margin-bottom: 20px;
+  }
+  ::ng-deep .p-dialog {
+    min-width: 100% !important;
+  }
+
+  .manage-crops-tbl table {
+    display: grid !important;
+  }
+
+  .manage-crops-tbl thead {
+    display: grid !important;
+  }
+
+  .manage-crops-tbl tbody {
+    display: grid !important;
+  }
+
+  .manage-crops-tbl th {
+    display: grid !important;
+  }
+
+  .manage-crops-tbl td {
+    display: flex !important;
+  }
+
+  .manage-crops-tbl tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manage-crops-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manage-crops-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manage-crops-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manage-crops-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: break-word;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+  .manage-crops-tbl-c-disply td:nth-of-type(1):before {
+    content: "Country";
+  }
+
+  .manage-crops-tbl-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-crops-tbl td:nth-of-type(2):before {
+    content: "Crop";
+  }
+
+  .manage-crops-tbl td:nth-of-type(3):before {
+    content: "Commodity";
+  }
+
+  .manage-crops-tbl td:nth-of-type(4):before {
+    content: "Crop Images";
+  }
+
+  .manage-crops-tbl td:nth-of-type(5):before {
+    content: "Status";
+  }
+
+  .manage-crops-tbl td:nth-of-type(6):before {
+    content: "";
+  }
+
+  .manage-commodities-tbl table {
+    display: grid !important;
+  }
+
+  .manage-commodities-tbl thead {
+    display: grid !important;
+  }
+
+  .manage-commodities-tbl tbody {
+    display: grid !important;
+  }
+
+  .manage-commodities-tbl th {
+    display: grid !important;
+  }
+
+  .manage-commodities-tbl td {
+    display: flex !important;
+  }
+
+  .manage-commodities-tbl tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manage-commodities-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manage-commodities-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manage-commodities-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manage-commodities-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: break-word;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+  .manage-commodities-tbl-c-disply td:nth-of-type(1):before {
+    content: "Country";
+  }
+
+  .manage-commodities-tbl-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-commodities-tbl td:nth-of-type(2):before {
+    content: "Commodity";
+  }
+
+  .manage-commodities-tbl td:nth-of-type(3):before {
+    content: "Parent Commodity";
+  }
+
+  .manage-commodities-tbl td:nth-of-type(4):before {
+    content: "Status";
+  }
+
+  .manage-commodities-tbl td:nth-of-type(5):before {
+    content: "";
+  }
+
+  .break-line {
+    display: none;
+  }
+  .clear-all {
+    text-align: end;
+  }
+
+  section.tabs {
+    margin-top: 17px;
+  }
+
+  .padd-md-0 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  label {
+    font-size: 10px !important;
+  }
+
+  .addprogram-wrap {
+    margin: 8px !important;
+  }
+
+  .addprogram-btn {
+    margin-top: 0px !important;
+  }
+
+  .add-mbl-section {
+    margin: 0px !important;
+  }
+
+  .clr-all {
+    margin-top: 0px !important;
+    text-align: right;
+    width: 100%;
+  }
+
+  .side-popup {
+    right: 43px !important;
+  }
+
+  .manageprograms_table table {
+    display: grid !important;
+  }
+
+  .manageprograms_table thead {
+    display: grid !important;
+  }
+
+  .manageprograms_table tbody {
+    display: grid !important;
+  }
+
+  .manageprograms_table th {
+    display: grid !important;
+  }
+
+  .manageprograms_table td {
+    display: flex !important;
+  }
+
+  .manageprograms_table tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manageprograms_table thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manageprograms_table tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manageprograms_table td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manageprograms_table td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: break-word;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+  .manageprograms_table-c-disply td:nth-of-type(1):before {
+    content: "Country";
+  }
+
+  .manageprograms_table-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manageprograms_table td:nth-of-type(2):before {
+    content: "Institutional Name";
+  }
+
+  .manageprograms_table td:nth-of-type(3):before {
+    content: "Program Name";
+  }
+
+  .manageprograms_table td:nth-of-type(4):before {
+    content: "Program Description";
+  }
+
+  .manageprograms_table td:nth-of-type(5):before {
+    content: "Total Farmers";
+  }
+
+  .manageprograms_table td:nth-of-type(6):before {
+    content: "status";
+  }
+
+  .manageprograms_table td:nth-of-type(7):before {
+    content: "";
+  }
+
+  .manage-supplier-tbl table {
+    display: grid !important;
+  }
+
+  .manage-supplier-tbl thead {
+    display: grid !important;
+  }
+
+  .manage-supplier-tbl tbody {
+    display: grid !important;
+  }
+
+  .manage-supplier-tbl th {
+    display: grid !important;
+  }
+
+  .manage-supplier-tbl td {
+    display: flex !important;
+  }
+
+  .manage-supplier-tbl tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manage-supplier-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manage-supplier-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manage-supplier-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manage-supplier-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: break-word;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+  .manage-supplier-tbl-c-disply td:nth-of-type(1):before {
+    content: "";
+  }
+
+  .manage-supplier-tbl-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(2):before {
+    content: "Company Name";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(3):before {
+    content: "Mobile Number";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(4):before {
+    content: "Email Id";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(5):before {
+    content: "Location/Address";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(6):before {
+    content: "Services/Product";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(7):before {
+    content: " status";
+  }
+  .manage-supplier-tbl td:nth-of-type(8):before {
+    content: "verification status";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(9):before {
+    content: "";
+  }
+
+  .manage-buyers-table table {
+    display: grid !important;
+  }
+
+  .manage-buyers-table thead {
+    display: grid !important;
+  }
+
+  .manage-buyers-table tbody {
+    display: grid !important;
+  }
+
+  .manage-buyers-table th {
+    display: grid !important;
+  }
+
+  .manage-buyers-table td {
+    display: flex !important;
+  }
+
+  .manage-buyers-table tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manage-buyers-table thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manage-buyers-table tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manage-buyers-table td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manage-buyers-table td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+  .manage-buyers-table td:nth-of-type(1):before {
+    content: "Country";
+  }
+
+  .manage-buyers-table-c-disply td:nth-of-type(1):before {
+    content: "";
+  }
+
+  .manage-buyers-table-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-buyers-table td:nth-of-type(2):before {
+    content: "Company Name";
+  }
+
+  .manage-buyers-table td:nth-of-type(3):before {
+    content: "Name";
+  }
+
+  .manage-buyers-table td:nth-of-type(4):before {
+    content: "mobile number";
+  }
+
+  .manage-buyers-table td:nth-of-type(5):before {
+    content: "Email Id";
+  }
+
+  .manage-buyers-table td:nth-of-type(6):before {
+    content: "Status";
+  }
+  .manage-buyers-table td:nth-of-type(7):before {
+    content: "Verification Status";
+  }
+
+  .manage-buyers-table td:nth-of-type(8):before {
+    content: "Action";
+  }
+
+  .manage-buyers-table td:nth-of-type(9):before {
+    content: "";
+  }
+
+  .Manage-users-tbl table {
+    display: grid !important;
+  }
+
+  .Manage-users-tbl thead {
+    display: grid !important;
+  }
+
+  .Manage-users-tbl tbody {
+    display: grid !important;
+  }
+
+  .Manage-users-tbl th {
+    display: grid !important;
+  }
+
+  .Manage-users-tbl td {
+    display: flex !important;
+  }
+
+  .Manage-users-tbl tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .Manage-users-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .Manage-users-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .Manage-users-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .Manage-users-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+  .Manage-users-tbl-c-disply td:nth-of-type(1):before {
+    content: "Country";
+  }
+
+  .Manage-users-tbl-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .Manage-users-tbl td:nth-of-type(2):before {
+    content: "User";
+  }
+
+  .Manage-users-tbl td:nth-of-type(3):before {
+    content: "Email Id";
+  }
+
+  .Manage-users-tbl td:nth-of-type(4):before {
+    content: "Institutional Name";
+  }
+
+  .Manage-users-tbl td:nth-of-type(5):before {
+    content: "Program Name";
+  }
+
+  .Manage-users-tbl td:nth-of-type(6):before {
+    content: "Role";
+  }
+
+  .Manage-users-tbl td:nth-of-type(7):before {
+    content: "Status";
+  }
+  /*buyer branches responsive*/
+  .buyer-branches-tbl table {
+    display: grid !important;
+  }
+
+  .buyer-branches-tbl thead {
+    display: grid !important;
+  }
+
+  .buyer-branches-tbl tbody {
+    display: grid !important;
+  }
+
+  .buyer-branches-tbl th {
+    display: grid !important;
+  }
+
+  .buyer-branches-tbl td {
+    display: flex !important;
+  }
+
+  .buyer-branches-tbl tr {
+    display: grid !important;
+  }
+
+  .buyer-branches-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .buyer-branches-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  .buyer-branches-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .buyer-branches-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  .buyer-branches-tbl td:nth-of-type(1):before {
+    content: "Company Name";
+  }
+
+  .buyer-branches-tbl td:nth-of-type(2):before {
+    content: "Branch Area";
+  }
+
+  .buyer-branches-tbl td:nth-of-type(3):before {
+    content: "Branch Head Name";
+  }
+
+  .buyer-branches-tbl td:nth-of-type(4):before {
+    content: "Mobile Number";
+  }
+
+  .buyer-branches-tbl td:nth-of-type(5):before {
+    content: "Email Id";
+  }
+
+  .buyer-branches-tbl td:nth-of-type(6):before {
+    content: "Status";
+  }
+
+  .buyer-branches-tbl td:nth-of-type(7):before {
+    content: "Action";
+  }
+
+  /*buyer branches responsive end*/
+  /*manage supplier branches*/
+  .manage-supplier-branch table {
+    display: grid !important;
+  }
+
+  .manage-supplier-branch thead {
+    display: grid !important;
+  }
+
+  .manage-supplier-branch tbody {
+    display: grid !important;
+  }
+
+  .manage-supplier-branch th {
+    display: grid !important;
+  }
+
+  .manage-supplier-branch td {
+    display: flex !important;
+  }
+
+  .manage-supplier-branch tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manage-supplier-branch thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manage-supplier-branch tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manage-supplier-branch td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manage-supplier-branch td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+  .manage-supplier-branch td:nth-of-type(1):before {
+    content: "Company Name";
+  }
+
+  .manage-supplier-branch td:nth-of-type(2):before {
+    content: "Branch Area";
+  }
+
+  .manage-supplier-branch td:nth-of-type(3):before {
+    content: "Branch Head Name";
+  }
+
+  .manage-supplier-branch td:nth-of-type(4):before {
+    content: "Mobile Number";
+  }
+
+  .manage-supplier-branch td:nth-of-type(5):before {
+    content: "Email Id";
+  }
+
+  .manage-supplier-branch td:nth-of-type(6):before {
+    content: "Status";
+  }
+
+  .manage-supplier-branch td:nth-of-type(7):before {
+    content: "";
+  }
+
+  /*manage supplier branch end*/
+  /*manage supplier equipment*/
+  .supplier-equipment-tbl table {
+    display: grid !important;
+  }
+
+  .supplier-equipment-tbl thead {
+    display: grid !important;
+  }
+
+  .supplier-equipment-tbl tbody {
+    display: grid !important;
+  }
+
+  .supplier-equipment-tbl th {
+    display: grid !important;
+  }
+
+  .supplier-equipment-tbl td {
+    display: flex !important;
+  }
+
+  .supplier-equipment-tbl tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .supplier-equipment-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .supplier-equipment-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .supplier-equipment-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .supplier-equipment-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  .supplier-equipment-tbl-c-disply td:nth-of-type(1):before {
+    content: "";
+  }
+
+  .supplier-equipment-tbl-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(2):before {
+    content: "Equipment Name";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(3):before {
+    content: "Supplier Details";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(4):before {
+    content: "Supplier Address";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(5):before {
+    content: "Make";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(6):before {
+    content: "Model";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(7):before {
+    content: "Quantity";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(8):before {
+    content: "	Status";
+  }
+  .supplier-equipment-tbl td:nth-of-type(9):before {
+    content: "";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(9):before {
+    content: "";
+  }
+
+  /*manage supplier equipment end*/
+
+  /*manage farmers*/
+  .manage-farmers-tbl table {
+    display: grid !important;
+  }
+
+  .manage-farmers-tbl thead {
+    display: grid !important;
+  }
+
+  .manage-farmers-tbl tbody {
+    display: grid !important;
+  }
+
+  .manage-farmers-tbl th {
+    display: grid !important;
+  }
+
+  .manage-farmers-tbl td {
+    display: flex !important;
+  }
+
+  .manage-farmers-tbl tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manage-farmers-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manage-farmers-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manage-farmers-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manage-farmers-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  .manage-farmers-tbl-c-disply td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-farmers-tbl-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(2):before {
+    content: "Farmer";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(3):before {
+    content: "TnC";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(4):before {
+    content: "Gender";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(5):before {
+    content: "Province";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(6):before {
+    content: "City";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(7):before {
+    content: "Crops#";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(8):before {
+    content: "Program Name";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(9):before {
+    content: "Status";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(10):before {
+    content: "";
+  }
+
+  /*manage farmers end*/
+  /*manage farmers crops*/
+  .manage-farmers-crops-tbl table {
+    display: grid !important;
+  }
+
+  .manage-farmers-crops-tbl thead {
+    display: grid !important;
+  }
+
+  .manage-farmers-crops-tbl tbody {
+    display: grid !important;
+  }
+
+  .manage-farmers-crops-tbl th {
+    display: grid !important;
+  }
+
+  .manage-farmers-crops-tbl td {
+    display: grid !important;
+  }
+
+  .manage-farmers-crops-tbl tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manage-farmers-crops-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manage-farmers-crops-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manage-farmers-crops-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manage-farmers-crops-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  .manage-farmers-crops-tbl-c-disply td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-farmers-crops-tbl-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(2):before {
+    content: "Farmer";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(3):before {
+    content: "Location";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(4):before {
+    content: "Commodity";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(5):before {
+    content: "Crop";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(6):before {
+    content: "Precult";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(7):before {
+    content: "	Cult.";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(8):before {
+    content: "Crop Growth";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(9):before {
+    content: "Harvest";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(10):before {
+    content: "eSusPoints";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(11):before {
+    content: "Last UpdatedOn";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(12):before {
+    content: "";
+  }
+  /*manage farmer crops end*/
+  .modal-dialog.right-popup {
+    padding: 10px;
+    width: 100%;
+  }
+
+  .modal-content {
+    width: 100% !important;
+    right: 0px !important;
+    height: 100%;
+  }
+
+  .card-box {
+    margin-left: 0px !important;
+  }
+  /*crops-information*/
+  .crops-information-table table {
+    display: grid !important;
+  }
+
+  .crops-information-table thead {
+    display: grid !important;
+  }
+
+  .crops-information-table tbody {
+    display: grid !important;
+  }
+
+  .crops-information-table th {
+    display: grid !important;
+  }
+
+  .crops-information-table td {
+    display: flex !important;
+  }
+
+  .crops-information-table tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .crops-information-table thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .crops-information-table tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .crops-information-table td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .crops-information-table td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  .crops-information-table td:nth-of-type(1):before {
+    content: "Commodity";
+  }
+
+  .crops-information-table td:nth-of-type(2):before {
+    content: "Crop";
+  }
+
+  .crops-information-table td:nth-of-type(3):before {
+    content: "Precult.";
+  }
+
+  .crops-information-table td:nth-of-type(4):before {
+    content: "Cult.";
+  }
+
+  .crops-information-table td:nth-of-type(5):before {
+    content: "Crop Growth";
+  }
+
+  .crops-information-table td:nth-of-type(6):before {
+    content: "Harvest";
+  }
+
+  .crops-information-table td:nth-of-type(7):before {
+    content: "	eSusPoints";
+  }
+
+  .crops-information-table td:nth-of-type(8):before {
+    content: "Last Updated On";
+  }
+
+  .crops-information-table td:nth-of-type(9):before {
+    content: "";
+  }
+
+  /*crops information end*/
+
+  .page-heading {
+    left: 4px !important;
+  }
+
+  .page-heading {
+    margin-left: 0px;
+  }
+
+  .dropdown.displaycountry {
+    margin-left: 0px !important;
+    margin-top: 0px !important;
+    position: absolute;
+    left: 376px;
+    top: 9px;
+  }
+
+  .navbar.navbar-expand-lg.navbar-light.header-main.fixed-top {
+    background-color: #fff;
+  }
+
+  .navbar-light.navbar-toggler {
+    border: none !important;
+  }
+}
+
+@media (max-width: 1024px) {
+  .project-tab .nav-link {
+    max-width: 40% !important;
+    display: inline-block;
+  }
+  .project-tab #tabs .nav-tabs .nav-item.show .nav-link,
+  .nav-tabs .nav-link.active {
+    max-width: 40% !important;
+  }
+  .history-tl-container {
+    width: 100% !important;
+  }
+  .text-green {
+    color: #61a734;
+  }
+  .mar-top-xs-0 {
+    margin-top: 0px !important;
+  }
+  .mar-xs-bottom-20 {
+    margin-bottom: 20px;
+  }
+  .card-box {
+    margin-left: 0px !important;
+  }
+
+  .nav.nav-tabs {
+    border-bottom: 0;
+    border-right: 1px solid transparent;
+    display: block;
+    margin-right: 20px;
+    width: 92% !important;
+  }
+
+  .img-howitworks {
+    width: 100%;
+  }
+
+  .vertical-tabs .nav-tabs .nav-link {
+    padding: 6px 24px;
+  }
+
+  .ftco-bg-dark {
+    padding: 15px 0px !important;
+  }
+
+  .horizontal-tabs .nav-tabs {
+    width: 100%;
+    padding: 0;
+  }
+  .img-content label {
+    margin-top: 10px;
+    margin-bottom: 0px;
+  }
+  .product-price p {
+    margin-bottom: 5px;
+  }
+}
+
+@media only screen and (max-width: 990px) {
+  .post-slide10 {
+    margin: 0 20px;
+  }
+
+  .owl-controls .owl-buttons .owl-prev {
+    left: -20px;
+    padding: 5px 14px;
+  }
+
+  .owl-controls .owl-buttons .owl-next {
+    right: -20px;
+    padding: 5px 14px;
+  }
+  div#menuToggle {
+    position: fixed;
+    display: block !important;
+  }
+  ul#menu {
+    position: fixed;
+    height: 100vh;
+    bottom: 0px;
+    overflow-y: auto;
+  }
+}
+
+div#navbarSupportedContent {
+  justify-content: flex-end;
+}
+
+@media only screen and (max-width: 768px) {
+  .sticky-logowhite {
+    float: left;
+    display: inline-block;
+  }
+
+  .text-center-xs {
+    text-align: center;
+  }
+
+  .post-slide10 .icnWid30 {
+    width: 30% !important;
+    margin: 0px auto;
+  }
+
+  .post-slide10 .icnWid50 {
+    width: 50% !important;
+    margin: 0px auto;
+  }
+
+  .login-page {
+    height: auto !important;
+    min-height: inherit !important;
+  }
+
+  .section-heading img {
+    display: none;
+  }
+
+  .login-form {
+    padding: 20px 20px 40px 20px !important;
+  }
+
+  .social_media {
+    margin-top: 20px !important;
+  }
+
+  .header-home-page {
+    min-height: inherit;
+    padding-top: 65px !important;
+  }
+
+  /*header menu responsive*/
+  .navbar-collapse {
+    text-align: right !important;
+    background-color: #fff !important;
+  }
+
+  .call-now-text {
+    color: #000 !important;
+  }
+
+  .login_btn {
+    margin: 5px !important;
+  }
+
+  /*home page responsive */
+
+  .main-heading p {
+    font-size: 14px !important;
+  }
+
+  .vertical-tabs-right {
+    margin-left: 0px !important;
+  }
+
+  .sv-tab-panel ul {
+    margin-left: 0px !important;
+  }
+
+  .vertical-tabs div.tab-content {
+    /* border: solid 1px #4CAF50!important; */
+    min-height: inherit;
+    padding: 15px;
+  }
+
+  .our-advantages .section-heading h1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+
+  .vertical-tabs-left {
+    min-height: 350px;
+  }
+
+  .our-advantages {
+    padding-bottom: 10px;
+    padding-top: 14px;
+  }
+  /*home page responsive */
+  .ftco-heading-2 {
+    float: none;
+    margin-top: 10px;
+  }
+
+  .social-media {
+    float: none;
+  }
+
+  .navbar-toggler {
+    background-color: #fff !important;
+    /*border: 1px solid #d4cdcd !important;*/
+    font-size: 1rem !important;
+  }
+
+  .main-heading {
+    width: 100%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+  }
+
+  .vertical-tabs-left {
+    width: 100% !important;
+  }
+
+  .vertical-tabs-right {
+    width: 100% !important;
+  }
+
+  .login-form {
+    width: 100%;
+  }
+
+  .owl-controls .owl-buttons .owl-prev {
+    left: 0px;
+    bottom: 260px;
+  }
+
+  .owl-controls .owl-buttons .owl-next {
+    right: 0px;
+    bottom: 260px;
+  }
+  .main-sidebar {
+    display: none;
+  }
+  .page-title {
+    margin-left: 46px;
+    margin-top: 7px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .order-details-img-maxi {
+    width: 100% !important;
+    height: 150px !important;
+  }
+
+  .track-img {
+    width: 15px;
+    margin-right: 0px !important;
+  }
+  .pdct-Title {
+    left: 0px !important;
+  }
+  .span-btns span {
+    width: 45% !important;
+  }
+  .span-btns .btn-primary {
+    width: 48%;
+  }
+  .span-btns .basic-btn {
+    width: 52%;
+  }
+  .track-order-btn {
+    margin-top: 20px;
+  }
+  .crop-pricing-table table {
+    display: grid !important;
+  }
+
+  .crop-pricing-table table {
+    display: grid !important;
+  }
+
+  .crop-pricing-table thead {
+    display: none !important;
+  }
+
+  .crop-pricing-table tbody {
+    display: grid !important;
+  }
+
+  .crop-pricing-table th {
+    display: grid !important;
+  }
+
+  .crop-pricing-table td {
+    display: flex !important;
+  }
+
+  .crop-pricing-table tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .crop-pricing-tablethead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .crop-pricing-table tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .crop-pricing-table td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .crop-pricing-table td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: break-word;
+    top: 7px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+
+  .crop-pricing-table td:nth-of-type(1):before {
+    content: "";
+  }
+
+  .crop-pricing-table td:nth-of-type(2):before {
+    content: "Crop Name";
+  }
+
+  .crop-pricing-table td:nth-of-type(3):before {
+    content: "Commodity - Parent Commodity";
+  }
+
+  .crop-pricing-table td:nth-of-type(4):before {
+    content: "Phase";
+  }
+  .crop-pricing-table td:nth-of-type(5):before {
+    content: "Currency";
+  }
+  .crop-pricing-table td:nth-of-type(6):before {
+    content: "High (>75%)";
+  }
+  .crop-pricing-table td:nth-of-type(7):before {
+    content: "Medium(40-75%)";
+  }
+  .crop-pricing-table td:nth-of-type(8):before {
+    content: "Low (<40%)";
+  }
+  .crop-pricing-table td:nth-of-type(9):before {
+    content: "Price Type";
+  }
+  .crop-pricing-table td:nth-of-type(10):before {
+    content: "Status";
+  }
+  .crop-pricing-table td:nth-of-type(11):before {
+    content: "";
+  }
+  .yieldoutcome-table table {
+    display: grid !important;
+  }
+
+  .yieldoutcome-table thead {
+    display: grid !important;
+  }
+
+  .yieldoutcome-table tbody {
+    display: grid !important;
+  }
+
+  .yieldoutcome-table th {
+    display: grid !important;
+  }
+
+  .yieldoutcome-table td {
+    display: flex !important;
+  }
+
+  .yieldoutcome-table tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .yieldoutcome-table thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .yieldoutcome-table tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .yieldoutcome-table td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .yieldoutcome-table td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: break-word;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+
+  .yieldoutcome-table td:nth-of-type(1):before {
+    content: "";
+  }
+
+  .yieldoutcome-table td:nth-of-type(2):before {
+    content: "Crop Name";
+  }
+
+  .yieldoutcome-table td:nth-of-type(3):before {
+    content: "Commodity - Parent Commodity";
+  }
+
+  .yieldoutcome-table td:nth-of-type(4):before {
+    content: "Per Ha";
+  }
+  .yieldoutcome-table td:nth-of-type(5):before {
+    content: "";
+  }
+
+  .project-tab .nav-link {
+    max-width: 40% !important;
+    display: inline-block;
+  }
+  .project-tab #tabs .nav-tabs .nav-item.show .nav-link,
+  .nav-tabs .nav-link.active {
+    max-width: 40% !important;
+  }
+  .history-tl-container {
+    width: 100% !important;
+  }
+  .text-green {
+    color: #61a734;
+  }
+  .mar-top-xs-0 {
+    margin-top: 0px !important;
+  }
+  .mar-xs-bottom-20 {
+    margin-bottom: 20px;
+  }
+  .manage-crops-tbl table {
+    display: grid !important;
+  }
+
+  .manage-crops-tbl thead {
+    display: grid !important;
+  }
+
+  .manage-crops-tbl tbody {
+    display: grid !important;
+  }
+
+  .manage-crops-tbl th {
+    display: grid !important;
+  }
+
+  .manage-crops-tbl td {
+    display: flex !important;
+  }
+
+  .manage-crops-tbl tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manage-crops-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manage-crops-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manage-crops-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manage-crops-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: break-word;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+  .manage-crops-tbl-c-disply td:nth-of-type(1):before {
+    content: "Country";
+  }
+
+  .manage-crops-tbl-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-crops-tbl td:nth-of-type(2):before {
+    content: "Crop";
+  }
+
+  .manage-crops-tbl td:nth-of-type(3):before {
+    content: "Commodity";
+  }
+
+  .manage-crops-tbl td:nth-of-type(4):before {
+    content: "Crop Images";
+  }
+
+  .manage-crops-tbl td:nth-of-type(5):before {
+    content: "Status";
+  }
+
+  .manage-crops-tbl td:nth-of-type(6):before {
+    content: "";
+  }
+
+  .manage-commodities-tbl table {
+    display: grid !important;
+  }
+
+  .manage-commodities-tbl thead {
+    display: grid !important;
+  }
+
+  .manage-commodities-tbl tbody {
+    display: grid !important;
+  }
+
+  .manage-commodities-tbl th {
+    display: grid !important;
+  }
+
+  .manage-commodities-tbl td {
+    display: flex !important;
+  }
+
+  .manage-commodities-tbl tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manage-commodities-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manage-commodities-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manage-commodities-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manage-commodities-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: break-word;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+  .manage-commodities-tbl-c-disply td:nth-of-type(1):before {
+    content: "Country";
+  }
+
+  .manage-commodities-tbl-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-commodities-tbl td:nth-of-type(2):before {
+    content: "Commodity";
+  }
+
+  .manage-commodities-tbl td:nth-of-type(3):before {
+    content: "Parent Commodity";
+  }
+
+  .manage-commodities-tbl td:nth-of-type(4):before {
+    content: "Status";
+  }
+
+  .manage-commodities-tbl td:nth-of-type(5):before {
+    content: "";
+  }
+
+  .break-line {
+    display: none;
+  }
+  .clear-all {
+    text-align: end;
+  }
+
+  .side-popup {
+    right: 43px !important;
+  }
+
+  .page-heading {
+    margin-left: 0px !important;
+  }
+
+  #navbarSupportedContent {
+    width: 100%;
+    margin-top: 17px;
+  }
+
+  .toggle-section {
+    width: 28%;
+    margin-top: 4px;
+    margin-left: 40px;
+  }
+  /*about us responsive*/
+  .vertical-tabs-right {
+    display: inline-block;
+  }
+  /*about us responsive*/
+  .esus-signin {
+    margin-top: -5px !important;
+    padding: 6px 20px;
+  }
+
+  .roles-header-nav-brand {
+    width: 70%;
+  }
+
+  .cntry-dropdown {
+    width: inherit;
+  }
+
+  .roles-customer-support {
+    margin-left: -47px;
+  }
+
+  .default-logoblack {
+    display: none;
+  }
+  /*login responsive */
+  .main-heading p {
+    font-size: 18px !important;
+  }
+
+  .navbar {
+    background-color: #ffffff;
+  }
+
+  .displaycountry {
+    width: max-content;
+    text-align: right;
+    float: right;
+  }
+
+  .login-form {
+    width: 62%;
+    margin-top: 50px;
+  }
+
+  .navbar-toggler {
+    background-color: #fff !important;
+    /*border: 1px solid #d4cdcd !important;*/
+    font-size: 1rem !important;
+  }
+}
+
+@media (max-width: 872px) {
+  .table-bordered {
+    border: none !important;
+  }
+
+  .navbar {
+    background-color: #fff;
+  }
+
+  div.parameter-pg-col {
+    min-width: 100% !important;
+    padding: 0;
+  }
+
+  .card {
+    display: block;
+    margin: 10px auto !important;
+    min-width: 100% !important;
+  }
+
+  .parameters-container {
+    background: lightPink;
+    margin: 0 auto;
+    max-width: 840px;
+    padding: 10px;
+  }
+
+  .card {
+    width: 195px;
+  }
+}
+
+.esus-signin {
+  margin-left: 12px;
+  margin-top: 7px;
+}
+
+@media (max-width: 767px) {
+  .toggle-section {
+    width: 14%;
+  }
+}
+
+@media (max-width: 425px) {
+  .notification-btn {
+    width: 54% !important;
+    padding: 9px 6px !important;
+    font-size: 13px;
+  }
+
+  .navbar {
+    background-color: white;
+  }
+
+  .small-box > .inner {
+    padding: 5px 5px;
+  }
+
+  .modal-dialog-slideout {
+    min-height: 100%;
+    margin: 0 0 0 auto;
+    background: #fff;
+  }
+
+  .modal.fade .modal-dialog.modal-dialog-slideout {
+    -webkit-transform: translate(100%, 0) scale(1);
+    transform: translate(100%, 0) scale(1);
+  }
+
+  .modal.fade.show .modal-dialog.modal-dialog-slideout {
+    -webkit-transform: translate(0, 0);
+    transform: translate(0, 0);
+    align-items: stretch;
+    -webkit-box-align: stretch;
+    height: 100%;
+  }
+
+  .fa-eye-slash {
+    position: absolute;
+    top: 15px;
+    color: #ccc;
+    cursor: pointer;
+    text-align: end;
+  }
+
+  .modal.fade.show .modal-dialog.modal-dialog-slideout .modal-body {
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+
+  .modal-dialog-slideout .modal-content {
+    border: 0;
+  }
+
+  .modal-dialog-slideout .modal-header,
+  .modal-dialog-slideout .modal-footer {
+    height: 69px;
+    display: block;
+  }
+
+  .modal-dialog-slideout .modal-header h5 {
+    float: left;
+  }
+
+  .right-popup-btn {
+    background-color: #61a734;
+    border: 1px solid #61a734;
+    border-radius: 3px;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 6px 18px;
+    font-size: 15px;
+    float: right;
+  }
+
+  .right-popup-btn:hover {
+    background-color: #61a734;
+    border: 1px solid #61a734;
+  }
+
+  .right-popup-btn:focus {
+    background-color: #61a734;
+    border: 1px solid #61a734;
+  }
+
+  .popup-outline-btn {
+    color: #ff4446;
+    border-color: #ff4446;
+    padding: 8px 24px !important;
+    font-size: 13px !important;
+  }
+
+  .popup-outline-btn:hover {
+    color: #ff4446;
+    border-color: #ff4446 !important;
+    background-color: #ffffff !important;
+  }
+
+  .popup-conform-btn {
+    padding: 8px 24px !important;
+    font-size: 13px !important;
+  }
+  /*  .text-fa-user {
+        padding: 14px;
+    }*/
+
+  .invalid-mar-lft {
+    margin-left: 43px;
+  }
+
+  .log_btn {
+    float: right;
+    /*  padding: 0.675rem 2.75rem;*/
+    /*  margin-top: 10px;*/
+  }
+}
+/*forgot screen css*/
+.acr-link {
+  color: #007ad9 !important;
+}
+/*end forgot css*/
+.esus-support p {
+  font-size: 15px !important;
+  cursor: pointer;
+}
+
+.esuspr-img {
+  padding: 8px;
+  border-radius: 100%;
+  /*   margin-top: 48px;*/
+}
+
+.dotts-icon {
+  position: absolute;
+  right: 19px;
+  height: 10%;
+  bottom: 42px;
+}
+
+.right-popup-btn:hover {
+  background-color: #61a734;
+  border: 1px solid #61a734;
+}
+
+.right-popup-btn:focus {
+  background-color: #61a734;
+  border: 1px solid#61a734;
+}
+
+.popup-outline-btn {
+  color: #ff4446;
+  border-color: #ff4446;
+  padding: 8px 24px !important;
+  font-size: 13px !important;
+}
+
+.popup-outline-btn:hover {
+  color: #ff4446;
+  border-color: #ff4446 !important;
+  background-color: #ffffff !important;
+}
+
+.popup-conform-btn {
+  padding: 8px 24px !important;
+  font-size: 13px !important;
+}
+
+.register-conformation-btns {
+  text-align: end;
+}
+
+.register-save-btn {
+  margin-right: 20px;
+}
+
+.esus-login-wrap {
+  top: 0;
+  bottom: 0;
+  min-height: 100vh;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: pa;
+  flex-direction: column;
+  padding: 7rem;
+}
+
+.center-popup-body,
+p,
+h3 {
+  font-size: 14px;
+  /*    text-align: center;*/
+}
+
+.modal-dialog-slideout {
+  min-height: 100%;
+  margin: 0 0 0 auto;
+  background: #fff;
+}
+
+.modal-footer {
+  border-top: none !important;
+}
+/*.ftco-footer-widget {
+    float: right;
+}*/
+
+.invite-popup {
+  width: 420px !important;
+  right: 0px !important;
+}
+
+.modal-open .modal.modal-center {
+  /* display: flex;*/
+  align-items: center !important;
+}
+
+.modal-open .modal.modal-center .modal-dialog {
+  flex-grow: 1;
+}
+
+.modal.fade .modal-dialog.modal-dialog-slideout {
+  -webkit-transform: translate(100%, 0) scale(1);
+  transform: translate(100%, 0) scale(1);
+}
+
+.modal.fade.show .modal-dialog.modal-dialog-slideout {
+  -webkit-transform: translate(0, 0);
+  transform: translate(0, 0);
+  /* display: flex;*/
+  align-items: stretch;
+  -webkit-box-align: stretch;
+  height: 100%;
+}
+
+.modal.fade.show .modal-dialog.modal-dialog-slideout .modal-body {
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.modal-dialog-slideout .modal-content {
+  border: 0;
+}
+
+.modal-dialog-slideout .modal-header,
+.modal-dialog-slideout .modal-footer {
+  height: 69px;
+  display: block;
+}
+
+.modal-dialog-slideout .modal-header h5 {
+  float: left;
+}
+
+.right-popup-btn {
+  background-color: #61a734;
+  border: 1px solid #61a734;
+  border-radius: 3px;
+  color: #fff;
+  text-transform: uppercase;
+  padding: 6px 10px !important;
+  font-size: 12px !important;
+  float: right;
+}
+
+.right-popup-btn:hover {
+  background-color: #61a734;
+  border: 1px solid#61a734;
+}
+
+::ng-deep .was-validated .form-control:invalid,
+.form-control.is-invalid {
+  background-image: none !important;
+}
+
+a.hiperlink {
+  white-space: nowrap;
+}
+
+.right-popup-btn:focus {
+  background-color: #61a734;
+  border: 1px solid #61a734;
+}
+
+.popup-outline-btn {
+  color: #ff4446 !important;
+  border-color: #ff4446 !important;
+  padding: 8px 24px !important;
+  font-size: 13px !important;
+  text-transform: capitalize;
+}
+
+.popup-outline-btn:hover {
+  color: #ff4446 !important;
+  border-color: #ff4446 !important;
+  background-color: #ffffff !important;
+}
+
+.registration-form {
+  width: 100% !important;
+}
+
+.astric {
+  color: red;
+}
+
+a {
+  font-size: 13px;
+}
+
+footer.main-footer {
+  background: #ffffff;
+  border-top: 1px solid #dee2e6;
+  color: #212529;
+  padding: 1rem;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1032;
+  position: fixed;
+  margin: 0px;
+}
+
+.popup-conform-btn {
+  margin-left: 10px;
+}
+
+.modal-open .modal.modal-center {
+  /*   display: flex;*/
+  align-items: center !important;
+}
+
+.modal-open .modal.modal-center .modal-dialog {
+  flex-grow: 1;
+}
+
+::ng-deep body .ui-toast .ui-toast-message.ui-toast-message-warn {
+  background-color: #ffffff !important;
+  border: 0 none;
+  color: #212121;
+}
+
+.wid-280 {
+  width: 280px;
+}
+
+.wid-240 {
+  width: 240px;
+}
+
+.wid-220 {
+  width: 220px;
+}
+
+.wid-255 {
+  width: 255px;
+}
+
+.wid-60 {
+  width: 60px;
+}
+.wid-100 {
+  width: 100px;
+}
+
+button.btn.search-btn {
+  background-color: #61a734;
+  padding: 6px 20px;
+  color: #fff;
+  border-radius: 0 3px 3px 0;
+}
+
+label {
+  display: inline-block;
+  margin-bottom: 0.5rem;
+  color: #000000;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 12px !important;
+}
+
+.table thead th {
+  font-weight: 500 !important;
+  font-size: 12px !important;
+}
+
+img.verified-img {
+  width: 20px;
+}
+/* Styles for wrapping the search box */
+
+.splr-reg-popup {
+  padding-right: 20% !important;
+}
+/* Bootstrap 4 text input with search icon */
+.has-search .form-control {
+  padding-left: 2.375rem;
+}
+
+.splr-rgst-content {
+  width: 790px !important;
+}
+
+.popup-center {
+  position: relative;
+  top: 20%;
+  left: 25px;
+}
+/*.action-icons{
+    letter-spacing:10px;
+}*/
+
+.has-search .form-control-feedback {
+  position: absolute;
+  z-index: 2;
+  display: block;
+  width: 2.375rem;
+  height: 2.375rem;
+  line-height: 2.375rem;
+  text-align: center;
+  pointer-events: none;
+  color: #aaa;
+}
+
+.text-box {
+  height: 40px !important;
+  font-size: 13px !important;
+}
+
+.add-btn {
+  font-size: 12px !important;
+}
+
+.record-count {
+  font-size: 13px;
+  font-weight: 500;
+  margin-top: 15px;
+}
+
+.manage-order-btn {
+  font-size: 11px !important;
+}
+
+.roles-header {
+  background-color: white;
+}
+
+.rcinfo {
+  color: black;
+}
+
+.rcnumber {
+  color: black;
+}
+
+.roles-background-img {
+  background-image: url("../roles-bg-img.jpg") !important;
+  background-size: cover !important;
+  height: 300px !important;
+  padding: 0px 0px 40px 0px !important;
+  /*   padding-top: 78px !important;*/
+  min-height: 60px !important;
+}
+
+.header-background {
+  position: relative;
+}
+
+.overlay-text {
+  position: absolute;
+  top: 148px;
+  left: 71px;
+}
+
+.overlay-text p {
+  font-size: 16px;
+  color: #28a745 !important;
+}
+
+.overlay-text h3 {
+  color: #ffffff !important;
+  font-size: 25px !important;
+}
+
+.role-select-card {
+  background: #fff;
+  border-radius: 2px;
+  display: inline-block;
+  /*    height: auto;*/
+  margin: 1rem;
+  position: relative;
+  /*  width: 300px;*/
+  padding: 29px;
+  /* height:400px;*/
+}
+
+.role-select-card {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+.roles-btn {
+  margin-top: 25px;
+  font-size: 13px !important;
+  text-transform: inherit !important;
+  padding: 8px;
+}
+
+.roles-para {
+  width: 83%;
+  font-size: 16px;
+}
+
+.read-btn {
+  color: #000000;
+}
+
+.esus-para {
+  font-size: 16px;
+  color: #61a734;
+  margin-bottom: 0px;
+  font-weight: 700;
+}
+
+.role-select-heading {
+  color: #000000 !important;
+  font-size: 24px !important;
+}
+
+.modal.modal-vcenter {
+  padding: 15px !important;
+}
+
+.esus-popup-header {
+  border-bottom: none !important;
+}
+
+.close-btn {
+  background-color: green;
+  color: white;
+  padding: 4px 12px 5px 12px;
+}
+
+.roles-model-footer {
+  justify-content: left !important;
+}
+
+.modal.modal-vcenter .modal-dialog {
+  /* overwrites bootstrap4 properties */
+  position: relative;
+  margin: auto;
+  max-width: 100%;
+  /* added properties */
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (min-width: 576px) {
+  .modal.modal-vcenter .modal-dialog {
+    min-width: 546px; /* or whatever min-width you want */
+    max-width: 50%; /* width for most tablets and desktops */
+    height: auto !important;
+  }
+
+  .displaycountry .form-control {
+    font-size: 13px !important;
+  }
+
+  .country-dropdown[_ngcontent-wqc-c3] {
+    font-size: 13px !important;
+  }
+
+  span.list-para {
+    font-size: 13px !important;
+  }
+}
+
+.modal .modal-body {
+  /* max-height: 40vh;*/
+  overflow-y: auto;
+}
+
+.list ul li {
+  list-style-type: none;
+  line-height: 35px;
+}
+
+button:focus {
+  outline: none !important;
+}
+
+ul {
+  padding: 0px;
+}
+
+.sms-cncel-icon {
+  padding: 1px 5px !important;
+  font-size: 10px !important;
+  border-radius: 100% !important;
+  margin-left: 5px;
+}
+
+.add-mbl-section {
+  border: 1px solid #ced4da;
+  padding: 10px;
+  border-radius: 3px;
+  height: 113px;
+  overflow: auto;
+  margin: 0px 8px;
+}
+
+span.list-para {
+  padding-left: 11px;
+}
+
+.reset-main-wrap {
+  padding: 20px;
+}
+
+.otp-wrapper {
+  padding: 40px;
+}
+
+.label-cls {
+  color: #9194a6;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+
+.otp-inner-wrap {
+  font-size: 40px;
+  font-weight: 700;
+  background-color: #776c7d;
+  text-align: center;
+  color: white;
+}
+
+.reset-mainheading p {
+  font-size: 17px;
+  line-height: 30px;
+  max-width: 480px;
+}
+
+.reset-mainheading h2 {
+  font-weight: 700;
+}
+
+.roles-text {
+  text-align: right;
+}
+
+.roles-crds {
+  text-align: center;
+}
+
+.no-gutters {
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+.roles-blocks {
+  padding: 40px;
+}
+
+.roles-wrapper {
+  overflow: hidden;
+}
+
+.changepswd-form {
+  padding: 20px 20px 20px 20px !important;
+  width: 360px;
+}
+
+@media (max-width: 575.98px) {
+  .order-details-img-maxi {
+    width: 100% !important;
+  }
+  .pdct-Title {
+    left: 0px !important;
+  }
+  .span-btns span {
+    width: 46% !important;
+  }
+  .span-btns .btn-primary {
+    width: 48%;
+  }
+  .span-btns .basic-btn {
+    width: 52%;
+  }
+  .track-order-btn {
+    margin-top: 20px;
+  }
+  .wrap-content p {
+    margin-bottom: 1.5rem;
+  }
+  .place-order-wrap img {
+    height: 60px;
+    width: 60px;
+  }
+  .wrap-content {
+    text-align: center !important;
+    margin-bottom: 20px;
+  }
+  .wrap-content p {
+    margin-bottom: 0.5rem !important;
+  }
+  .place-order-wrap h1 {
+    font-size: 20px !important;
+  }
+  .place-order-wrap p {
+    font-size: 15px !important;
+  }
+  .crop-pricing-table table {
+    display: grid !important;
+  }
+
+  .crop-pricing-table table {
+    display: grid !important;
+  }
+
+  .crop-pricing-table thead {
+    display: none !important;
+  }
+
+  .crop-pricing-table tbody {
+    display: grid !important;
+  }
+
+  .crop-pricing-table th {
+    display: grid !important;
+  }
+
+  .crop-pricing-table td {
+    display: flex !important;
+  }
+
+  .crop-pricing-table tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .crop-pricing-tablethead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .crop-pricing-table tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .crop-pricing-table td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .crop-pricing-table td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: break-word;
+    top: 7px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+
+  .crop-pricing-table td:nth-of-type(1):before {
+    content: "";
+  }
+
+  .crop-pricing-table td:nth-of-type(2):before {
+    content: "Crop Name";
+  }
+
+  .crop-pricing-table td:nth-of-type(3):before {
+    content: "Commodity - Parent Commodity";
+  }
+
+  .crop-pricing-table td:nth-of-type(4):before {
+    content: "Phase";
+  }
+  .crop-pricing-table td:nth-of-type(5):before {
+    content: "Currency";
+  }
+  .crop-pricing-table td:nth-of-type(6):before {
+    content: "High (>75%)";
+  }
+  .crop-pricing-table td:nth-of-type(7):before {
+    content: "Medium(40-75%)";
+  }
+  .crop-pricing-table td:nth-of-type(8):before {
+    content: "Low (<40%)";
+  }
+  .crop-pricing-table td:nth-of-type(9):before {
+    content: "Price Type";
+  }
+  .crop-pricing-table td:nth-of-type(10):before {
+    content: "Status";
+  }
+  .crop-pricing-table td:nth-of-type(11):before {
+    content: "";
+  }
+
+  .project-tab .nav-link {
+    max-width: 40% !important;
+    display: inline-block;
+  }
+  .project-tab #tabs .nav-tabs .nav-item.show .nav-link,
+  .nav-tabs .nav-link.active {
+    max-width: 40% !important;
+  }
+  .history-tl-container {
+    width: 100% !important;
+  }
+  .text-green {
+    color: #61a734;
+  }
+  .mar-top-xs-0 {
+    margin-top: 0px !important;
+  }
+  .mar-xs-bottom-20 {
+    margin-bottom: 20px;
+  }
+  .ml-0-xs {
+    margin-left: 0px !important;
+  }
+  .history-tl-container ul.tl li {
+    padding: 0 0 20px 30px !important;
+  }
+  .small-box {
+    min-height: 100px;
+  }
+  .small-box p {
+    text-align: left;
+  }
+  .small-box h3 {
+    text-align: left;
+  }
+  .card-img-absolute {
+    height: 40%;
+  }
+  .range {
+    width: 110px !important;
+  }
+  .tab-mobile {
+    font-size: 12px !important;
+    padding: 5px !important;
+    margin-top: 10px !important;
+  }
+
+  .tab_scroll_div {
+    white-space: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+  }
+
+  .tab_scroll_div::-webkit-scrollbar {
+    display: none;
+  }
+  .manage-commodities-tbl table {
+    display: grid !important;
+  }
+
+  .manage-commodities-tbl thead {
+    display: grid !important;
+  }
+
+  .manage-commodities-tbl tbody {
+    display: grid !important;
+  }
+
+  .manage-commodities-tbl th {
+    display: grid !important;
+  }
+
+  .manage-commodities-tbl td {
+    display: flex !important;
+  }
+
+  .manage-commodities-tbl tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manage-commodities-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manage-commodities-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manage-commodities-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manage-commodities-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: break-word;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+  .manage-commodities-tbl-c-disply td:nth-of-type(1):before {
+    content: "Country";
+  }
+
+  .manage-commodities-tbl-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-commodities-tbl td:nth-of-type(2):before {
+    content: "Commodity";
+  }
+
+  .manage-commodities-tbl td:nth-of-type(3):before {
+    content: "Parent Commodity";
+  }
+
+  .manage-commodities-tbl td:nth-of-type(4):before {
+    content: "Status";
+  }
+
+  .manage-commodities-tbl td:nth-of-type(5):before {
+    content: "";
+  }
+
+  .yieldoutcome-table table {
+    display: grid !important;
+  }
+
+  .yieldoutcome-table thead {
+    display: grid !important;
+  }
+
+  .yieldoutcome-table tbody {
+    display: grid !important;
+  }
+
+  .yieldoutcome-table th {
+    display: grid !important;
+  }
+
+  .yieldoutcome-table td {
+    display: flex !important;
+  }
+
+  .yieldoutcome-table tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .yieldoutcome-table thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .yieldoutcome-table tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .yieldoutcome-table td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .yieldoutcome-table td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: break-word;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+
+  .yieldoutcome-table td:nth-of-type(1):before {
+    content: "";
+  }
+
+  .yieldoutcome-table td:nth-of-type(2):before {
+    content: "Crop Name";
+  }
+
+  .yieldoutcome-table td:nth-of-type(3):before {
+    content: "Commodity - Parent Commodity";
+  }
+
+  .yieldoutcome-table td:nth-of-type(4):before {
+    content: "Per Ha";
+  }
+  .yieldoutcome-table td:nth-of-type(5):before {
+    content: "";
+  }
+
+  .manage-crops-tbl table {
+    display: grid !important;
+  }
+
+  .yieldoutcome-table table {
+    display: grid !important;
+  }
+
+  .yieldoutcome-table thead {
+    display: grid !important;
+  }
+
+  .yieldoutcome-table tbody {
+    display: grid !important;
+  }
+
+  .yieldoutcome-table th {
+    display: grid !important;
+  }
+
+  .yieldoutcome-table td {
+    display: flex !important;
+  }
+
+  .yieldoutcome-table tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .yieldoutcome-table thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .yieldoutcome-table tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .yieldoutcome-table td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .yieldoutcome-table td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: break-word;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+
+  .yieldoutcome-table td:nth-of-type(1):before {
+    content: "";
+  }
+
+  .yieldoutcome-table td:nth-of-type(2):before {
+    content: "Crop Name";
+  }
+
+  .yieldoutcome-table td:nth-of-type(3):before {
+    content: "Commodity - Parent Commodity";
+  }
+
+  .yieldoutcome-table td:nth-of-type(4):before {
+    content: "Per Ha";
+  }
+  .yieldoutcome-table td:nth-of-type(5):before {
+    content: "";
+  }
+
+  .manage-crops-tbl table {
+    display: grid !important;
+  }
+
+  .manage-crops-tbl thead {
+    display: grid !important;
+  }
+
+  .manage-crops-tbl tbody {
+    display: grid !important;
+  }
+
+  .manage-crops-tbl th {
+    display: grid !important;
+  }
+
+  .manage-crops-tbl td {
+    display: flex !important;
+  }
+
+  .manage-crops-tbl tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manage-crops-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manage-crops-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manage-crops-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manage-crops-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: break-word;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+  .manage-crops-tbl-c-disply td:nth-of-type(1):before {
+    content: "Country";
+  }
+
+  .manage-crops-tbl-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-crops-tbl td:nth-of-type(2):before {
+    content: "Crop";
+  }
+
+  .manage-crops-tbl td:nth-of-type(3):before {
+    content: "Commodity";
+  }
+
+  .manage-crops-tbl td:nth-of-type(4):before {
+    content: "Crop Images";
+  }
+
+  .manage-crops-tbl td:nth-of-type(5):before {
+    content: "Status";
+  }
+  .manage-crops-tbl td:nth-of-type(6):before {
+    content: "";
+  }
+
+  .break-line {
+    display: none;
+  }
+  .trac-regi-cross {
+    left: 37% !important;
+    top: 51px !important;
+  }
+  .cross-icon {
+    top: 57px !important;
+    left: 31% !important;
+  }
+  .addprogram-wrap {
+    margin: 8px !important;
+  }
+  .addprogram-btn {
+    margin-top: 0px !important;
+  }
+  .add-mbl-section {
+    margin: 0px !important;
+  }
+  .table-bordered {
+    border: none !important;
+  }
+
+  /*   .modal {
+        z-index: 99999999999 !important;
+    }*/
+  /*manage supplier equipment*/
+  .crops-information-table table {
+    display: grid !important;
+  }
+
+  manage-supplier-tbl .crops-information-table thead {
+    display: grid !important;
+  }
+
+  .crops-information-table tbody {
+    display: grid !important;
+  }
+
+  .crops-information-table th {
+    display: grid !important;
+  }
+
+  .crops-information-table td {
+    display: flex !important;
+  }
+
+  .crops-information-table tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .crops-information-table thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .crops-information-table tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .crops-information-table td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .crops-information-table td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  .crops-information-table td:nth-of-type(1):before {
+    content: "Commodity";
+  }
+
+  .crops-information-table td:nth-of-type(2):before {
+    content: "Crop";
+  }
+
+  .crops-information-table td:nth-of-type(3):before {
+    content: "Precult.";
+  }
+
+  .crops-information-table td:nth-of-type(4):before {
+    content: "Cult.";
+  }
+
+  .crops-information-table td:nth-of-type(5):before {
+    content: "Crop Growth";
+  }
+
+  .crops-information-table td:nth-of-type(6):before {
+    content: "Harvest";
+  }
+
+  .crops-information-table td:nth-of-type(7):before {
+    content: "	eSusPoints";
+  }
+
+  .crops-information-table td:nth-of-type(8):before {
+    content: "Last Updated On";
+  }
+
+  .crops-information-table td:nth-of-type(9):before {
+    content: "";
+  }
+
+  /*crops information end*/
+
+  .card-box {
+    margin-left: 0px !important;
+  }
+
+  .page-heading {
+    left: 4px !important;
+  }
+
+  .navbar.navbar-expand-lg.navbar-light.header-main.fixed-top {
+    min-height: 50px;
+    background-color: #fff;
+  }
+  /*manage supplier equipment*/
+  .supplier-equipment-tbl table {
+    display: grid !important;
+  }
+
+  .supplier-equipment-tbl thead {
+    display: grid !important;
+  }
+
+  .supplier-equipment-tbl tbody {
+    display: grid !important;
+  }
+
+  .supplier-equipment-tbl th {
+    display: grid !important;
+  }
+
+  .supplier-equipment-tbl td {
+    display: flex !important;
+  }
+
+  .supplier-equipment-tbl tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .supplier-equipment-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .supplier-equipment-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .supplier-equipment-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .supplier-equipment-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  .supplier-equipment-tbl-c-disply td:nth-of-type(1):before {
+    content: "";
+  }
+
+  .supplier-equipment-tbl-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(2):before {
+    content: "Equipment Name";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(3):before {
+    content: "Supplier Details";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(4):before {
+    content: "Supplier Address";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(5):before {
+    content: "Make";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(6):before {
+    content: "Model";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(7):before {
+    content: "Quantity";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(8):before {
+    content: "	Status";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(9):before {
+    content: "";
+  }
+
+  /*manage supplier equipment end*/
+
+  /*manage farmers crops*/
+  .manage-farmers-crops-tbl table {
+    display: grid !important;
+  }
+
+  .manage-farmers-crops-tbl thead {
+    display: grid !important;
+  }
+
+  .manage-farmers-crops-tbl tbody {
+    display: grid !important;
+  }
+
+  .manage-farmers-crops-tbl th {
+    display: grid !important;
+  }
+
+  .manage-farmers-crops-tbl td {
+    display: grid !important;
+  }
+
+  .manage-farmers-crops-tbl tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manage-farmers-crops-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manage-farmers-crops-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manage-farmers-crops-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manage-farmers-crops-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  .manage-farmers-crops-tbl-c-disply td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-farmers-crops-tbl-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(2):before {
+    content: "Farmer";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(3):before {
+    content: "Location";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(4):before {
+    content: "Commodity";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(5):before {
+    content: "Crop";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(6):before {
+    content: "Precult";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(7):before {
+    content: "	Cult.";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(8):before {
+    content: "Crop Growth";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(9):before {
+    content: "Harvest";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(10):before {
+    content: "eSusPoints";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(11):before {
+    content: "Last UpdatedOn";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(12):before {
+    content: "";
+  }
+  /*manage farmer crops end*/
+  /*manage farmers*/
+  .manage-farmers-tbl table {
+    display: grid !important;
+  }
+
+  .manage-farmers-tbl thead {
+    display: grid !important;
+  }
+
+  .manage-farmers-tbl tbody {
+    display: grid !important;
+  }
+
+  .manage-farmers-tbl th {
+    display: grid !important;
+  }
+
+  .manage-farmers-tbl td {
+    display: flex !important;
+  }
+
+  .manage-farmers-tbl tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manage-farmers-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manage-farmers-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manage-farmers-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manage-farmers-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  .manage-farmers-tbl-c-disply td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-farmers-tbl-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(2):before {
+    content: "Farmer";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(3):before {
+    content: "TnC";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(4):before {
+    content: "Gender";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(5):before {
+    content: "Province";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(6):before {
+    content: "City";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(7):before {
+    content: "Crops#";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(8):before {
+    content: "Program Name";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(9):before {
+    content: "Status";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(10):before {
+    content: "";
+  }
+  /*manage farmers end*/
+  .text-align {
+    text-align: left;
+  }
+
+  .form-group {
+    margin-bottom: 5px !important;
+  }
+
+  .modal-open .modal {
+    z-index: 9999 !important;
+  }
+
+  .modal-dialog.right-popup {
+    padding: 10px;
+    width: 100%;
+  }
+
+  .dotted-spaced {
+    display: -webkit-inline-box;
+    display: inline-flex;
+    padding: 5px 0px 5px 5px !important;
+    width: 100%;
+    color: #000;
+  }
+
+  .nav-link img {
+    float: left;
+    margin-top: 0px !important;
+    margin-left: 0px;
+    margin-right: 15px;
+    width: 20px;
+    height: 20px;
+  }
+
+  #menu li p {
+    margin-bottom: 10px !important;
+  }
+
+  .Manage-users-tbl table {
+    display: grid !important;
+  }
+
+  .Manage-users-tbl thead {
+    display: grid !important;
+  }
+
+  .Manage-users-tbl tbody {
+    display: grid !important;
+  }
+
+  .Manage-users-tbl th {
+    display: grid !important;
+  }
+
+  .Manage-users-tbl td {
+    display: block !important;
+  }
+
+  .Manage-users-tbl tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .Manage-users-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .Manage-users-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .Manage-users-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+    display: block !important;
+  }
+
+  .Manage-users-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+  .Manage-users-tbl-c-disply td:nth-of-type(1):before {
+    content: "Country";
+  }
+
+  .Manage-users-tbl-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .Manage-users-tbl td:nth-of-type(2):before {
+    content: "User";
+  }
+
+  .Manage-users-tbl td:nth-of-type(3):before {
+    content: "Email Id";
+  }
+
+  .Manage-users-tbl td:nth-of-type(4):before {
+    content: "Institutional Name";
+  }
+
+  .Manage-users-tbl td:nth-of-type(5):before {
+    content: "Program Name";
+  }
+
+  .Manage-users-tbl td:nth-of-type(6):before {
+    content: "Role";
+  }
+
+  .Manage-users-tbl td:nth-of-type(7):before {
+    content: "Status";
+  }
+
+  /*manage supplier branches*/
+  .manage-supplier-branch table {
+    display: grid !important;
+  }
+
+  .manage-supplier-branch thead {
+    display: grid !important;
+  }
+
+  .manage-supplier-branch tbody {
+    display: grid !important;
+  }
+
+  .manage-supplier-branch th {
+    display: grid !important;
+  }
+
+  .manage-supplier-branch td {
+    display: flex !important;
+  }
+
+  .manage-supplier-branch tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manage-supplier-branch thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manage-supplier-branch tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manage-supplier-branch td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manage-supplier-branch td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+  .manage-supplier-branch td:nth-of-type(1):before {
+    content: "Company Name";
+  }
+
+  .manage-supplier-branch td:nth-of-type(2):before {
+    content: "Branch Area";
+  }
+
+  .manage-supplier-branch td:nth-of-type(3):before {
+    content: "Branch Head Name";
+  }
+
+  .manage-supplier-branch td:nth-of-type(4):before {
+    content: "Mobile Number";
+  }
+
+  .manage-supplier-branch td:nth-of-type(5):before {
+    content: "Email Id";
+  }
+
+  .manage-supplier-branch td:nth-of-type(6):before {
+    content: "Status";
+  }
+
+  .manage-supplier-branch td:nth-of-type(7):before {
+    content: "";
+  }
+
+  /*manage supplier branch end*/
+  /*buyer branches responsive*/
+  .buyer-branches-tbl table {
+    display: grid !important;
+  }
+
+  .buyer-branches-tbl thead {
+    display: grid !important;
+  }
+
+  .buyer-branches-tbl tbody {
+    display: grid !important;
+  }
+
+  .buyer-branches-tbl th {
+    display: grid !important;
+  }
+
+  .buyer-branches-tbl td {
+    display: flex !important;
+  }
+
+  .buyer-branches-tbl tr {
+    display: grid !important;
+  }
+
+  .buyer-branches-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .buyer-branches-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  .buyer-branches-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .buyer-branches-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  .buyer-branches-tbl td:nth-of-type(1):before {
+    content: "Company Name";
+  }
+
+  .buyer-branches-tbl td:nth-of-type(2):before {
+    content: "Branch Area";
+  }
+
+  .buyer-branches-tbl td:nth-of-type(3):before {
+    content: "Branch Head Name";
+  }
+
+  .buyer-branches-tbl td:nth-of-type(4):before {
+    content: "Mobile Number";
+  }
+
+  .buyer-branches-tbl td:nth-of-type(5):before {
+    content: "Email Id";
+  }
+
+  .buyer-branches-tbl td:nth-of-type(6):before {
+    content: "Status";
+  }
+
+  .buyer-branches-tbl td:nth-of-type(7):before {
+    content: "Action";
+  }
+
+  /*buyer branches responsive end*/
+
+  /*manage programs responsive*/
+  .clearAll_link {
+    position: initial;
+    text-align: right !important;
+    float: right;
+  }
+  /*manage programs responsive*/
+  /*roles-responsive*/
+  .close-btn {
+    font-size: 16px;
+  }
+
+  .logo-xs {
+    width: 120px;
+  }
+
+  .dropdown.displaycountry {
+    margin-left: 0px !important;
+    margin-top: 0px !important;
+    position: absolute;
+    right: 70px;
+    top: 9px;
+  }
+
+  .navbar-collapse {
+    text-align: right !important;
+    background-color: #fff !important;
+    margin-top: 20px;
+  }
+
+  .navbar-light .navbar-toggler {
+    border-color: none !important;
+  }
+
+  .eSusToggle svg {
+    width: 24px;
+  }
+
+  .navbar-light .navbar-toggler {
+    border: none !important;
+  }
+
+  .role-select-card {
+    margin: 0px 0px 20px 0px;
+  }
+
+  .overlay-text {
+    top: 80px;
+    left: 40px;
+  }
+
+  .roles-background-img {
+    height: 200px !important;
+  }
+
+  .overlay-text h3 {
+    font-size: 20px !important;
+  }
+
+  .overlay-text p {
+    font-size: 15px;
+  }
+
+  .roles-blocks {
+    padding: 0px !important;
+  }
+
+  .roles-text {
+    text-align: center !important;
+  }
+
+  .roles-para {
+    width: 100%;
+    text-align: center;
+  }
+
+  .role-select-card {
+    padding: 18px !important;
+    text-align: center;
+  }
+  /*roles-responsive end*/
+  /*login responsive*/
+  .login-form {
+    margin: 20px auto;
+  }
+
+  .registration-form {
+    margin: 0px !important;
+  }
+  /*login responsive end*/
+  .toggle-section {
+    display: contents;
+  }
+
+  .sv-tab-panel h3 {
+    font-size: 16px !important;
+  }
+
+  .sv-tab-panel ul li {
+    font-size: 14px;
+    line-height: 20px;
+  }
+
+  .customer-support-team {
+    float: right;
+    margin-top: 13px;
+  }
+
+  .navbar-collapse {
+    margin-top: 0px;
+  }
+
+  .single-graph-text {
+    width: 50%;
+    height: 40px;
+    position: absolute;
+    top: 39%;
+    left: 22%;
+    font-weight: 700;
+    margin-top: 5px;
+    line-height: 19px;
+    font-size: 10px;
+  }
+
+  .form-check {
+    margin-bottom: 9px;
+  }
+
+  .save-btns {
+    margin-bottom: 20px;
+  }
+
+  .popup-conform-btn {
+    margin-left: 5px;
+  }
+
+  .popup-conform-btn {
+    padding: 8px 17px !important;
+    font-size: 13px !important;
+  }
+
+  ul#menu {
+    background-color: #f9fafc;
+    padding-top: 48px;
+    width: 320px !important;
+  }
+
+  div#menuToggle {
+    position: absolute;
+    display: block !important;
+  }
+
+  .clr-all {
+    margin-top: 0px !important;
+    text-align: right;
+    width: 100%;
+  }
+
+  /* .modal-open .modal {
+        z-index: 9999;
+    }*/
+
+  .table th,
+  .table td {
+    max-width: inherit !important;
+    /* white-space: break-spaces;*/
+  }
+
+  .menu a {
+    color: #6c6e86;
+  }
+
+  .menu .nav-item :active {
+    color: red;
+  }
+
+  i.nav-icon {
+    color: #6c6e86;
+  }
+
+  .page-title {
+    width: 100%;
+    position: relative;
+    left: 47px;
+    margin-left: 0px;
+  }
+
+  /*   .dotted-spaced {
+        display: inline-flex;
+        padding: 0px 5px !important;
+        width: 100%;
+    }
+
+        .dotted-spaced p {
+            margin-left: 10px;
+            color: black;
+            font-size: 14px;
+        }*/
+
+  .nav-item p {
+    margin-left: 10px;
+    display: inline-flex;
+    margin-bottom: 0px;
+  }
+
+  .tabs_heading {
+    margin-left: 0px !important;
+  }
+
+  .snavbar-toggler collapsed .cntry-dropdown {
+    display: contents;
+  }
+
+  .cntry-dropdown {
+    width: inherit;
+  }
+
+  .default-logoblack {
+    display: none;
+  }
+
+  .role-header {
+    margin-left: 24% !important;
+  }
+
+  .splr-reg-popup {
+    padding-right: 0px !important;
+  }
+
+  section.tabs {
+    margin-bottom: 14px;
+    margin-top: 20px;
+  }
+
+  .section-heading {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 15px;
+  }
+
+  .section-heading h1 {
+    margin-top: 0px;
+    font-size: 16px;
+    /* margin-top: 10px; */
+    text-transform: uppercase;
+  }
+
+  .vertical-tabs .nav.nav-tabs {
+    border-bottom: 0;
+    border-right: 1px solid transparent;
+    display: block;
+    float: right;
+    text-align: right;
+    margin-top: 109px;
+  }
+
+  .vertical-tabs .nav-tabs .nav-link {
+    padding: 10px 20px;
+    border: 0px !important;
+    min-width: 180px;
+    font-size: 14px;
+  }
+
+  .tab-pane {
+    padding: 0px;
+  }
+
+  vertical-tabs div.tab-content {
+    padding: 15px;
+    min-height: 500px !important;
+  }
+
+  .vertical-tabs .sv-tab-panel {
+    background: #fff;
+    padding-top: 10px;
+  }
+
+  .nav.nav-tabs {
+    margin-right: 20px;
+    width: 85% !important;
+  }
+
+  .ytp-cued-thumbnail-overlay-image {
+    background-size: 100% 100% !important;
+  }
+
+  .displaycountry {
+    width: max-content;
+    text-align: right;
+    float: right;
+  }
+
+  .post-heading {
+    padding: 20px 10px;
+  }
+
+  .padd-xs-lr-0 {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+
+  .padd-xs-left-0 {
+    padding-left: 0px !important;
+  }
+
+  .padd-xs-right-0 {
+    padding-right: 0px !important;
+  }
+
+  .padd-xs-left-5 {
+    padding-left: 5px !important;
+  }
+
+  .padd-xs-right-5 {
+    padding-right: 5px !important;
+  }
+
+  .white-phone-img {
+    display: none;
+  }
+
+  .manage-supplier-tbl table {
+    display: grid !important;
+  }
+
+  .manage-supplier-tbl thead {
+    display: grid !important;
+  }
+
+  .manage-supplier-tbl tbody {
+    display: grid !important;
+  }
+
+  .manage-supplier-tbl th {
+    display: grid !important;
+  }
+
+  .manage-supplier-tbl td {
+    display: flex !important;
+  }
+
+  .manage-supplier-tbl tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manage-supplier-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manage-supplier-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manage-supplier-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manage-supplier-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: break-word;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+  .manage-supplier-tbl-c-disply td:nth-of-type(1):before {
+    content: "";
+  }
+
+  .manage-supplier-tbl-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(2):before {
+    content: "Company Name";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(3):before {
+    content: "Mobile Number";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(4):before {
+    content: "Email Id";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(5):before {
+    content: "Location/Address";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(6):before {
+    content: "Services/Product";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(7):before {
+    content: " status";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(8):before {
+    content: "verification status";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(9):before {
+    content: "";
+  }
+
+  .bulksms-card {
+    padding: 0.25rem !important;
+  }
+
+  .manageprograms_table table {
+    display: grid !important;
+  }
+
+  .manageprograms_table thead {
+    display: grid !important;
+  }
+
+  .manageprograms_table tbody {
+    display: grid !important;
+  }
+
+  .manageprograms_table th {
+    display: grid !important;
+  }
+
+  .manageprograms_table td {
+    display: flex !important;
+  }
+
+  .manageprograms_table tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manageprograms_table thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manageprograms_table tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manageprograms_table td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manageprograms_table td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: break-word;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+  .manageprograms_table-c-disply td:nth-of-type(1):before {
+    content: "Country";
+  }
+
+  .manageprograms_table-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manageprograms_table td:nth-of-type(2):before {
+    content: "Institutional Name";
+  }
+
+  .manageprograms_table td:nth-of-type(3):before {
+    content: "Program Name";
+  }
+
+  .manageprograms_table td:nth-of-type(4):before {
+    content: "Program Description";
+  }
+
+  .manageprograms_table td:nth-of-type(5):before {
+    content: "Total Farmers";
+  }
+
+  .manageprograms_table td:nth-of-type(6):before {
+    content: "status";
+  }
+
+  .manageprograms_table td:nth-of-type(7):before {
+    content: "";
+  }
+
+  .ui-g-6 {
+    width: 50% !important;
+  }
+
+  .log_btn {
+    width: 32% !important;
+    float: unset;
+  }
+
+  .clear-all {
+    margin-top: 0px !important;
+    text-align: right;
+    width: 100%;
+  }
+
+  .add-btn {
+    margin-top: 10px;
+  }
+
+  img.dotts-icon {
+    display: none;
+  }
+
+  .manage-buyers-table table {
+    display: grid !important;
+  }
+
+  .manage-buyers-table thead {
+    display: grid !important;
+  }
+
+  .manage-buyers-table tbody {
+    display: grid !important;
+  }
+
+  .manage-buyers-table th {
+    display: grid !important;
+  }
+
+  .manage-buyers-table td {
+    display: flex !important;
+  }
+
+  .manage-buyers-table tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manage-buyers-table thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manage-buyers-table tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manage-buyers-table td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manage-buyers-table td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+  .manage-buyers-table-c-disply td:nth-of-type(1):before {
+    content: "";
+  }
+
+  .manage-buyers-table-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-buyers-table td:nth-of-type(2):before {
+    content: "Company Name";
+  }
+
+  .manage-buyers-table td:nth-of-type(3):before {
+    content: "Name";
+  }
+
+  .manage-buyers-table td:nth-of-type(4):before {
+    content: "mobile number";
+  }
+
+  .manage-buyers-table td:nth-of-type(5):before {
+    content: "Email Id";
+  }
+
+  .manage-buyers-table td:nth-of-type(6):before {
+    content: "Status";
+  }
+
+  .manage-buyers-table td:nth-of-type(7):before {
+    content: "Verification Status";
+  }
+
+  .manage-buyers-table td:nth-of-type(8):before {
+    content: "Action";
+  }
+
+  .manage-buyers-table td:nth-of-type(9):before {
+    content: "";
+  }
+
+  .invite-popup {
+    right: 25px !important;
+  }
+
+  .manage-order-btn {
+    padding: 7px 7px !important;
+  }
+
+  .sign-up-link {
+    margin-top: 10px;
+    padding-left: 0px !important;
+    display: inline;
+  }
+
+  .ftco-footer-widget {
+    float: left !important;
+  }
+
+  .side-popup {
+    right: 0px !important;
+  }
+
+  .modal-content {
+    width: 100% !important;
+    /* position: relative; */
+    right: 0px !important;
+    height: 100%;
+  }
+
+  .dct-model {
+    overflow-x: scroll;
+  }
+
+  .ml-10 {
+    margin-left: 10px;
+  }
+  ::ng-deep .p-dialog {
+    min-width: 100% !important;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .place-order-wrap img {
+    width: 76px;
+  }
+  .place-order-wrap h1 {
+    font-size: 30px !important;
+  }
+  .place-order-wrap p {
+    font-size: 17px !important;
+  }
+
+  ::ng-deep .p-dialog {
+    min-width: 100% !important;
+  }
+
+  .break-line {
+    display: none;
+  }
+  section.tabs {
+    margin-top: 40px;
+  }
+  .padd-md-0 {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  label {
+    font-size: 10px !important;
+  }
+  /*manage supplier branches*/
+  .manage-supplier-branch table {
+    display: grid !important;
+  }
+
+  .manage-supplier-branch thead {
+    display: grid !important;
+  }
+
+  .manage-supplier-branch tbody {
+    display: grid !important;
+  }
+
+  .manage-supplier-branch th {
+    display: grid !important;
+  }
+
+  .manage-supplier-branch td {
+    display: flex !important;
+  }
+
+  .manage-supplier-branch tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manage-supplier-branch thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manage-supplier-branch tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manage-supplier-branch td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manage-supplier-branch td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+  .manage-supplier-branch td:nth-of-type(1):before {
+    content: "Company Name";
+  }
+
+  .manage-supplier-branch td:nth-of-type(2):before {
+    content: "Branch Area";
+  }
+
+  .manage-supplier-branch td:nth-of-type(3):before {
+    content: "Branch Head Name";
+  }
+
+  .manage-supplier-branch td:nth-of-type(4):before {
+    content: "Mobile Number";
+  }
+
+  .manage-supplier-branch td:nth-of-type(5):before {
+    content: "Email Id";
+  }
+
+  .manage-supplier-branch td:nth-of-type(6):before {
+    content: "Status";
+  }
+
+  .manage-supplier-branch td:nth-of-type(7):before {
+    content: "";
+  }
+
+  /*manage supplier branch end*/
+
+  .manage-supplier-tbl table {
+    display: grid !important;
+  }
+
+  .manage-supplier-tbl thead {
+    display: grid !important;
+  }
+
+  .manage-supplier-tbl tbody {
+    display: grid !important;
+  }
+
+  .manage-supplier-tbl th {
+    display: grid !important;
+  }
+
+  .manage-supplier-tbl td {
+    display: flex !important;
+  }
+
+  .manage-supplier-tbl tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manage-supplier-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manage-supplier-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manage-supplier-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manage-supplier-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: break-word;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+  .manage-supplier-tbl-c-disply td:nth-of-type(1):before {
+    content: "";
+  }
+
+  .manage-supplier-tbl-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(2):before {
+    content: "Company Name";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(3):before {
+    content: "Mobile Number";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(4):before {
+    content: "Email Id";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(5):before {
+    content: "Location/Address";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(6):before {
+    content: "Services/Product";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(7):before {
+    content: " status";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(8):before {
+    content: "verification status";
+  }
+
+  .manage-supplier-tbl td:nth-of-type(9):before {
+    content: "";
+  }
+
+  .card-box {
+    margin-left: 0px !important;
+  }
+  /*manage supplier equipment*/
+  .crops-information-table table {
+    display: grid !important;
+  }
+
+  .crops-information-table thead {
+    display: grid !important;
+  }
+
+  .crops-information-table tbody {
+    display: grid !important;
+  }
+
+  .crops-information-table th {
+    display: grid !important;
+  }
+
+  .crops-information-table td {
+    display: flex !important;
+  }
+
+  .crops-information-table tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .crops-information-table thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .crops-information-table tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .crops-information-table td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .crops-information-table td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  .crops-information-table td:nth-of-type(1):before {
+    content: "Commodity";
+  }
+
+  .crops-information-table td:nth-of-type(2):before {
+    content: "Crop";
+  }
+
+  .crops-information-table td:nth-of-type(3):before {
+    content: "Precult.";
+  }
+
+  .crops-information-table td:nth-of-type(4):before {
+    content: "Cult.";
+  }
+
+  .crops-information-table td:nth-of-type(5):before {
+    content: "Crop Growth";
+  }
+
+  .crops-information-table td:nth-of-type(6):before {
+    content: "Harvest";
+  }
+
+  .crops-information-table td:nth-of-type(7):before {
+    content: "	eSusPoints";
+  }
+
+  .crops-information-table td:nth-of-type(8):before {
+    content: "Last Updated On";
+  }
+
+  .crops-information-table td:nth-of-type(9):before {
+    content: "";
+  }
+
+  /*crops information end*/
+
+  .page-heading {
+    left: 4px !important;
+  }
+
+  .ml-10 {
+    margin-left: 10px;
+  }
+  /*manage supplier equipment*/
+  .supplier-equipment-tbl table {
+    display: grid !important;
+  }
+
+  .supplier-equipment-tbl thead {
+    display: grid !important;
+  }
+
+  .supplier-equipment-tbl tbody {
+    display: grid !important;
+  }
+
+  .supplier-equipment-tbl th {
+    display: grid !important;
+  }
+
+  .supplier-equipment-tbl td {
+    display: flex !important;
+  }
+
+  .supplier-equipment-tbl tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .supplier-equipment-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .supplier-equipment-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .supplier-equipment-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .supplier-equipment-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  .supplier-equipment-tbl-c-disply td:nth-of-type(1):before {
+    content: "";
+  }
+
+  .supplier-equipment-tbl-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(2):before {
+    content: "Equipment Name";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(3):before {
+    content: "Supplier Details";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(4):before {
+    content: "Supplier Address";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(5):before {
+    content: "Make";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(6):before {
+    content: "Model";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(7):before {
+    content: "Quantity";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(8):before {
+    content: "	Status";
+  }
+
+  .supplier-equipment-tbl td:nth-of-type(9):before {
+    content: "";
+  }
+  /*manage supplier equipment end*/
+
+  /*manage farmers crops*/
+
+  .manage-farmers-crops-tbl table {
+    display: grid !important;
+  }
+
+  .manage-farmers-crops-tbl thead {
+    display: grid !important;
+  }
+
+  .manage-farmers-crops-tbl tbody {
+    display: grid !important;
+  }
+
+  .manage-farmers-crops-tbl th {
+    display: grid !important;
+  }
+
+  .manage-farmers-crops-tbl td {
+    display: grid !important;
+  }
+
+  .manage-farmers-crops-tbl tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manage-farmers-crops-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manage-farmers-crops-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manage-farmers-crops-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manage-farmers-crops-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  .manage-farmers-crops-tbl-c-disply td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-farmers-crops-tbl-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(2):before {
+    content: "Farmer";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(3):before {
+    content: "Location";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(4):before {
+    content: "Commodity";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(5):before {
+    content: "Crop";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(6):before {
+    content: "Precult";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(7):before {
+    content: "	Cult.";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(8):before {
+    content: "Crop Growth";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(9):before {
+    content: "Harvest";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(10):before {
+    content: "eSusPoints";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(11):before {
+    content: "Last UpdatedOn";
+  }
+
+  .manage-farmers-crops-tbl td:nth-of-type(12):before {
+    content: "";
+  }
+  /*manage farmer crops end*/
+
+  /*manage farmers*/
+  .manage-farmers-tbl table {
+    display: grid !important;
+  }
+
+  .manage-farmers-tbl thead {
+    display: grid !important;
+  }
+
+  .manage-farmers-tbl tbody {
+    display: grid !important;
+  }
+
+  .manage-farmers-tbl th {
+    display: grid !important;
+  }
+
+  .manage-farmers-tbl td {
+    display: flex !important;
+  }
+
+  .manage-farmers-tbl tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manage-farmers-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manage-farmers-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manage-farmers-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manage-farmers-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  .manage-farmers-tbl-c-disply td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-farmers-tbl-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(2):before {
+    content: "Farmer";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(3):before {
+    content: "TnC";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(4):before {
+    content: "Gender";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(5):before {
+    content: "Province";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(6):before {
+    content: "City";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(7):before {
+    content: "Crops#";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(8):before {
+    content: "Program Name";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(9):before {
+    content: "Status";
+  }
+
+  .manage-farmers-tbl td:nth-of-type(10):before {
+    content: "";
+  }
+  /*manage farmers end*/
+  .text-align {
+    text-align: left;
+  }
+
+  /*buyer branches responsive*/
+  .buyer-branches-tbl table {
+    display: grid !important;
+  }
+
+  .buyer-branches-tbl thead {
+    display: grid !important;
+  }
+
+  .buyer-branches-tbl tbody {
+    display: grid !important;
+  }
+
+  .buyer-branches-tbl th {
+    display: grid !important;
+  }
+
+  .buyer-branches-tbl td {
+    display: flex !important;
+  }
+
+  .buyer-branches-tbl tr {
+    display: grid !important;
+  }
+
+  .buyer-branches-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .buyer-branches-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  .buyer-branches-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .buyer-branches-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  .buyer-branches-tbl td:nth-of-type(1):before {
+    content: "Company Name";
+  }
+
+  .buyer-branches-tbl td:nth-of-type(2):before {
+    content: "Branch Area";
+  }
+
+  .buyer-branches-tbl td:nth-of-type(3):before {
+    content: "Branch Head Name";
+  }
+
+  .buyer-branches-tbl td:nth-of-type(4):before {
+    content: "Mobile Number";
+  }
+
+  .buyer-branches-tbl td:nth-of-type(5):before {
+    content: "Email Id";
+  }
+
+  .buyer-branches-tbl td:nth-of-type(6):before {
+    content: "Status";
+  }
+
+  .buyer-branches-tbl td:nth-of-type(7):before {
+    content: "Action";
+  }
+
+  /*buyer branches responsive end*/
+
+  .main-sidebar {
+    display: none;
+  }
+
+  .main-header {
+    margin-left: 0px;
+  }
+
+  .content-wrapper,
+  .main-footer,
+  .main-header {
+    margin-left: 0px !important;
+  }
+
+  div#menuToggle {
+    display: block !important;
+  }
+
+  .page-title {
+    margin-left: 46px;
+    margin-top: 7px;
+  }
+
+  .dotted-spaced {
+    display: -webkit-inline-box;
+    display: inline-flex;
+    padding: 5px 0px 5px 5px !important;
+    width: 100%;
+    color: #000;
+  }
+
+  #menu {
+    width: 320px !important;
+  }
+
+  .nav-link img {
+    float: left;
+    margin-top: 0px !important;
+    margin-left: 0px;
+    margin-right: 15px;
+    width: 20px;
+    height: 20px;
+  }
+
+  .close-btn {
+    font-size: 16px;
+  }
+
+  .role-select-card h5 {
+    font-size: 16px;
+  }
+
+  .role-select-card p {
+    font-size: 12px;
+    min-height: 95px;
+  }
+
+  .col-padding {
+    padding: 0px 5px;
+  }
+
+  .registration-form {
+    margin-top: 0px !important;
+    padding: 15px !important;
+    overflow: hidden;
+  }
+
+  .navbar-light .navbar-toggler {
+    border: none !important;
+  }
+
+  ul#menu {
+    background-color: #f9fafc;
+    padding-top: 48px;
+  }
+
+  .esuspr-img {
+    height: 100px;
+  }
+
+  .logo-xs {
+    width: 145px;
+  }
+
+  .dropdown.displaycountry {
+    margin-left: 0px !important;
+    margin-top: 0px !important;
+    position: absolute;
+    right: 95px;
+    top: 12px;
+  }
+
+  .table th,
+  .table td {
+    max-width: inherit !important;
+    /* white-space: break-spaces;*/
+  }
+
+  .clr-all {
+    margin-top: 0px !important;
+    text-align: right;
+    width: 100%;
+  }
+
+  .tabs_heading {
+    margin-left: 0px !important;
+  }
+
+  .modal-vcenter .modal-dialog .modal-content {
+    margin-top: 13px;
+  }
+
+  .role-header {
+    margin-left: 57% !important;
+  }
+
+  .white-phone-img {
+    display: none;
+  }
+
+  .manage-buyers-table .clear-all {
+    margin-top: 40px !important;
+    text-align: right;
+  }
+
+  .add-btn {
+    margin-top: 10px;
+  }
+
+  .manageprograms_table table {
+    display: grid !important;
+  }
+
+  .manageprograms_table thead {
+    display: grid !important;
+  }
+
+  .manageprograms_table tbody {
+    display: grid !important;
+  }
+
+  .manageprograms_table th {
+    display: grid !important;
+  }
+
+  .manageprograms_table td {
+    display: flex !important;
+  }
+
+  .manageprograms_table tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manageprograms_table thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manageprograms_table tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manageprograms_table td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manageprograms_table td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: break-word;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+  .manageprograms_table-c-disply td:nth-of-type(1):before {
+    content: "Country";
+  }
+
+  .manageprograms_table-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manageprograms_table td:nth-of-type(2):before {
+    content: "Institutional Name";
+  }
+
+  .manageprograms_table td:nth-of-type(3):before {
+    content: "Program Name";
+  }
+
+  .manageprograms_table td:nth-of-type(4):before {
+    content: "Program Description";
+  }
+
+  .manageprograms_table td:nth-of-type(5):before {
+    content: "Total Farmers";
+  }
+
+  .manageprograms_table td:nth-of-type(6):before {
+    content: "status";
+  }
+
+  .manageprograms_table td:nth-of-type(7):before {
+    content: "";
+  }
+
+  .manage-buyers-table table {
+    display: grid !important;
+  }
+
+  .manage-buyers-table thead {
+    display: grid !important;
+  }
+
+  .manage-buyers-table tbody {
+    display: grid !important;
+  }
+
+  .manage-buyers-table th {
+    display: grid !important;
+  }
+
+  .manage-buyers-table td {
+    display: flex !important;
+  }
+
+  .manage-buyers-table tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .manage-buyers-table thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .manage-buyers-table tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .manage-buyers-table td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .manage-buyers-table td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+  .manage-buyers-table-c-disply td:nth-of-type(1):before {
+    content: "";
+  }
+
+  .manage-buyers-table-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .manage-buyers-table td:nth-of-type(2):before {
+    content: "Company Name";
+  }
+
+  .manage-buyers-table td:nth-of-type(3):before {
+    content: "Name";
+  }
+
+  .manage-buyers-table td:nth-of-type(4):before {
+    content: "mobile number";
+  }
+
+  .manage-buyers-table td:nth-of-type(5):before {
+    content: "Email Id";
+  }
+
+  .manage-buyers-table td:nth-of-type(6):before {
+    content: "Status";
+  }
+
+  .manage-buyers-table td:nth-of-type(7):before {
+    content: "Verification Status";
+  }
+
+  .manage-buyers-table td:nth-of-type(8):before {
+    content: "Action";
+  }
+
+  .manage-buyers-table td:nth-of-type(9):before {
+    content: "";
+  }
+
+  .splr-rgst-content {
+    width: 680px !important;
+  }
+
+  .roles-para {
+    width: 100%;
+    font-size: 16px;
+    margin-left: 41px;
+  }
+
+  .role-select-card {
+    height: auto;
+    margin: 0rem;
+    padding: 6px;
+    margin-bottom: 10px;
+    min-height: 340px;
+  }
+
+  .dotts-icon {
+    display: none;
+  }
+
+  .Manage-users-tbl table {
+    display: grid !important;
+  }
+
+  .Manage-users-tbl thead {
+    display: grid !important;
+  }
+
+  .Manage-users-tbl tbody {
+    display: grid !important;
+  }
+
+  .Manage-users-tbl th {
+    display: grid !important;
+  }
+
+  .Manage-users-tbl td {
+    display: grid !important;
+    /* line-height:10px;*/
+  }
+
+  .Manage-users-tbl tr {
+    display: grid !important;
+  }
+
+  /* Hide table headers (but not display: none;, for accessibility) */
+  .Manage-users-tbl thead tr {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+
+  .Manage-users-tbl tr {
+    margin: 0 0 1rem 0;
+  }
+
+  /* .newordertable_wrap tr:nth-child(odd) {
+  background: #ccc;
+} */
+
+  .Manage-users-tbl td {
+    /* Behave  like a "row" */
+    border: none;
+    border-bottom: none;
+    position: relative;
+    padding-left: 50% !important;
+    word-break: break-word;
+  }
+
+  .Manage-users-tbl td:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 0;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    white-space: nowrap;
+    top: 10px;
+  }
+
+  /*
+    Label the data
+You could also use a data-* attribute and content for this. That way "bloats" the HTML, this way means you need to keep HTML and CSS in sync. Lea Verou has a clever way to handle with text-shadow.
+    */
+  .Manage-users-tbl-c-disply td:nth-of-type(1):before {
+    content: "Country";
+  }
+
+  .Manage-users-tbl-c-dnone td:nth-of-type(1):before {
+    content: " ";
+  }
+
+  .Manage-users-tbl td:nth-of-type(2):before {
+    content: "User";
+  }
+
+  .Manage-users-tbl td:nth-of-type(3):before {
+    content: "Email Id";
+  }
+
+  .Manage-users-tbl td:nth-of-type(4):before {
+    content: "Institutional Name";
+  }
+
+  .Manage-users-tbl td:nth-of-type(5):before {
+    content: "Program Name";
+  }
+
+  .Manage-users-tbl td:nth-of-type(6):before {
+    content: "Role";
+  }
+
+  .Manage-users-tbl td:nth-of-type(7):before {
+    content: "Status";
+  }
+
+  .add-user-btn {
+    margin-top: 35px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .order-details-img-maxi {
+    width: 100% !important;
+    height: 150px !important;
+  }
+  .track-order-btn {
+    padding: 4px 10px !important;
+  }
+  .img-wrap img {
+    min-height: 190px;
+  }
+  .track-img {
+    width: 15px;
+    margin-right: 0px !important;
+  }
+  .pdct-Title {
+    left: 0px !important;
+  }
+  .span-btns span {
+    width: 45% !important;
+  }
+  .span-btns .btn-primary {
+    width: 48%;
+  }
+  .span-btns .basic-btn {
+    width: 52%;
+  }
+  .track-order-btn {
+    margin-top: 20px;
+  }
+
+  .break-line {
+    display: none;
+  }
+  .clr-all {
+    margin-top: 0 !important;
+    text-align: right;
+    width: 100%;
+  }
+
+  .side-popup {
+    right: 43px !important;
+  }
+
+  .mb-btn-xs {
+    margin-bottom: 47px;
+  }
+
+  .toggle-section {
+    width: 34%;
+  }
+
+  .navbar-light .navbar-toggler {
+    border: none !important;
+  }
+
+  .vertical-tabs div.tab-content {
+    min-height: 500px;
+    padding: 10px;
+  }
+
+  .sv-tab-panel ul {
+    margin-left: 20px;
+  }
+
+  .vertical-tabs .nav-tabs .nav-link {
+    padding: 10px 24px;
+  }
+
+  .table th,
+  .table td {
+    max-width: inherit !important;
+    /* white-space: break-spaces;*/
+  }
+
+  .clear-all {
+    text-align: right;
+  }
+
+  .modal-vcenter .modal-dialog .modal-content {
+    margin-top: 137px;
+  }
+
+  .role-header {
+    margin-left: 62% !important;
+  }
+
+  .login-btn {
+    margin-left: 52%;
+  }
+
+  .add-btn {
+    margin-top: 10px;
+  }
+
+  .scroll-table .table {
+    width: 1200px;
+    max-width: 1200px;
+  }
+
+  .scroll-table {
+    overflow-x: auto;
+  }
+
+  .login-form {
+    width: 50%;
+  }
+
+  .role-select-card {
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    /* margin: 1rem; */
+    position: relative;
+    padding: 10px;
+    margin-bottom: 15px !important;
+    margin: 0px;
+  }
+
+  .role-select-card p {
+    min-height: 105px;
+  }
+
+  .dotts-icon {
+    bottom: 12px;
+  }
+
+  .roles-para {
+    width: 97%;
+    padding-left: 30px;
+  }
+}
+
+#exampleModal2 {
+  padding-right: 0px !important;
+}
+
+@media (min-width: 1200px) {
+  .side-popup {
+    right: 43px !important;
+  }
+}
+
+::ng-deep
+  .mat-autocomplete-panel
+  .mat-option.mat-selected:not(.mat-active):not(:hover):not(.mat-option-disabled) {
+  color: #fff;
+  background-color: lightgray !important;
+}
+
+.wid-250 {
+  width: 250px;
+}
+
+.wid-150 {
+  width: 150px;
+}
+
+.wid-190 {
+  width: 190px;
+}
+
+::ng-deep .mat-select-panel {
+  background-color: white;
+}
+
+::ng-deep .mat-pseudo-checkbox {
+  color: #000;
+}
+
+aside#mySidebar {
+  position: absolute;
+}
+
+a.brand-link {
+  background-color: white;
+  width: 254px;
+  height: 59px;
+}
+
+/*tool tip hover popup*/
+.clr-all {
+  margin-top: 40px;
+  margin-left: 10px;
+}
+
+.link {
+  position: relative;
+  /*padding: 12px 5px 0px 5px; */ /* padding: 12px 5px;*/
+}
+
+.link:before {
+  content: "";
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+  left: 50%;
+  transform: translate3d(-50%, 0%, 0);
+  transition: all 0.3s ease;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 10px 10px 0 10px;
+  border-color: #282828 transparent transparent transparent;
+}
+
+.link:after {
+  text-transform: none;
+  content: attr(data-tooltip);
+  font-size: 13px;
+  font-weight: 500;
+  position: absolute;
+  color: #fff;
+  background: #282828;
+  padding: 8px 12px;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  max-width: 120px;
+  opacity: 0;
+  pointer-events: none;
+  left: 50%;
+  top: 0;
+  border-radius: 4px;
+  transform: translate3d(-50%, 0%, 0);
+  transition: all 0.3s ease;
+}
+
+.link:hover:before,
+.link:hover:after {
+  opacity: 1;
+}
+
+.link:hover:before {
+  transform: translate3d(-50%, calc(-100% - 18px), 0);
+  display: none;
+}
+
+.link:hover:after {
+  transform: translate3d(-6%, calc(-100% - 16px), 0);
+}
+
+abbr[data-title] {
+  position: relative;
+  text-decoration: underline dotted;
+}
+
+abbr[data-title]:hover::after,
+abbr[data-title]:focus::after {
+  content: attr(data-title);
+  position: absolute;
+  left: 50%;
+  top: -30px;
+  transform: translateX(-50%);
+  width: auto;
+  white-space: nowrap;
+  background: #ff0060;
+  color: #fff;
+  border-radius: 2px;
+  box-shadow: 1px 1px 5px 0 rgba(0, 0, 0, 0.4);
+  font-size: 14px;
+  padding: 3px 5px;
+}
+.card .card-title {
+  color: #2a3544 !important;
+  text-transform: uppercase;
+  font-size: 12px !important;
+  font-weight: 600;
+}
+
+::ng-deep .mat-autocomplete-panel {
+  width: inherit !important;
+}
+/*tool tip hover popup end*/
+
+.simple-gallery {
+  width: 100%;
+  display: block;
+  margin: auto;
+}
+.mini {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 10px;
+}
+
+.mini img {
+  width: 100%;
+  height: auto;
+  float: left;
+  margin: 10px 0px 0px 0px;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+.mini img:nth-of-type(4) {
+  margin-right: 0px;
+}
+
+.pdct-Title {
+  color: #111d34;
+  font-size: 20px;
+  font-weight: 500;
+  margin: 15px 12px 15px 0px;
+}
+
+.product-details-sec {
+  border-bottom: 1px solid #ebeef4;
+}
+
+.pdct-Title span {
+  font-size: 14px;
+}
+
+.pin {
+  object-fit: contain;
+}
+
+.dropdown-sec p {
+  background: black;
+  color: white;
+  margin-bottom: 40px;
+  padding: 5px 10px;
+}
+
+.dropdown-sec select.form-control {
+  display: inline-flex;
+  float: left;
+  width: 30% !important;
+  margin-right: 20px;
+  /* margin-top: 20px; */
+  margin-bottom: 30px;
+}
+
+.dropdown-sec {
+  width: 100%;
+  /* border-bottom: 1px solid; */
+  display: flex;
+}
+
+.pdct-sub-Title {
+  color: #111d34;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.margin-gap {
+  margin: 15px 0px;
+}
+.final-price-sec span {
+  margin-bottom: 0px !important;
+}
+.final-price-sec h6 {
+  margin-bottom: 0px !important;
+}
+.weight-txt {
+  font-size: 14px;
+  font-weight: 500;
+  color: #8193b4;
+  margin-left: 20px;
+}
+
+.form-inline .form-control {
+  display: inline-block;
+  width: 32%;
+  vertical-align: middle;
+  margin-right: 10px;
+  padding: 0.375rem 0.5rem;
+}
+
+.label-txt {
+  font-size: 12px;
+  font-weight: 500;
+  color: #657eae;
+  margin-right: 10px;
+}
+
+.text-red {
+  color: #d3333d !important;
+}
+
+.warning-txt {
+  font-size: 11px;
+  margin-left: 4px;
+}
+
+.radio-btn-txt {
+  color: #8193b4;
+  text-transform: initial;
+  font-size: 14px !important;
+}
+
+.outline-btn {
+  border-color: #61a734 !important;
+  color: #61a734 !important;
+  padding: 9px 35px !important;
+  font-size: 14px !important;
+  margin-right: 20px !important;
+}
+
+.outline-btn:hover {
+  background-color: transparent !important;
+  border-color: #61a734 !important;
+  color: #61a734 !important;
+}
+
+.product-primary-btn {
+  padding: 9px 40px !important;
+  font-size: 14px !important;
+  background-color: #61a734 !important;
+  border-color: #909e88 !important;
+  color: #ffffff !important;
+}
+
+.product-primary-btn:hover {
+  color: #ffffff !important;
+}
+
+.main-sub-heading h5 {
+  font-size: 14px;
+  font-weight: 500;
+  color: #111d34;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.main-sub-heading {
+  border-bottom: 4px solid;
+  color: #61a734;
+  display: inline-block;
+  padding-right: 15px;
+}
+
+.paras h5 {
+  font-size: 16px;
+  font-weight: 500;
+  color: #111d34;
+  line-height: 40px;
+  margin: 15px 20px 15px 0px;
+}
+
+.paras p {
+  font-size: 16px;
+  line-height: 1.2;
+  color: #3c4e71;
+}
+
+.padd-left-10 {
+  padding-left: 10px;
+}
+
+.padd-10 {
+  padding: 10px !important;
+}
+
+.img-wrap {
+  position: relative;
+  min-height: 130px;
+}
+
+.text-block {
+  background-color: #111d34;
+  color: white;
+  padding-right: 20px;
+  display: inline-block;
+  padding: 4px 16px;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  opacity: 0.79;
+  font-size: 12px;
+}
+
+.img-content label {
+  font-size: 16px !important;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  text-transform: capitalize;
+  margin: 20px 20px 10px 0px;
+  cursor: pointer;
+}
+
+.product-price h4 {
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 20px;
+  color: #111d34;
+}
+
+.product-price p {
+  font-size: 11px;
+  font-weight: 500;
+  color: #8193b4;
+}
+
+.form-inline .inline-forms {
+  width: 35% !important;
+  margin-right: 4px !important;
+}
+
+.gray-btn {
+  background-color: #d0d8e6;
+  border-color: #d0d8e6;
+  padding: 5px 20px;
+  color: #ffffff;
+  font-size: 13px;
+}
+
+.card-out-heading h4 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #111d34;
+  margin: 35px 20px 20px 16px;
+}
+.input-group-append,
+.input-group-prepend {
+  display: contents !important;
+}
+.col-cus-rm h4 {
+  font-size: 12px;
+  color: #657eae;
+  font-weight: 500;
+  margin-bottom: 2px;
+}
+.col-cus-rm p {
+  font-size: 12px;
+  color: #1b2332;
+  font-weight: 500;
+}
+.green-gradient-btn {
+  text-transform: uppercase;
+  padding: 5px 20px;
+  font-size: 10px;
+  border-radius: 15px;
+  float: left;
+  cursor: pointer;
+}
+.green-on-b {
+  background-color: #c4faea;
+  color: #08b381;
+}
+.red-gradient-btn {
+  text-transform: uppercase;
+  padding: 5px 20px;
+  font-size: 10px;
+  border-radius: 15px;
+  float: left;
+  cursor: pointer;
+}
+
+.red-on-b {
+  background-color: #ffd6d9;
+  color: #ff5660;
+}
+
+.aurorablue-gradient-btn {
+  text-transform: uppercase;
+  padding: 5px 20px;
+  font-size: 10px;
+  border-radius: 15px;
+  float: left;
+  cursor: pointer;
+}
+
+.aurorablue-on-b {
+  background-color: #e1e9f7;
+  color: #657eae;
+}
+
+.brown-gradient-btn {
+  text-transform: uppercase;
+  padding: 5px 20px;
+  font-size: 10px;
+  border-radius: 15px;
+  float: left;
+  cursor: pointer;
+}
+
+.darkgreen-on-b {
+  background-color: #b5ffe9;
+  color: #06a3ae;
+}
+.darkgreen-gradient-btn {
+  text-transform: uppercase;
+  padding: 5px 20px;
+  font-size: 10px;
+  border-radius: 15px;
+  float: left;
+  cursor: pointer;
+}
+
+.blue-on-b {
+  background-color: #c3d5ff;
+  color: #4880ff;
+}
+.blue-gradient-btn {
+  text-transform: uppercase;
+  padding: 5px 20px;
+  font-size: 10px;
+  border-radius: 15px;
+  float: left;
+  cursor: pointer;
+}
+
+.brown-on-b {
+  background-color: #f8eaba;
+  color: #b7900f;
+}
+.outline-butn {
+  border-color: #61a734 !important;
+  color: #61a734 !important;
+  padding: 6px 25px !important;
+}
+.outline-butn:hover {
+  border-color: #61a734 !important;
+  color: #61a734 !important;
+  background-color: transparent !important;
+  padding: 6px 25px;
+}
+.count-records p {
+  font-size: 15px;
+  font-weight: 500;
+  margin-top: 35px;
+}
+
+/* Slideshow container */
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 2px 4px;
+  color: #000;
+  font-weight: 500;
+  font-size: 15px;
+  transition: 0.6s ease;
+  border-radius: 4px;
+  user-select: none;
+  margin-right: 54px;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: white;
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.IntroRole .modal-dialog {
+  padding: 0px !important;
+  margin: 0px;
+}
+
+.IntroRole .modal {
+  padding: 0px !important;
+  margin: 0px;
+}
+
+.IntroRole .modal-content {
+  padding: 0px !important;
+  margin: 0px;
+}
+
+.IntroRole .modal-body {
+  padding: 0px !important;
+  margin: 0px;
+  height: auto;
+}
+
+.btn_screen {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  background-color: white;
+  padding: 10px 0px;
+}
+
+.pull_centerdiv {
+  text-align: center;
+}
+
+.IntroRole .btn_screen .prev,
+.IntroRole .btn_screen .next {
+  cursor: pointer;
+  position: unset;
+  width: auto;
+  color: #fff;
+  font-weight: 500;
+  font-size: 12px;
+  -webkit-transition: 0.6s ease;
+  transition: 0.6s ease;
+  border-radius: 3px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  /* margin-right: 54px; */
+  background-color: #61a734;
+  text-transform: uppercase;
+  padding: 10px 40px;
+  border: none;
+  margin-right: 15px;
+}
+
+.IntroRole .btn_screen .close_btn {
+  font-size: 12px;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 10px 40px;
+  border: 1px solid #fff;
+  background-color: transparent;
+  border-radius: 3px;
+  color: #61a734;
+}
+
+.imgResn {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+.intro-body {
+  position: relative;
+  -webkit-box-flex: 1;
+  flex: 1 1 auto;
+  padding: 1rem;
+  overflow-y: scroll;
+  height: 500px;
+}
+
+@-webkit-keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fade {
+  from {
+    opacity: 0.4;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev,
+  .next,
+  .text {
+    font-size: 11px;
+  }
+}
+
+.into-dialog {
+  max-width: 100% !important;
+}
+
+.intro-content {
+  width: 100% !important;
+  position: relative;
+  right: 0px !important;
+  height: 100%;
+}
+
+/* Slideshow container */
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 2px 4px;
+  color: #000;
+  font-weight: 500;
+  font-size: 15px;
+  transition: 0.6s ease;
+  border-radius: 4px;
+  user-select: none;
+  margin-right: 54px;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: white;
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.IntroRole .modal-dialog {
+  padding: 0px !important;
+  margin: 0px;
+}
+
+.IntroRole .modal {
+  padding: 0px !important;
+  margin: 0px;
+}
+
+.IntroRole .modal-content {
+  padding: 0px !important;
+  margin: 0px;
+}
+
+.IntroRole .modal-body {
+  padding: 0px !important;
+  margin: 0px;
+  height: auto;
+}
+
+.btn_screen {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  background-color: white;
+  padding: 10px 0px;
+}
+
+.pull_centerdiv {
+  text-align: center;
+}
+
+.IntroRole .btn_screen .prev,
+.IntroRole .btn_screen .next {
+  cursor: pointer;
+  position: unset;
+  width: auto;
+  color: #fff;
+  font-weight: 500;
+  font-size: 12px;
+  -webkit-transition: 0.6s ease;
+  transition: 0.6s ease;
+  border-radius: 3px;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  /* margin-right: 54px; */
+  background-color: #61a734;
+  text-transform: uppercase;
+  padding: 10px 40px;
+  border: none;
+  margin-right: 15px;
+}
+
+.IntroRole .btn_screen .close_btn {
+  font-size: 12px;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 10px 40px;
+  border: 1px solid #fff;
+  background-color: transparent;
+  border-radius: 3px;
+  color: #61a734;
+}
+
+.imgResn {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+/* Fading animation */
+.fade {
+  /* -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade */
+  transition: none !important;
+}
+
+.fade:not(.show) {
+  opacity: 1;
+}
+
+.intro-body {
+  position: relative;
+  -webkit-box-flex: 1;
+  flex: 1 1 auto;
+  padding: 1rem;
+  overflow-y: scroll;
+  height: 500px;
+}
+
+@-webkit-keyframes fade {
+  /* from {
+    opacity: 0.4;
+  }
+
+  to {
+    opacity: 1;
+  } */
+}
+
+@keyframes fade {
+  /* from {
+    opacity: 0.4;
+  }
+
+  to {
+    opacity: 1;
+  } */
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev,
+  .next,
+  .text {
+    font-size: 11px;
+  }
+}
+.intro-dialog {
+  max-width: 100% !important;
+}
+
+.intro-content {
+  width: 100% !important;
+  position: relative;
+  right: 0px !important;
+  height: 100%;
+}
+/*my cart css*/
+.cart-list img {
+  float: left;
+  min-height: 80px;
+  border-radius: 3px;
+}
+.cart-list-heading p {
+  font-size: 13px;
+  line-height: 20px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #657eae;
+  margin-bottom: 10px;
+}
+.cart-list p {
+  color: #8193b4;
+  font-size: 12px;
+}
+.item-proficiency-level {
+  color: #111d34;
+}
+.cart-item-list p {
+  color: #111d34;
+  font-weight: 500;
+  font-size: 12px;
+}
+.delete-icon {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  cursor: pointer;
+}
+.custom-control-label {
+  text-transform: none !important;
+  color: #8193b4;
+}
+.centent-right {
+  text-align: right;
+}
+.custom-radio .custom-control-label::before {
+  background-color: transparent !important;
+}
+.customRadio-btns {
+  padding-left: 7.5rem !important;
+}
+.products-title {
+  font-size: 20px;
+  margin-bottom: 20px;
+  font-weight: 600;
+  text-transform: capitalize;
+  margin: 20px 20px 10px 0px;
+}
+.input-fields {
+  margin-top: 10px;
+}
+.select-form-control {
+  width: 40%;
+  border-radius: 0px;
+}
+.img-wrap img {
+  max-height: 130px;
+  min-height: 130px;
+}
+
+.form-control:disabled,
+input:disabled {
+  background-color: #e9ecef !important;
+  opacity: 1;
+}
+
+/* .inline-forms::-webkit-input-placeholder {
+  color: red !important;
+} */
+img.x-mark {
+  width: 25px;
+}
+.d-grid {
+  display: grid;
+}
+.products .card {
+  border: 1px solid #fff;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+.products .card .card-body {
+  padding-bottom: 22px;
+}
+.products .card:hover {
+  border-color: #c6d0de !important;
+  transform: scale(1.02);
+}
+.product-price h4 {
+  margin-top: 10px;
+  margin-bottom: 4px;
+}
+.product-price .form-inline .btn {
+  max-width: 52px;
+  width: 100%;
+  height: calc(2.25rem + 2px);
+  text-align: center;
+  padding: 0px !important;
+  max-height: 36px;
+}
+.product-price .form-inline .btn img {
+  margin-left: auto !important;
+  max-width: 15px;
+}
+.row.single-product .product-img {
+  max-width: 380px;
+  margin-right: 30px;
+}
+.row.single-product .product-img img.maxi {
+  display: block;
+  width: 100%;
+  height: auto;
+  min-height: 340px;
+  max-height: 340px;
+  border-radius: 6px;
+}
+.row.single-product .product-details .page-title.pdct-Title {
+  color: #111d34;
+  font-size: 22px;
+  line-height: 29px;
+}
+.row.single-product .product-details .available-qty-sec span.avail-quantity {
+  opacity: 0.79;
+  font-size: 12px;
+  font-weight: 500;
+}
+.row.single-product .product-details select.form-control,
+.row.single-product .product-details input.form-control {
+  margin-right: 10px !important;
+  max-width: 150px;
+  width: 100% !important;
+}
+.row.single-product .product-details select.form-control.phase {
+  max-width: 120px;
+}
+.row.single-product .product-details select.form-control.qty,
+.row.single-product .product-details input.form-control.qty {
+  max-width: 90px;
+}
+.row.single-product .product-details button.btn {
+  max-width: 180px;
+  border-radius: 6px !important;
+}
+.custom-control-label::before,
+.custom-control-label::after {
+  width: 14px;
+  height: 14px;
+  top: 2px;
+}
+.card.cart-items .title {
+  font-size: 16px !important ;
+  color: #3c4e71;
+  line-height: 21px;
+  font-weight: 500 !important;
+  text-transform: none !important;
+}
+.card-cus-row {
+  margin-bottom: 35px;
+}
+.card-cus-row .card {
+  box-shadow: 0 1px 3px 0 #a6b7d5 !important;
+  border: none !important;
+  margin-bottom: 10px !important;
+}
+.card-cus-row .card-body {
+  padding: 10px 10px 22px;
+}
+.card-cus-row .row.m-0.heading {
+  padding: 10px;
+}
+.card-cus-row .card-body .cart-list .img-block {
+  max-width: 80px;
+  margin-right: 20px;
+}
+.card-cus-row .card-body .cart-list .img-block .imgtext-block p {
+  font-size: 11px;
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding-right: 20px;
+  display: inline-block;
+  padding: 4px 4px 4px 8px;
+}
+.card-cus-row .card-body .cart-list .details .name {
+  font-size: 16px;
+  color: #111d34;
+  line-height: 18px;
+  font-weight: 500;
+  margin-bottom: 6px;
+}
+.card-cus-row .card-body .cart-list .details .name span.minorder{
+  font-size: 11px !important;
+  color: #8193b4 !important;
+}
+.card-cus-row .card-body .cart-list .details .prof-level {
+  margin-bottom: 20px;
+  font-size: 13px;
+}
+.card-cus-row .card-body .cart-list .details .radio-btn-txt {
+  color: #8193b4;
+  font-size: 11px !important;
+  line-height: 12px;
+  margin-bottom: 0px;
+}
+.card-cus-row .card-body .cart-qty input.form-control,
+.card-cus-row .card-body .cart-qty select.form-control {
+  width: 100% !important;
+  max-width: 80px;
+  max-height: 40px !important;
+  padding: 8px;
+  font-size: 14px !important;
+  color: #111d34 !important;
+}
+.card-cus-row .card-body .cart-qty input.form-control {
+  max-width: 90px;
+}
+.card-cus-row .card-body .cart-price p.price {
+  margin: 0px;
+  display: block;
+  padding-top: 10px;
+  font-size: 14px;
+}
+.card-cus-row .card-body .cart-amount p.amount {
+  margin: 0px;
+  display: block;
+  padding-top: 10px;
+  font-size: 14px;
+}
+.cart-items .row.m-0.cart-footer {
+  padding: 0 10px;
+  border-bottom: 1px solid #ebeef4;
+}
+.cart-items .row.m-0.cart-footer .total-text p,
+.total-text p {
+  margin-bottom: 0px;
+  font-size: 13px;
+  color: #3c4e71;
+  text-transform: uppercase !important;
+}
+.cart-items .row.m-0.cart-footer .total-price h6 {
+  margin-bottom: 0px;
+  font-size: 18px;
+  color: #111d34;
+  text-transform: uppercase;
+}
+.cart-items .row.m-0.cart-cta button.btn {
+  width: 100%;
+  max-width: 210px;
+  border-radius: 3px !important;
+  font-size: 14px !important;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  padding: 10px !important;
+}
+.products .card-body .img-content {
+  padding-left: 10px;
+}
+.products .card-body .img-content form input,
+.products .card-body .img-content form select {
+  border: 1px solid #ecf0f7 !important;
+  border-radius: 2px;
+  padding-left: 12px;
+  color: #000;
+  width: 100% !important;
+  max-width: 80px !important;
+  max-height: 36px !important;
+}
+.products .card-body .img-content form select {
+  max-width: 80px !important;
+}
+.products .card-body .img-content form input::placeholder,
+.products .card-body .img-content form select:disabled {
+  color: #a6b7d5;
+}
+.products .card-body .img-content .product-name {
+  font-size: 16px !important;
+  color: #111d34 !important;
+  font-weight: 500 !important;
+  margin-top: 20px !important;
+  margin-bottom: 10px !important;
+}
+.products .card-body .img-content .product-size {
+  font-size: 14px !important;
+  color: #111d34 !important;
+  font-weight: 500 !important;
+  margin-top: 0px;
+}
+.products .card-body .img-content .product-min {
+  font-size: 11px !important;
+  color: #8193b4 !important;
+  margin-bottom: 15px !important;
+}
+.heading.items-related p.title {
+  margin: 20px 0 !important;
+  font-size: 20px;
+  line-height: 26px;
+  color: #111d34;
+}
+.mycart-template label.title {
+  text-transform: uppercase !important;
+}
+.view-products-template select.form-control {
+  cursor: pointer;
+}
+a.nav-link.active,
+a.nav-link.active,
+.nav-item.active a {
+  color: #006400;
+}
+.form-group .dropzone-wrapper .fileinput-button {
+  padding: 30px;
+}
+.dropzone-wrapper input[type="file"] {
+  padding: 60px;
+}
+.page-title {
+  font-size: 16px !important;
+  color: #111d34 !important;
+  font-weight: 500 !important;
+  line-height: 21px !important;
+}
+.content.product-details .breadcrumb {
+  color: #61a734 !important;
+  font-size: 12px !important;
+  line-height: 15px !important;
+  background-color: #ebeef4 !important;
+}
+.content.product-details .breadcrumb span {
+  color: #657eae !important;
+}
+.content.product-details .card.product-details-first .img-block {
+  max-width: 400px;
+  padding-right: 20px !important;
+}
+.content.product-details .card.product-details-first .img-block img {
+  border-radius: 6px;
+}
+.content.product-details
+  .card.product-details-first
+  .details-section
+  .page-title {
+  color: #111d34 !important;
+  font-size: 22px !important;
+  line-height: 30px !important;
+  margin: 15px 0px !important;
+}
+.content.product-details
+  .card.product-details-first
+  .details-section
+  .available-qty-sec {
+  margin: 0px !important;
+  margin-bottom: 35px !important;
+}
+.content.product-details
+  .card.product-details-first
+  .details-section
+  .available-qty-sec
+  span.avail-quantity {
+  opacity: 0.79;
+  background-color: #111d34 !important;
+  padding: 5px 15px !important;
+  border-radius: 3px !important;
+  margin: 0px !important;
+  color: #fff !important;
+  font-size: 12px !important;
+}
+.content.product-details
+  .card.product-details-first
+  .details-section
+  .product-details-sec.proficiency-level
+  select {
+  padding: 8px 12px !important;
+  font-size: 11px !important;
+  color: #111d34 !important;
+  line-height: 20px !important;
+  margin-right: 10px !important;
+  width: 100% !important;
+  max-width: 120px !important;
+  margin-bottom: 15px !important;
+}
+.content.product-details
+  .card.product-details-first
+  .details-section
+  .product-details-sec.proficiency-level
+  select.porflevel {
+  max-width: 150px !important;
+}
+.content.product-details
+  .card.product-details-first
+  .details-section
+  .product-details-sec.quantity
+  label {
+  margin-right: 20px !important;
+}
+.content.product-details
+  .card.product-details-first
+  .details-section
+  .product-details-sec.quantity
+  input {
+  max-width: 94px !important;
+  width: 100% !important;
+  margin-right: 5px !important;
+}
+.content.product-details
+  .card.product-details-first
+  .details-section
+  .product-details-sec.quantity
+  select {
+  max-width: 90px !important;
+  width: 100% !important;
+  margin: 0px !important;
+}
+.content.product-details .card.product-details-first .details-section .product-details-sec.quantity div.invalid-feedback{
+  padding-left: 80px;
+}
+.content.product-details
+  .card.product-details-first
+  .details-section
+  .packing-sec
+  label {
+  font-size: 13px !important;
+}
+.content.product-details
+  .card.product-details-first
+  .details-section
+  button.btn {
+  width: 100% !important;
+  max-width: 180px !important;
+  border-radius: 3px !important;
+}
+.content.product-details
+  .card.product-details-first
+  .details-section
+  button.btn:nth-of-type(1) {
+  margin-right: 30px !important;
+}
+.content.product-details .card.send-message h5 {
+  margin-top: 10px;
+  margin-bottom: 18px;
+  line-height: 12px;
+}
+.content.product-details .card.send-message button.btn {
+  font-size: 14px !important;
+  color: #fff;
+  border-radius: 3px !important;
+  width: 100% !important;
+  max-width: 130px;
+  margin-bottom: 20px;
+}
+.content.product-details .card-out-heading h4 {
+  margin-left: 0px !important;
+}
+.content.product-details textarea.form-control{
+  min-height: 120px !important;
+}
+.content.manageorders-template .card.search-container,
+.content.manageorders-template .card.orderlist {
+  border-radius: 6px;
+  box-shadow: none;
+  border: none;
+}
+.content.manageorders-template .card.search-container .card-body {
+  padding-top: 13px;
+  padding-bottom: 13px;
+}
+.content.manageorders-template .card.search-container .form-group {
+  margin: 0px;
+}
+.content.manageorders-template .card.search-container label {
+  color: #657eae;
+  font-size: 11px !important;
+  margin-bottom: 0px;
+  text-transform: uppercase;
+}
+.content.manageorders-template .card.search-container p.ordercount {
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #111d34;
+  font-weight: 500;
+  margin: 0px;
+}
+.content.manageorders-template .card.search-container input,
+.content.manageorders-template .card.search-container select {
+  color: #111d34;
+  font-size: 12px !important;
+  max-height: 32px;
+}
+.content.manageorders-template .card.search-container input::placeholder,
+.content.manageorders-template .card.search-container select * {
+  color: #8193b4;
+  font-size: 12px !important;
+}
+.content.manageorders-template .card.orderlist .card.order {
+  border-radius: 3px;
+  box-shadow: 0 1px 3px 0 #a6b7d5;
+  border: none;
+  margin-bottom: 10px !important;
+}
+.content.manageorders-template
+  .card.orderlist
+  .card.order
+  .table.manage-order
+  td {
+  border: none;
+  padding: 0px;
+  vertical-align: top;
+  min-width: 150px;
+}
+.content.manageorders-template
+  .card.orderlist
+  .card.order
+  .table.manage-order
+  td
+  p.subtitle,
+.content.manageorders-template
+  .card.orderlist
+  .card.order
+  .manage-order
+  p.subtitle {
+  margin-bottom: 5px;
+  font-size: 11px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #657eae;
+  line-height: normal;
+}
+.content.manageorders-template .card.orderlist .card.order .manage-order div.bottom{
+  position: absolute;
+  bottom: 0;
+}
+.content.manageorders-template
+  .card.orderlist
+  .card.order
+  .table.manage-order
+  td
+  p.data,
+.content.manageorders-template
+  .card.orderlist
+  .card.order
+  .manage-order
+  p.data {
+  font-size: 12px;
+  line-height: normal;
+  font-weight: 500;
+  color: #111d34;
+  margin-bottom: 0px;
+}
+.content.manageorders-template
+  .card.orderlist
+  .card.order
+  .table.manage-order
+  td
+  p.status,
+.content.manageorders-template
+  .card.orderlist
+  .card.order
+  .manage-order
+  p.status,
+p.status {
+  margin-bottom: 5px;
+  font-size: 11px;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: #fff;
+  line-height: normal;
+  padding: 4px 14px;
+  border-radius: 100px;
+  display: inline-block;
+  background-color: #000;
+}
+.content.manageorders-template
+  .card.orderlist
+  .card.order
+  .manage-order
+  p.status {
+  margin-bottom: 12px;
+}
+p.status.new {
+  color: #4880ff !important;
+  background-color: #c3d5ff !important;
+}
+p.status.accepted {
+  color: #37bc0c !important;
+  background-color: #c8fdbb !important;
+}
+p.status.confirmed,
+p.status.delivered {
+  color: #08b381 !important;
+  background-color: #c4faea !important;
+}
+p.status.packed {
+  color: #0948a6 !important;
+  background-color: #deebff !important;
+}
+p.status.transported {
+  color: #7956b9 !important;
+  background-color: #ebe0ff !important;
+}
+p.status.collected {
+  color: #506079 !important;
+  background-color: #f4f5f7 !important;
+}
+p.status.dispatched {
+  color: #3c4e71 !important;
+  background-color: #d0d8e6 !important;
+}
+p.status.cancelled {
+  color: #d95860 !important;
+  background-color: #ffe4d7 !important;
+}
+p.status.refunded {
+  color: #00b7ad !important;
+  background-color: #d4f7f0 !important;
+}
+.content.manageorders-template
+  .card.orderlist
+  .card.order
+  .table.manage-order
+  td
+  p.mb,
+.content.manageorders-template .card.orderlist .card.order p.mb {
+  margin-bottom: 15px !important;
+}
+.content.manageorders-template
+  .card.orderlist
+  .card.order
+  .table.manage-order
+  td
+  button.btn.view-details,
+.content.manageorders-template
+  .card.orderlist
+  .card.order
+  .manage-order
+  button.btn.view-details {
+  margin: 0px;
+  width: 100px;
+  text-align: center;
+  border-radius: 2px;
+  border: solid 1px #61a734;
+  color: #61a734;
+  font-size: 11px !important;
+  font-weight: 500;
+}
+.content.order-details .cart-list img {
+  max-width: 80px;
+  margin-right: 10px !important;
+  min-height: auto;
+}
+.content.order-details span.green-background.span-button {
+  background-color: #dbf5f9;
+}
+.content.order-details span.green-background.span-button .total-amount {
+  color: #08b381;
+}
+.content.order-details span.span-button {
+  max-width: 180px;
+}
+.content.manageorders-template a:hover{
+  text-decoration: none !important;
+}
+::ng-deep .cdk-overlay-pane{
+  display: inline-block !important;
+}
+::ng-deep .mat-tooltip{
+  margin: 0px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+  max-width: 250px !important;
+  width: fit-content !important;
+}
+.content.mycart-template .card-cus-row .card-body .cart-amount .quantity{
+  position: absolute;
+  bottom: 0;
+  max-width: 100%;
+  width: 100%;
+}
+.content.mycart-template .card-cus-row .card-body .cart-amount .quantity p,
+.content.mycart-template .card-cus-row .card-body .quantity p.status{
+  border-radius: 0px;
+  text-transform: none;
+  padding: 6px 10px;
+  margin: 0px;
+  width: 100% !important;
+  display: inline-block;
+  text-align: center;
+}
+.content.order-details p.breadcrumb span{
+  color: #9194a6!important;
+  text-transform: uppercase;
+}
+.content.order-details p.breadcrumb{
+  background-color: #ebeef4 !important;
+}
+div.roles-wrapper nav.navbar a.navbar-brand.roles-header-nav-brand img.logo-xs{
+    position: absolute;
+    top: 50%;
+    left: 0px;
+    transform: translateY(-50%);
+}
+div.roles-wrapper nav.navbar a.navbar-brand.roles-header-nav-brand{
+    position: relative;
+}
+div.roles-wrapper nav.navbar div#navbarSupportedContent{
+  margin-right: 3%;
+}
+.pop-up-body .uploaded-images-inn.inner-imgs.ng-star-inserted{
+  cursor: pointer;
+}
+@media (max-width: 1200px) {
+  label.text2lines {
+    min-height: 36px;
+  }
+  .products .card-body .img-content button.btn {
+    /* margin-bottom: 5px; */
+  }
+  .content.product-details .card.product-details-first .img-block {
+    max-width: 270px;
+    padding-right: 0px !important;
+  }
+  .content.product-details
+    .card.product-details-first
+    .details-section
+    .product-details-sec.quantity
+    label,
+  .content.product-details
+    .card.product-details-first
+    .details-section
+    .product-details-sec.quantity
+    div.forms-inline {
+    display: block !important;
+  }
+  .content.product-details
+    .card.product-details-first
+    .details-section
+    button.btn {
+    max-width: 160px !important;
+  }
+  .products .card-body .img-content label {
+    width: 100% !important;
+  }
+  .products .form-inline .inline-forms {
+    width: 35% !important;
+    margin-bottom: 0px;
+    padding: 6px 5px !important;
+  }
+  .content.product-details
+    .card.product-details-first
+    .details-section
+    .available-qty-sec,
+  .packing-sec {
+    margin-bottom: 20px !important;
+  }
+  .content.product-details
+    .card.product-details-first
+    .details-section
+    .product-details-sec.quantity
+    label {
+    margin-bottom: 8px !important;
+  }
+  .sidebar {
+    overflow-x: hidden;
+  }
+  .card-cus-row .card-body .cart-list .img-block {
+    max-width: 60px;
+    margin-right: 10px;
+  }
+  .cart-list img {
+    min-height: 60px;
+  }
+  .card-cus-row .card-body .cart-list .details .prof-level {
+    margin-bottom: 10px;
+  }
+  .card-cus-row .card-body .cart-list .details .prof-level span.ml-4 {
+    display: block;
+    margin-left: 0px !important;
+  }
+  .card-cus-row .card-body .cart-qty input.form-control,
+  .card-cus-row .card-body .cart-qty select.form-control {
+    max-width: 90px !important;
+  }
+  .content.mycart-template .row.m-0.cart-footer .total-price h6 {
+    font-size: 14px;
+  }
+  .content.manageorders-template .card.orderlist .card.order .manage-order div.bottom{
+    position: unset;
+  }
+  .content.product-details .card.product-details-first .details-section .product-details-sec.quantity div.invalid-feedback{
+    padding-left: 0px;
+  }
+  div.roles-wrapper nav.navbar div#navbarSupportedContent{
+    margin-right: 6%;
+  }
+  .content.order-details .img-block{
+    max-width: 160px !important;
+  }
+  .content.order-details .img-maxi{
+    max-width: 160px !important;
+    min-height: 160px !important;
+    max-height: 160px !important;
+  }
+  .content.order-details span.span-button{
+    max-width: 140px;
+  }
+  .content.order-details .span-btns button.btn{
+    max-width: 100px;
+    padding: 8px !important;
+  }
+  .content.order-details .estimated-delivery-sec div{
+    width: 50% !important ;
+  }
+  .content.order-details .track-order-btn{
+    padding: 14px !important;
+    height: auto !important;
+  }
+}
+@media (max-width: 991px) {
+  .manage-crops-tbl.manage-operators td:nth-of-type(1):before {
+    content: "Name";
+  }
+
+  .manage-crops-tbl.manage-operators td:nth-of-type(2):before {
+    content: "Mobile Number";
+  }
+
+  .manage-crops-tbl.manage-operators td:nth-of-type(3):before {
+    content: "Driving License Number";
+  }
+
+  .manage-crops-tbl.manage-operators td:nth-of-type(4):before {
+    content: "Driving License Image";
+  }
+
+  .manage-crops-tbl.manage-operators td:nth-of-type(5):before {
+    content: "Status";
+  }
+  .manage-crops-tbl.manage-operators td:before {
+    text-align: left;
+  }
+  label.text2lines {
+    min-height: 30px;
+  }
+  .products .card-body .img-content select {
+    max-width: 72px !important;
+    padding-left: 3px;
+    padding-right: 0px;
+  }
+  .products .card-body .img-content button.btn {
+    /* margin-bottom: 0px; */
+  }
+  .products .card {
+    margin-top: 0px !important;
+  }
+  .content.product-details
+    .card.product-details-first
+    .details-section
+    .product-details-sec.quantity
+    label,
+  .content.product-details
+    .card.product-details-first
+    .details-section
+    .product-details-sec.quantity
+    div.forms-inline {
+    display: block !important;
+  }
+
+  .content.product-details .card.product-details-first .img-block {
+    max-width: 300px;
+  }
+  .products .form-inline .inline-forms {
+    width: 35% !important;
+    margin-bottom: 0px;
+    padding: 5px !important;
+  }
+  .content.product-details
+    .card.product-details-first
+    .details-section
+    .page-title {
+    margin-top: 0px !important;
+  }
+  .header-home-page {
+    min-height: auto !important;
+  }
+  .vertical-tabs .nav-tabs .nav-link.active {
+    max-width: 100% !important;
+  }
+  .card-cus-row .card-body .cart-qty input.form-control {
+    margin-bottom: 10px;
+  }
+  .manage-crops-tbl.supportuser td:nth-of-type(1):before {
+    content: "Country";
+  }
+  .manage-crops-tbl.supportuser td:nth-of-type(2):before {
+    content: "Crop";
+  }
+  .manage-crops-tbl.supportuser td:nth-of-type(3):before {
+    content: "Commodity";
+  }
+  .manage-crops-tbl.supportuser td:nth-of-type(4):before {
+    content: "Crop Images";
+  }
+  .manage-crops-tbl.supportuser td:nth-of-type(5):before {
+    content: "Min Quantity";
+  }
+  .manage-crops-tbl.supportuser td:nth-of-type(6):before {
+    content: "Status";
+  }
+  .products .card-body .img-content form select{
+    max-width: 66px !important;
+  }
+  div.roles-wrapper nav.navbar div#navbarSupportedContent{
+    margin-right: 0%;
+  }
+}
+@media (max-width:768px) {
+  .content.product-details .card.product-details-first .img-block{
+    max-width: 270px !important;
+    padding-right: 20px !important;
+  }
+  .content.product-details
+    .card.product-details-first
+    .details-section
+    .page-title {
+    margin-top: 15px !important;
+    margin-bottom: 10px !important;
+  }
+  .content.product-details
+    .card.product-details-first
+    .details-section
+    .product-details-sec.quantity
+    div.forms-inline {
+    display: block !important;
+  }
+  .content.product-details .card.product-details-first .img-block img {
+    width: 100% !important;
+  }
+  .content.product-details .card.product-details-first .details-section {
+    padding: 0px !important;
+  }
+}
+@media (max-width: 575px) {
+  select.form-control.prof-level {
+    width: fit-content;
+  }
+  #menu li a,
+  .card-cus-row .card-body .cart-qty input.form-control {
+    margin-bottom: 0px !important;
+  }
+  .img-wrap img {
+    max-height: 200px;
+  }
+  .products .card-body .img-content select {
+    max-width: 80px !important;
+    padding: 6px 4px;
+  }
+  .content.product-details .card.product-details-first .img-block {
+    max-width: 100% !important;
+    padding-right: 0px !important;
+  }
+  .content.product-details
+    .card.product-details-first
+    .details-section
+    .available-qty-sec,
+  .packing-sec {
+    margin-bottom: 15px !important;
+  }
+  .content.product-details
+    .card.product-details-first
+    .details-section
+    .final-price-sec {
+    padding-left: 0px !important;
+    margin-top: 15px !important;
+  }
+  .content.product-details
+    .card.product-details-first
+    .details-section
+    .product-details-sec.quantity
+    label,
+  label {
+    margin-bottom: 5px !important;
+  }
+  .content.product-details .card.send-message h5 {
+    padding-left: 0px;
+    margin-bottom: 15px;
+  }
+  .content.product-details .card.send-message button.btn {
+    margin-top: 15px;
+    margin-bottom: 10px;
+  }
+  .products .col-lg-3.col-md-4.padd-right-5.padd-left-5 {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+  .content.product-details
+    .card.product-details-first
+    .details-section
+    button.btn:nth-of-type(1) {
+    margin-right: 15px !important;
+  }
+  .content.product-details
+    .card.product-details-first
+    .details-section
+    button.btn {
+    max-width: 150px !important;
+  }
+  .content.product-details .breadcrumb,
+  .content.product-details .card-out-heading h4 {
+    padding: 0px 5px !important;
+  }
+  .card-cus-row .card-body .cart-list .img-block {
+    max-width: 50px;
+  }
+  .cart-list img {
+    min-height: 50px;
+  }
+  .card-cus-row .card-body .cart-qty select.form-control {
+    max-width: 80px !important;
+  }
+  .content.mycart-template .card-cus-row .card-body .cart-qty,
+  .content.mycart-template .card-cus-row .card-body .cart-price,
+  .content.mycart-template .card-cus-row .card-body .cart-amount {
+    display: flex;
+    align-items: center;
+    padding-left: 0px !important;
+    margin-top: 15px;
+  }
+  .content.mycart-template .card-cus-row .card-body .cart-qty form.form-inline {
+    width: 100%;
+    display: block;
+    text-align: right;
+  }
+  .content.mycart-template .card-cus-row .card-body .cart-price p.price,
+  .content.mycart-template .card-cus-row .card-body .cart-amount p.amount {
+    width: 100%;
+    text-align: right;
+    margin-right: 4px !important;
+    padding-top: 0px !important;
+  }
+  .content.mycart-template .card-cus-row .card-body .cart-qty::before,
+  .content.mycart-template .card-cus-row .card-body .cart-price::before,
+  .content.mycart-template .card-cus-row .card-body .cart-amount::before {
+    width: 30%;
+    padding-right: 20px;
+    font-size: 13px;
+    line-height: 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #657eae;
+  }
+  .content.mycart-template .card-cus-row .card-body .cart-qty::before {
+    content: "QUANTITY";
+  }
+  .content.mycart-template .card-cus-row .card-body .cart-price::before {
+    content: "PRICE";
+  }
+  .content.mycart-template .card-cus-row .card-body .cart-amount::before {
+    content: "AMOUNT";
+  }
+  .content.mycart-template .card-cus-row .card-body .cart-amount{
+    position: static !important;
+  }
+  .content.mycart-template .card-cus-row .card-body .cart-amount p.amount .delete-icon{
+    top: 5px;
+    right: 5px;
+  }
+  .content.mycart-template .cart-footer {
+    text-align: right;
+  }
+  .content.mycart-template .cart-footer .total-text,
+  .content.mycart-template .cart-footer .total-price {
+    padding-right: 15px !important;
+    margin-bottom: 5px;
+    width: 40%;
+    line-height: normal;
+  }
+  .content.mycart-template .cart-footer .total-price {
+    width: 60% !important;
+  }
+  .content.mycart-template .cart-cta button.btn {
+    margin-right: 0px !important;
+    max-width: 48%;
+    width: 100% !important;
+    padding: 8px 5px !important;
+  }
+  .content.mycart-template .cart-cta button.btn.btn-outline-primary {
+    margin-right: 4% !important;
+  }
+  .p-toast{
+    width:20rem !important;
+  }
+  .content.order-details .item-proficiency-level{
+    display:block;
+    margin-bottom: 10px !important;
+  }
+  .content.order-details .img-maxi{
+    max-width: 144px !important;
+    min-height: 144px !important;
+    max-height: 144px !important;
+  }
+  .content.order-details .img-block{
+    padding-right: 0px !important;
+  }
+  .content.order-details .page-title{
+    margin:0px 0px 10px;
+  }
+  .content.order-details span.span-button{
+    max-width: 100%;
+    width: 50% !important;
+  }
+  .content.order-details .span-btns button.btn{
+    max-width: 100%;
+  }
+}
+@media (max-width: 460px) {
+  .manage-crops-tbl.manage-operators td:nth-of-type(3) {
+    min-height: 70px;
+  }
+}
+@media (max-width: 375px) {
+  .blocks {
+    margin-bottom: 90px;
+  }
+  .content.product-details .card.product-details-first .details-section button.btn{
+    max-width: 114px !important;
+    padding: 9px 20px !important;
+  }
+  .p-toast{
+    width:18rem !important;
+    left: 50%;
+    transform: translateX(-50%);
+    right: auto !important;
+  }
+}
+.back-arow i {
+  margin-right: 4px;
+}
+.back-arow {
+  margin-bottom: 5px;
+}

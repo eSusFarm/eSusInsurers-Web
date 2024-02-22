@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12.508" height="12.507" viewBox="0 0 12.508 12.507">
+    <defs>
+        <style>
+            .cls-2{fill:#3599ff}
+        </style>
+    </defs>
+    <g id="edit_icn" transform="translate(-371.001 -241.001)">
+        <g id="Group_22936" transform="translate(-711 -939)">
+            <g id="Group_22397" transform="translate(1082.001 1180.001)">
+                <path id="Path_27150" fill="#a1caf8" d="M11.125 8.684a.585.585 0 0 0-.586.586v4.684a.586.586 0 0 1-.586.586h-8.2a.586.586 0 0 1-.586-.586v-8.2a.586.586 0 0 1 .586-.586h4.688a.586.586 0 0 0 0-1.168H1.757A1.759 1.759 0 0 0 0 5.757v8.2a1.759 1.759 0 0 0 1.757 1.753h8.2a1.759 1.759 0 0 0 1.757-1.757V9.27a.585.585 0 0 0-.589-.586z" transform="translate(0 -3.203)"/>
+                <g id="Group_22396" transform="translate(3.445)">
+                    <path id="Path_27151" d="M9.022 7.81a.3.3 0 0 0-.08.149l-.414 2.07a.293.293 0 0 0 .287.35.277.277 0 0 0 .057-.006l2.07-.414a.291.291 0 0 0 .15-.08l4.633-4.633-2.07-2.07z" class="cls-2" transform="translate(-8.522 -1.317)"/>
+                    <path id="Path_27152" d="M21.229.429a1.465 1.465 0 0 0-2.07 0l-.81.81 2.07 2.07.81-.81a1.464 1.464 0 0 0 0-2.07z" class="cls-2" transform="translate(-12.595 -.001)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

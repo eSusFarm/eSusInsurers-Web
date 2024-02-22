@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 13 13">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y1="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#fd3a84"/>
+            <stop offset="1" stop-color="#ffa68d"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-2" x1=".5" x2=".5" y1="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#ffc2cc"/>
+            <stop offset="1" stop-color="#fff2f4"/>
+        </linearGradient>
+        <style>
+            .cls-2{fill:url(#linear-gradient-2)}
+        </style>
+    </defs>
+    <g id="Group_632" transform="translate(-819 -328)">
+        <path id="Path_399" fill="url(#linear-gradient)" d="M6.5 13A6.5 6.5 0 1 1 13 6.5 6.493 6.493 0 0 1 6.5 13z" transform="translate(819 328)"/>
+        <g id="Error" transform="translate(824.353 330.294)">
+            <g id="Group_630">
+                <path id="Path_401" d="M212.072 96A1.073 1.073 0 0 1 211 94.929v-2.858a1.071 1.071 0 1 1 2.143 0v2.857A1.073 1.073 0 0 1 212.072 96z" class="cls-2" transform="translate(-211 -91)"/>
+            </g>
+            <g id="Group_631" transform="translate(0 5.715)">
+                <path id="Path_402" d="M212.072 333.143a1.072 1.072 0 1 1 1.071-1.072 1.073 1.073 0 0 1-1.071 1.072z" class="cls-2" transform="translate(-211 -331)"/>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="dashboard" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <style>
+            .cls-1{fill:#3c4e71}
+        </style>
+    </defs>
+    <path id="Path_317" d="M1.167 12.667h5A1.168 1.168 0 0 0 7.333 11.5V9.167A1.168 1.168 0 0 0 6.167 8h-5A1.168 1.168 0 0 0 0 9.167V11.5a1.168 1.168 0 0 0 1.167 1.167z" class="cls-1" transform="translate(0 -2.667)"/>
+    <path id="Path_318" d="M1.167 21.667h5A1.168 1.168 0 0 0 7.333 20.5v-2.333A1.168 1.168 0 0 0 6.167 17h-5A1.168 1.168 0 0 0 0 18.167V20.5a1.168 1.168 0 0 0 1.167 1.167z" class="cls-1" transform="translate(0 -5.667)"/>
+    <path id="Path_319" d="M19.167 8h-5A1.168 1.168 0 0 0 13 9.167V17.5a1.168 1.168 0 0 0 1.167 1.167h5a1.168 1.168 0 0 0 1.166-1.167V9.167A1.168 1.168 0 0 0 19.167 8z" class="cls-1" transform="translate(-4.333 -2.667)"/>
+    <path id="Path_320" d="M17.5 0H9.167A1.168 1.168 0 0 0 8 1.167v1.666A1.168 1.168 0 0 0 9.167 4H17.5a1.168 1.168 0 0 0 1.167-1.167V1.167A1.168 1.168 0 0 0 17.5 0z" class="cls-1" transform="translate(-2.667)"/>
+    <circle id="Ellipse_271" cx="2" cy="2" r="2" class="cls-1"/>
+</svg>

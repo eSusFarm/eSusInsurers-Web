@@ -1,0 +1,55 @@
+<nav  class="navbar navbar-expand-lg navbar-light header-main fixed-top roles-header">
+    <div class="container">
+        <a class="navbar-brand roles-header-nav-brand" href="#"><img src="../../../assets/logo.png" alt="logo"
+                class="default-logo logo-xs"> <img src="../../../assets/logo.png" alt="logo"
+                class="sticky-logo logo-xs"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="eSusToggle">
+                <svg xmlns="http://www.w3.org/2000/svg" width="28.583" height="17.213" viewBox="0 0 28.583 17.213">
+                    <g id="Group_20600" data-name="Group 20600" transform="translate(-147.5 -31.5)">
+                        <path id="Shape" d="M0,0H25.583" transform="translate(149 40.106)" fill="none" stroke="#040e1c"
+                            stroke-linecap="square" stroke-miterlimit="10" stroke-width="3" />
+                        <path id="Shape-2" data-name="Shape" d="M0,0H15.634" transform="translate(158.949 33)"
+                            fill="none" stroke="#040e1c" stroke-linecap="square" stroke-miterlimit="10"
+                            stroke-width="3" />
+                        <path id="Shape-3" data-name="Shape" d="M0,0H15.634" transform="translate(149 47.213)"
+                            fill="none" stroke="#040e1c" stroke-linecap="square" stroke-miterlimit="10"
+                            stroke-width="3" />
+                    </g>
+                </svg>
+            </span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div class="nav-item1 role-header">
+                <div class="customer-support navbar-brand roles-header-nav-brand">
+
+                    <span class="call-now-text">
+                        <p class="cinfo rcinfo">Register now as Farmer on</p>
+                        <p class="cnumber rcnumber">Eswatini Mobile - *700#</p>
+                        <p class="cnumber rcnumber">MTN Eswatini - *117#</p>
+                        <p class="cnumber rcnumber">MTN South Africa - *134*311# </p>
+                        <p class="cnumber rcnumber">Airtel Uganda - *222#</p>
+                    </span>
+                    <span class="phone-icon padding-pn-icn"><img src="../../../assets/phone-icon-blck.png"
+                            alt="phone-icon" class="default-logo default-logoblack"> <img
+                            src="../../../assets/phone-icon-blck.png" alt="phone-icon"
+                            class="sticky-logo sticky-logowhite"> </span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="cntry-dropdown">
+        <span data-flag="true" data-toggle="modal" #openCountry data-target="#country-popup"
+            data-backdrop="static" data-keyboard="false">
+            {{country ? country : 'Select Country'}}
+        </span>
+        <div class="dropdown displaycountry">
+            <select name="country" class="form-control" (ngModelChange)="countryChanged($event)">
+                <option value="South Africa">South Africa</option>
+                <option value="Eswatini">Eswatini</option>
+                <option value="Uganda">Uganda</option>
+            </select>
+        </div>
+    </div>
+</nav>
