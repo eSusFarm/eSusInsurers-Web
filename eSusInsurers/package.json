@@ -6,9 +6,10 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "qa": "ng build --watch --configuration qa",
-    "stage": "ng build --watch --configuration stage",
-    "prod": "ng build --watch --configuration prod",
+    "prod-build-dev": "ng build --prod --configuration=development --build-optimizer",
+    "prod-build-qa": "ng build --prod --configuration=qa --build-optimizer",
+    "prod-build-stage": "ng build --prod --configuration=stage --build-optimizer",
+    "prod-build-prod": "ng build --prod --configuration=production --build-optimizer",
     "test": "ng test",
     "serve:ssr:eSusInsurers": "node dist/e-sus-insurers/server/server.mjs",
     "lint": "ng lint"
