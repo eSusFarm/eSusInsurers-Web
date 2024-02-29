@@ -1,7 +1,7 @@
-﻿import { nameof } from '../nameof';
+﻿
 import { CamelCasePipe } from 'app/core/pipes/camel-case.pipe';
 
-describe(nameof(CamelCasePipe), () => {
+describe((CamelCasePipe), () => {
   let sut: CamelCasePipe;
 
   beforeEach(() => {
