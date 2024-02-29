@@ -1,5 +1,5 @@
 ﻿
-import { CamelCasePipe } from 'app/core/pipes/camel-case.pipe';
+import { CamelCasePipe } from './camel-case.pipe';
 
 describe((CamelCasePipe), () => {
   let sut: CamelCasePipe;
