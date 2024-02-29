@@ -25,7 +25,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm install
-    - run: npm run prod-build-qa
+    - run: npm run build
     - run: npm test
       env:
         CI: true
@@ -44,7 +44,7 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm install
-    - run: npm run prod-build-qa
+    - run: npm run build
     - run: npm test
       env:
         CI: true

@@ -6,10 +6,6 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "prod-build-dev": "ng build --configuration=development",
-    "prod-build-qa": "ng build",
-    "prod-build-stage": "ng build --configuration=stage",
-    "prod-build-prod": "ng build --configuration=production",
     "test": "ng test",
     "serve:ssr:eSusInsurers": "node dist/e-sus-insurers/server/server.mjs",
     "lint": "ng lint"
