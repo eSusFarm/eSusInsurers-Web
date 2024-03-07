@@ -15,7 +15,7 @@ TODO: Guide users through getting your code up and running on their own system. 
 ## Installation
 
 ### Clone this repository
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/eSusFarm/eSusInsurers-Web.git)
+git clone [https://github.com/eSusFarm/eSusInsurers-Web.git](https://github.com/eSusFarm/eSusInsurers-Web.git)
 
 ### Navigate to the project directory
 cd eSusInsurers-Web
