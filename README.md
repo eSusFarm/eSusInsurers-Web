@@ -1,8 +1,9 @@
 # Introduction 
 
+![image](https://github.com/eSusFarm/eSusInsurers-Web/assets/161411994/19958557-3314-471c-8f83-7fba96c346f7)
 
 # Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
+Guide users through getting your code up and running on their own system. In this section you can talk about:
 1.	Project Setup
 2.	Development server
 3.	Running tests
