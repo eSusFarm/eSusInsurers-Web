@@ -44,7 +44,7 @@ Angular promotes a modular approach where you break down your application into r
 ## Two-way data binding 
 This two-way street automatically synchronizes data between your component's model and the view template. Any changes made to one are reflected in the other, simplifying data flow management.
 
-##TypeScript support
+## TypeScript support
 Angular leverages TypeScript, a superset of JavaScript, that adds static typing for enhanced code reliability and tooling support.
 
 ## Dependency Injection (DI)
@@ -64,7 +64,7 @@ Angular empowers you to create PWAs, which are web applications that offer app-l
 
 # Version supported
 
-Angular 17
+#### Angular 17
 Node.js 18.13.0 or later
 TypeScript 5.2
 Visual Studio Code
