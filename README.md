@@ -1,4 +1,17 @@
-# Front Architecture 
+# eSusfarm Crop Insurance Management with Etherisc Blockchain Integration and AIC
+
+1. eSusfarm will receive crop monitoring index insurance details data from AIC through an API, ensuring seamless integration of information.
+2. Leveraging the Etherisc blockchain API, eSusfarm will establish communication with the Etherisc blockchain (https://github.com/etherisc/esusfarm), facilitating secure and transparent data transactions.
+3. Upon receiving the data, eSusfarm will post it onto the Etherisc blockchain, ensuring the integrity and immutability of the information.
+4. All vital details regarding insurance policies, claim requests, and updates will be securely stored on the Etherisc blockchain, enhancing data security and accessibility.
+5. eSusfarm's user-friendly web application will serve as an interface for AIC, empowering the insurance company to efficiently register insurers and manage crop insurance information.
+6. Farmers will initiate insurance claims and requests for crop coverage through the eSusfarm platform, utilizing the convenient USSD interface for accessibility and ease of use.
+7. AIC will exercise its authority to review, approve, or reject insurance claims and requests through the intuitive eSusfarm web platform, streamlining the decision-making process.
+8. Every action undertaken by AIC concerning insurance claims and requests will be meticulously recorded on the Etherisc blockchain, ensuring transparency and accountability.
+9. eSusfarm will continuously communicate with the Etherisc blockchain via its dedicated API, enabling real-time updates and synchronization of data for all stakeholders involved.
+10. Through this robust and interconnected ecosystem, eSusfarm, AIC, and farmers will collectively benefit from enhanced efficiency, transparency, and security in managing crop insurance processes.
+    
+# Architecture 
 
 ![image](https://github.com/eSusFarm/eSusInsurers-Web/assets/161411994/19958557-3314-471c-8f83-7fba96c346f7)
 
@@ -7,8 +20,7 @@ Guide users through getting your code up and running on their own system. In thi
 1.	Project Setup
 2.	Development server
 3.	Running tests
-4.	Angular Features
-5.	Version supported
+4.	Version supported
    
 # Project Setup
 
@@ -38,31 +50,6 @@ Guide users through getting your code up and running on their own system. In thi
 # Running tests 
 - Unit tests can be run using the following command:
 - ng test
-
-# Angular Features
-## Component-based architecture 
-Angular promotes a modular approach where you break down your application into reusable components. This fosters code organization, maintainability, and faster development.
-
-## Two-way data binding 
-This two-way street automatically synchronizes data between your component's model and the view template. Any changes made to one are reflected in the other, simplifying data flow management.
-
-## TypeScript support
-Angular leverages TypeScript, a superset of JavaScript, that adds static typing for enhanced code reliability and tooling support.
-
-## Dependency Injection (DI)
-DI provides a flexible mechanism for managing dependencies between components and services. It promotes loose coupling and testability in your application.
-
-## Routing
-Angular offers built-in routing capabilities to define navigation paths within your application. This enables users to seamlessly move between different views or components.
-
-## Angular CLI (Command Line Interface)
-The CLI acts as a powerful tool for scaffolding new projects, generating components, and running development and build commands. It streamlines the development workflow.
-
-## Rich ecosystem
-Angular enjoys a vast ecosystem of third-party libraries and extensions that cater to diverse functionalities. This allows developers to integrate pre-built components and features without reinventing the wheel.
-
-## Progressive Web App (PWA) support
-Angular empowers you to create PWAs, which are web applications that offer app-like functionality and can work offline. This enhances user experience and engagement.
 
 # Version supported
 
