@@ -37,5 +37,37 @@ ng build
 Unit tests can be run using the following command:
 ng test
 
+# Angular Features
+## Component-based architecture 
+Angular promotes a modular approach where you break down your application into reusable components. This fosters code organization, maintainability, and faster development.
+
+## Two-way data binding 
+This two-way street automatically synchronizes data between your component's model and the view template. Any changes made to one are reflected in the other, simplifying data flow management.
+
+##TypeScript support
+Angular leverages TypeScript, a superset of JavaScript, that adds static typing for enhanced code reliability and tooling support.
+
+## Dependency Injection (DI)
+DI provides a flexible mechanism for managing dependencies between components and services. It promotes loose coupling and testability in your application.
+
+## Routing
+Angular offers built-in routing capabilities to define navigation paths within your application. This enables users to seamlessly move between different views or components.
+
+## Angular CLI (Command Line Interface)
+The CLI acts as a powerful tool for scaffolding new projects, generating components, and running development and build commands. It streamlines the development workflow.
+
+## Rich ecosystem
+Angular enjoys a vast ecosystem of third-party libraries and extensions that cater to diverse functionalities. This allows developers to integrate pre-built components and features without reinventing the wheel.
+
+## Progressive Web App (PWA) support
+Angular empowers you to create PWAs, which are web applications that offer app-like functionality and can work offline. This enhances user experience and engagement.
+
+# Version supported
+
+Angular 17
+Node.js 18.13.0 or later
+TypeScript 5.2
+Visual Studio Code
+
 # Contribute
 
