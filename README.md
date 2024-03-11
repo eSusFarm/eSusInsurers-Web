@@ -7,35 +7,37 @@ Guide users through getting your code up and running on their own system. In thi
 1.	Project Setup
 2.	Development server
 3.	Running tests
+4.	Angular Features
+5.	Version supported
    
 # Project Setup
 
 ## Prerequisites
- Node.js and npm (or yarn) installed on your system. You can check by running node -v and npm -v (or yarn -v) in your terminal.
+ - Node.js and npm (or yarn) installed on your system. You can check by running node -v and npm -v (or yarn -v) in your terminal.
  
 ## Installation
 
 ### Clone this repository
-git clone [https://github.com/eSusFarm/eSusInsurers-Web.git](https://github.com/eSusFarm/eSusInsurers-Web.git)
+- git clone [https://github.com/eSusFarm/eSusInsurers-Web.git](https://github.com/eSusFarm/eSusInsurers-Web.git)
 
 ### Navigate to the project directory
-cd eSusInsurers-Web
+- cd eSusInsurers-Web
 
 ### Install dependencies
-npm install
+- npm install
 
 ### Build the project
-ng build
+- ng build
 
 # Development server
 
 ## Start the development server
- ng serve 
- This will start the server and open your application in the default browser, usually at http://localhost:4200/.
+ - ng serve 
+ - This will start the server and open your application in the default browser, usually at http://localhost:4200/.
  
 # Running tests 
-Unit tests can be run using the following command:
-ng test
+- Unit tests can be run using the following command:
+- ng test
 
 # Angular Features
 ## Component-based architecture 
@@ -64,10 +66,9 @@ Angular empowers you to create PWAs, which are web applications that offer app-l
 
 # Version supported
 
-#### Angular 17
-Node.js 18.13.0 or later
-TypeScript 5.2
-Visual Studio Code
+- Angular 17
+- Node.js 18.13.0 or later
+- TypeScript 5.2
+- Visual Studio Code
 
-# Contribute
 
