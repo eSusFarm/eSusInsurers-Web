@@ -1,4 +1,4 @@
-# Introduction 
+# Front Architecture 
 
 ![image](https://github.com/eSusFarm/eSusInsurers-Web/assets/161411994/19958557-3314-471c-8f83-7fba96c346f7)
 
