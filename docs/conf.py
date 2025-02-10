@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "eSusInsure API"
+project = "eSusInsure Web"
 copyright = "2025, eSusInsure"
 author = "eSusInsure"
 
