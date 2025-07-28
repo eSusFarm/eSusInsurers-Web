@@ -1,11 +1,11 @@
 import { nameof } from '../models/nameof';
-import {DashIfFalsyPipe} from './dash-if-falsy.pipe';
+import {DashIfNullUndefinedPipe} from './dash-if-null-undefined.pipe';
 
-describe(nameof(DashIfFalsyPipe), ()=>{
-    let sut: DashIfFalsyPipe;
+describe(nameof(DashIfNullUndefinedPipe), ()=>{
+    let sut: DashIfNullUndefinedPipe;
 
     beforeEach(()=>{
-        sut = new DashIfFalsyPipe();
+        sut = new DashIfNullUndefinedPipe();
         window.onbeforeunload = () => "Oh no!"; // Prevent page reloads during tests
     });
 
@@ -14,7 +14,7 @@ describe(nameof(DashIfFalsyPipe), ()=>{
   });
 
   it('should return dashes', () => {
-   const str=false;
+   const str=null;
     expect(sut.transform(str)).toEqual('--');
   });
     
