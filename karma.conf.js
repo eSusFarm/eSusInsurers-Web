@@ -4,29 +4,25 @@
 module.exports = function (config) {
   config.set({
     basePath: '',
-    frameworks: ['jasmine', '@angular-devkit/build-angular'],
+    frameworks: ['jasmine','@angular-devkit/build-angular'],
     plugins: [
+      require('karma-coveralls'),
+      require('karma-coverage'),
       require('karma-jasmine'),
       require('karma-chrome-launcher'),
       require('karma-jasmine-html-reporter'),
-      require('karma-coverage-istanbul-reporter'),
       require('@angular-devkit/build-angular/plugins/karma')
     ],
     client: {
       clearContext: false // leave Jasmine Spec Runner output visible in browser
     },
-    coverageIstanbulReporter: {
-      dir: require('path').join(__dirname, '../coverage'),
-      reports: ['html', 'lcovonly'],
-      fixWebpackSourcePaths: true
-    },
-    reporters: ['progress', 'kjhtml'],
+    reporters: ['progress', 'kjhtml', 'coverage', 'coveralls'],
     port: 9876,
     colors: true,
     logLevel: config.LOG_INFO,
     autoWatch: true,
     browsers: ['Chrome'],
-    singleRun: false,
+    singleRun: true,
     restartOnFileChange: true,
     restartOnFileChange: true,
     customLaunchers: {
@@ -34,6 +30,16 @@ module.exports = function (config) {
         base: 'ChromeHeadless',
         flags: ['--no-sandbox', '--disable-gpu']
       }
-    }
+    },
+    coverageReporter: {
+      type: 'lcovonly', // lcov or lcovonly are required for generating lcov.info files
+      dir: 'coverage/',
+      subdir: '.',
+    },
+    karmaCoveralls: {
+      // ... karmaCoveralls options (e.g., serviceName, repoToken, etc.)
+      serviceName: 'github', // e.g., 'github', 'gitlab', 'bitbucket'
+      repoToken: '8akK865BNlAkiccML56tQs363pYFuXt3a', // Get this from Coveralls.io
+    },
   });
 };

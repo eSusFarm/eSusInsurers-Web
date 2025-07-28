@@ -6,6 +6,7 @@ describe(nameof(CamelCasePipe), () => {
 
   beforeEach(() => {
     sut = new CamelCasePipe();
+    window.onbeforeunload = () => "Oh no!"; // Prevent page reloads during tests
   });
 
   it('should create an instance', () => {
@@ -45,5 +46,10 @@ describe(nameof(CamelCasePipe), () => {
   it('should returns camelCase', () => {
     const str = `random DummyText`;
     expect(sut.transform(str)).toEqual('randomDummyText');
+  });
+
+  it('should returns value', () => {
+    const number = 1;
+    expect(sut.transform(number)).toEqual(1);
   });
 });
