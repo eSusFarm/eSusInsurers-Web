@@ -6,7 +6,7 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "--karma-config karma.conf.js --browsers Chrome_with_debugging",
+    "test": "karma start",
     "serve:ssr:eSusInsurers": "node dist/e-sus-insurers/server/server.mjs",
     "lint": "ng lint"
   },
