@@ -6,7 +6,7 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test --watch=false --browsers=ChromeHeadlessPuppeteer",
+    "test": "--karma-config karma.conf.js --browsers Chrome_with_debugging",
     "serve:ssr:eSusInsurers": "node dist/e-sus-insurers/server/server.mjs",
     "lint": "ng lint"
   },
@@ -54,13 +54,18 @@
     "@types/node": "^18.18.0",
     "@typescript-eslint/eslint-plugin": "6.13.1",
     "@typescript-eslint/parser": "6.13.1",
+    "coveralls": "^3.1.1",
     "eslint": "^8.54.0",
     "jasmine-core": "~5.1.0",
-    "karma": "~6.4.0",
+    "jscoverage": "^0.6.0",
+    "karma": "^6.4.4",
     "karma-chrome-launcher": "~3.2.0",
     "karma-coverage": "~2.2.0",
-    "karma-jasmine": "~5.1.0",
+    "karma-coveralls": "^2.1.0",
+    "karma-jasmine": "^5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
+    "nodeunit": "^0.11.3",
+    "nyc": "^17.1.0",
     "typescript": "~5.2.2"
   }
 }
